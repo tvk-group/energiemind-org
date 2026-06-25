@@ -54,6 +54,12 @@ npm run build
 npm start
 ```
 
+## Deploy to Vercel
+
+**Important:** If you see a Vercel `404: NOT_FOUND` (not the Next.js site), custom domains are not linked to the project. See [DEPLOYMENT.md](DEPLOYMENT.md) for the fix.
+
+Add both `energiemind.org` and `www.energiemind.org` in Vercel → Project Settings → Domains.
+
 ## Tech Stack
 
 - [Next.js](https://nextjs.org/) 16 (App Router)
