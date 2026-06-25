@@ -1,0 +1,376 @@
+{
+  "meta": {
+    "title": "Energiemind — Keberlanjutan, Riset & Misi Publik",
+    "description": "Situs web misi publik untuk pengurangan pemborosan energi, pemanfaatan ulang panas penambangan, riset keberlanjutan, dan sumber daya pendidikan terbuka.",
+    "keywords": [
+      "keberlanjutan",
+      "pengurangan pemborosan energi",
+      "pemanfaatan ulang panas penambangan",
+      "riset",
+      "pendidikan",
+      "iklim",
+      "energi terbarukan"
+    ],
+    "ogTitle": "Energiemind — Keberlanjutan, Riset & Misi Publik",
+    "ogDescription": "Mendorong efisiensi energi, pemanfaatan ulang panas penambangan, dan riset keberlanjutan terbuka demi kepentingan publik.",
+    "twitterTitle": "Energiemind — Keberlanjutan, Riset & Misi Publik",
+    "twitterDescription": "Riset dan pendidikan terbuka tentang pengurangan pemborosan energi, pemanfaatan ulang panas penambangan, dan keberlanjutan."
+  },
+  "nav": {
+    "mission": "Misi",
+    "research": "Riset",
+    "miningHeatReuse": "Pemanfaatan Ulang Panas Penambangan",
+    "energyWasteReduction": "Pengurangan Pemborosan Energi",
+    "sustainabilityReports": "Laporan Keberlanjutan",
+    "education": "Pendidikan",
+    "publicResources": "Sumber Daya Publik",
+    "contact": "Kontak",
+    "toggleMenu": "Buka/tutup menu navigasi",
+    "mainNav": "Navigasi utama",
+    "language": "Bahasa",
+    "selectLanguage": "Pilih bahasa"
+  },
+  "hero": {
+    "badge": "Misi Publik · Riset · Keberlanjutan",
+    "title": "Mengubah energi terbuang menjadi pengetahuan untuk masa depan berkelanjutan",
+    "description": "Energiemind adalah inisiatif riset dan pendidikan terbuka yang berfokus pada pengurangan pemborosan energi, pemanfaatan ulang panas penambangan, dan dokumentasi keberlanjutan publik. Kami membagikan temuan secara gratis — tanpa penjualan, tanpa prapenjualan, tanpa agenda komersial.",
+    "ctaMission": "Misi Kami",
+    "ctaResources": "Jelajahi Sumber Daya"
+  },
+  "mission": {
+    "title": "Misi",
+    "subtitle": "Kami hadir untuk meningkatkan pemahaman publik tentang sistem energi dan mempercepat transisi menuju ekonomi energi berkelanjutan tanpa pemborosan.",
+    "p1": "Energiemind didirikan atas keyakinan sederhana: energi yang kita buang hari ini adalah pengetahuan yang gagal kita bagikan besok. Di seluruh proses industri, pusat data, dan operasi penambangan cryptocurrency, sejumlah besar energi termal dilepaskan ke atmosfer — energi yang dapat menghangatkan rumah, rumah kaca, dan fasilitas komunitas.",
+    "p2": "Misi kami adalah mendokumentasikan, meneliti, dan mendidik. Kami menerbitkan temuan terbuka, berkolaborasi dengan institusi akademik, dan menyediakan sumber daya gratis bagi pembuat kebijakan, insinyur, dan warga yang ingin memahami bagaimana sistem energi dapat bekerja lebih baik untuk manusia dan planet.",
+    "principlesTitle": "Prinsip Inti",
+    "principles": [
+      "Ilmu terbuka — semua riset diterbitkan untuk akses publik",
+      "Berbasis bukti — data dan metodologi terdokumentasi sepenuhnya",
+      "Komunitas pertama — solusi dirancang untuk manfaat lokal",
+      "Non-komersial — tanpa produk, prapenjualan, atau saluran penjualan"
+    ]
+  },
+  "research": {
+    "title": "Riset",
+    "subtitle": "Studi berorientasi rekan sejawat tentang efisiensi energi, sistem pemulihan termal, dan dampak lingkungan penggunaan energi industri.",
+    "footnote": "Semua riset yang diterbitkan tersedia di bawah lisensi terbuka di bagian",
+    "footnoteLink": "Sumber Daya Publik",
+    "footnoteEnd": ". Kami menyambut kolaborasi akademik dan replikasi independen.",
+    "cards": [
+      {
+        "tag": "active",
+        "title": "Studi Kelayakan Pemulihan Termal",
+        "description": "Analisis kuantitatif potensi penangkapan panas di infrastruktur penambangan, manufaktur, dan komputasi. Termasuk model biaya-manfaat dan studi kasus regional."
+      },
+      {
+        "tag": "active",
+        "title": "Pemetaan Pemborosan Energi",
+        "description": "Riset geospasial yang mengidentifikasi hotspot pemborosan panas industri dan mencocokkannya dengan permintaan termal terdekat — pemanasan distrik, pertanian, dan akuakultur."
+      },
+      {
+        "tag": "published",
+        "title": "Analisis Karbon Siklus Hidup",
+        "description": "Penilaian siklus hidup penuh yang membandingkan pemanasan konvensional dengan panas industri yang dipulihkan, termasuk karbon tertanam dan faktor penggantian jaringan."
+      },
+      {
+        "tag": "active",
+        "title": "Tinjauan Kerangka Kebijakan",
+        "description": "Analisis komparatif kebijakan nasional dan regional yang memungkinkan atau menghambat pemulihan panas industri, dengan rekomendasi untuk administrator publik."
+      },
+      {
+        "tag": "planning",
+        "title": "Model Integrasi Komunitas",
+        "description": "Riset sosioekonomi tentang bagaimana proyek panas yang dipulihkan dapat distrukturkan untuk menguntungkan komunitas lokal secara adil dan transparan."
+      },
+      {
+        "tag": "published",
+        "title": "Standar Data Terbuka",
+        "description": "Pengembangan format data terstandarisasi untuk pelaporan pemborosan energi dan metrik pemulihan panas, memungkinkan perbandingan dan replikasi antar studi."
+      }
+    ]
+  },
+  "miningHeatReuse": {
+    "title": "Pemanfaatan Ulang Panas Penambangan",
+    "subtitle": "Operasi penambangan cryptocurrency dan pusat data menghasilkan panas buangan yang substansial. Kami meneliti bagaimana output termal ini dapat dialihkan untuk penggunaan produktif.",
+    "p1": "Fasilitas proof-of-work dan komputasi berkinerja tinggi menghasilkan panas sebagai produk sampingan dari komputasi berkelanjutan. Alih-alih membuang energi ini ke atmosfer, pemanfaatan ulang panas penambangan menangkapnya untuk jaringan pemanasan distrik, pertanian rumah kaca, pemanasan air, dan proses industri.",
+    "p2": "Energiemind mendokumentasikan implementasi dunia nyata, mengukur peningkatan efisiensi, dan menerbitkan panduan teknis bagi operator dan pemerintah daerah yang mempertimbangkan kemitraan pemulihan panas. Pekerjaan kami menekankan transparansi tentang sumber energi, dampak jaringan, dan manfaat komunitas.",
+    "stats": [
+      {
+        "value": "60–90%",
+        "label": "Potensi pemulihan panas dalam sistem yang dioptimalkan"
+      },
+      {
+        "value": "24/7",
+        "label": "Output termal berkelanjutan dari operasi penambangan"
+      },
+      {
+        "value": "3×",
+        "label": "Peningkatan efisiensi tipikal vs. panas yang dibuang"
+      },
+      {
+        "value": "Open",
+        "label": "Semua data studi kasus didokumentasikan secara publik"
+      }
+    ],
+    "cards": [
+      {
+        "title": "Arsitektur Teknis",
+        "description": "Desain penukar panas, konfigurasi loop fluida, dan pola integrasi untuk menghubungkan fasilitas penambangan ke infrastruktur pemanasan yang ada."
+      },
+      {
+        "title": "Perpustakaan Studi Kasus",
+        "description": "Implementasi terdokumentasi di negara-negara Nordik, Eropa Tengah, dan Amerika Utara — termasuk data kinerja, tantangan, dan pelajaran yang dipetik."
+      },
+      {
+        "title": "Penilaian Lingkungan",
+        "description": "Evaluasi jujur tentang dampak lingkungan bersih, termasuk analisis sumber energi, ketergantungan jaringan, dan metodologi akuntansi karbon."
+      }
+    ]
+  },
+  "energyWasteReduction": {
+    "title": "Pengurangan Pemborosan Energi",
+    "subtitle": "Pendekatan sistematis untuk mengidentifikasi, mengukur, dan menghilangkan pemborosan energi di seluruh sistem industri dan pemerintah daerah.",
+    "cards": [
+      {
+        "title": "Metodologi Audit Pemborosan",
+        "description": "Kerangka kerja terstandarisasi untuk melakukan audit pemborosan energi di fasilitas industri. Mencakup kehilangan termal, inefisiensi listrik, dan pola pemborosan operasional."
+      },
+      {
+        "title": "Sistem Pemantauan Cerdas",
+        "description": "Riset tentang jaringan sensor berbiaya rendah dan analitik data untuk deteksi pemborosan energi waktu nyata, memungkinkan intervensi proaktif sebelum kerugian bertambah."
+      },
+      {
+        "title": "Faktor Perilaku & Operasional",
+        "description": "Studi tentang bagaimana praktik operasional, jadwal pemeliharaan, dan budaya organisasi memengaruhi pemborosan energi — dengan rekomendasi yang dapat ditindaklanjuti."
+      },
+      {
+        "title": "Prioritas Retrofit",
+        "description": "Kerangka kerja keputusan untuk mengurutkan peningkatan efisiensi energi berdasarkan dampak, biaya, dan kompleksitas implementasi — dirancang untuk kendala anggaran sektor publik."
+      }
+    ],
+    "hierarchyTitle": "Hierarki Pemborosan",
+    "hierarchySubtitle": "Riset kami mengikuti urutan prioritas yang jelas untuk mengatasi pemborosan energi:",
+    "stepLabel": "Langkah",
+    "hierarchySteps": [
+      {
+        "step": "1",
+        "title": "Hilangkan",
+        "desc": "Hapus konsumsi energi yang tidak perlu sepenuhnya"
+      },
+      {
+        "step": "2",
+        "title": "Kurangi",
+        "desc": "Minimalkan input energi untuk output yang diperlukan"
+      },
+      {
+        "step": "3",
+        "title": "Pulihkan",
+        "desc": "Tangkap dan manfaatkan kembali panas buangan dan produk sampingan"
+      },
+      {
+        "step": "4",
+        "title": "Kompensasi",
+        "desc": "Ganti sisa permintaan dengan sumber bersih"
+      }
+    ]
+  },
+  "sustainabilityReports": {
+    "title": "Laporan Keberlanjutan",
+    "subtitle": "Pelaporan transparan dan berkala tentang jejak lingkungan, kemajuan riset, dan dampak komunitas kami.",
+    "statusPublished": "Published",
+    "statusInProgress": "In Progress",
+    "availableInResources": "Tersedia di Sumber Daya Publik",
+    "willBePublished": "Akan diterbitkan setelah selesai",
+    "reports": [
+      {
+        "year": "2025",
+        "title": "Laporan Keberlanjutan Tahunan",
+        "status": "In Progress",
+        "summary": "Tinjauan komprehensif output riset, metrik energi dari studi lapangan, dan penilaian dampak lingkungan di semua proyek aktif."
+      },
+      {
+        "year": "2024",
+        "title": "Laporan Keberlanjutan Tahunan",
+        "status": "Published",
+        "summary": "Laporan tahunan pertama yang mencakup peluncuran misi, publikasi riset awal, pengembangan kemitraan, dan pengukuran lingkungan dasar."
+      },
+      {
+        "year": "2025",
+        "title": "Penilaian Dampak Pemanfaatan Ulang Panas Penambangan",
+        "status": "In Progress",
+        "summary": "Laporan terfokus tentang studi kasus pemulihan termal, termasuk volume pengiriman panas yang diukur, penggantian karbon, dan metrik manfaat komunitas."
+      },
+      {
+        "year": "2024",
+        "title": "Studi Dasar Pemborosan Energi",
+        "status": "Published",
+        "summary": "Studi dasar yang menetapkan metodologi dan data awal untuk kuantifikasi pemborosan energi industri di wilayah target."
+      }
+    ]
+  },
+  "education": {
+    "title": "Pendidikan",
+    "subtitle": "Materi pembelajaran gratis untuk siswa, profesional, dan komunitas yang ingin memahami sistem energi dan keberlanjutan.",
+    "cards": [
+      {
+        "tag": "course",
+        "title": "Pengantar Sistem Energi",
+        "description": "Kursus dasar yang mencakup aliran energi melalui sistem industri, perumahan, dan pemerintah daerah — dengan penekanan pada identifikasi pemborosan."
+      },
+      {
+        "tag": "workshop",
+        "title": "Pemulihan Panas untuk Praktisi",
+        "description": "Materi lokakarya praktis untuk insinyur dan manajer fasilitas tentang merancang dan mengimplementasikan sistem pemulihan termal."
+      },
+      {
+        "tag": "guide",
+        "title": "Literasi Keberlanjutan",
+        "description": "Panduan yang mudah dipahami yang menjelaskan akuntansi karbon, analisis siklus hidup, dan pelaporan keberlanjutan untuk audiens non-teknis."
+      },
+      {
+        "tag": "webinar",
+        "title": "Penambangan & Kebijakan Energi",
+        "description": "Diskusi terekam tentang persinggungan penambangan cryptocurrency, kebijakan energi, dan program pemulihan panas komunitas."
+      },
+      {
+        "tag": "curriculum",
+        "title": "Materi Program Sekolah",
+        "description": "Rencana pelajaran dan aktivitas yang sesuai usia untuk pendidik K-12 yang mengajarkan konservasi energi dan pengelolaan lingkungan."
+      },
+      {
+        "tag": "toolkit",
+        "title": "Toolkit Organisator Komunitas",
+        "description": "Sumber daya untuk kelompok lokal yang mengadvokasi pengurangan pemborosan energi dan proyek pemulihan panas di pemerintah daerah mereka."
+      }
+    ]
+  },
+  "publicResources": {
+    "title": "Sumber Daya Publik",
+    "subtitle": "Dokumen, dataset, dan alat akses terbuka — tersedia gratis untuk diunduh, dikutip, dan digunakan kembali.",
+    "cards": [
+      {
+        "tag": "dataset",
+        "title": "Atlas Pemborosan Panas Industri",
+        "description": "Dataset geospasial yang memetakan estimasi pemborosan termal dari fasilitas industri di wilayah yang berpartisipasi. Diperbarui setiap kuartal."
+      },
+      {
+        "tag": "document",
+        "title": "Arsip Makalah Riset",
+        "description": "Arsip lengkap makalah yang diterbitkan, pracetak, dan catatan teknis. Semua materi dilisensikan untuk penggunaan akademik dan publik."
+      },
+      {
+        "tag": "tool",
+        "title": "Kalkulator Pemulihan Panas",
+        "description": "Spreadsheet sumber terbuka dan alat web untuk memperkirakan potensi pemulihan panas berdasarkan jenis fasilitas, ukuran, dan permintaan lokal."
+      },
+      {
+        "tag": "document",
+        "title": "Koleksi Ringkasan Kebijakan",
+        "description": "Ringkasan kebijakan ringkas yang dirancang untuk legislator dan administrator publik, merangkum temuan riset menjadi rekomendasi yang dapat ditindaklanjuti."
+      },
+      {
+        "tag": "dataset",
+        "title": "Standar Metrik Pemborosan Energi",
+        "description": "Skema yang dapat dibaca mesin dan data referensi untuk pelaporan pemborosan energi terstandarisasi, memungkinkan analisis antar studi."
+      },
+      {
+        "tag": "document",
+        "title": "Glosarium & Referensi",
+        "description": "Glosarium komprehensif terminologi sistem energi, satuan, dan faktor konversi yang digunakan di seluruh materi riset dan pendidikan kami."
+      }
+    ],
+    "freeTitle": "Semua sumber daya gratis. Tanpa akun, tanpa paywall, tanpa pembelian.",
+    "freeDescription": "Kami percaya pengetahuan keberlanjutan harus menjadi barang publik. Sumber daya akan tersedia untuk diunduh setelah diselesaikan."
+  },
+  "contact": {
+    "title": "Kontak",
+    "subtitle": "Hubungi kami untuk kolaborasi riset, kemitraan pendidikan, pertanyaan media, atau pertanyaan umum tentang misi kami.",
+    "generalInquiries": "Pertanyaan Umum",
+    "researchCollaboration": "Kolaborasi Riset",
+    "educationOutreach": "Pendidikan & Penjangkauan",
+    "disclaimer": "Kami adalah inisiatif riset dan pendidikan — bukan entitas komersial. Kami tidak menjual produk, menerima pesanan prapenjualan, atau mengoperasikan toko. Untuk pertanyaan media, harap sertakan publikasi dan tenggat waktu Anda dalam pesan.",
+    "formName": "Nama",
+    "formEmail": "Email",
+    "formSubject": "Subjek",
+    "formMessage": "Pesan",
+    "formNamePlaceholder": "Nama Anda",
+    "formEmailPlaceholder": "you@example.com",
+    "formMessagePlaceholder": "Bagaimana kami dapat membantu?",
+    "formSubmit": "Kirim Pesan",
+    "subjects": [
+      "Pertanyaan umum",
+      "Kolaborasi riset",
+      "Kemitraan pendidikan",
+      "Pertanyaan media",
+      "Lainnya"
+    ]
+  },
+  "footer": {
+    "description": "Inisiatif misi publik yang didedikasikan untuk riset keberlanjutan, pengurangan pemborosan energi, dan pendidikan terbuka untuk komunitas di seluruh dunia.",
+    "explore": "Jelajahi",
+    "resources": "Sumber Daya",
+    "rights": "Hak cipta dilindungi.",
+    "tagline": "Misi publik · Riset · Pendidikan · Tanpa penjualan komersial",
+    "languages": "Tersedia dalam 25 bahasa"
+  },
+  "tags": {
+    "active": "Aktif",
+    "published": "Diterbitkan",
+    "planning": "Perencanaan",
+    "course": "Kursus",
+    "workshop": "Lokakarya",
+    "guide": "Panduan",
+    "webinar": "Webinar",
+    "curriculum": "Kurikulum",
+    "toolkit": "Toolkit",
+    "dataset": "Dataset",
+    "document": "Dokumen",
+    "tool": "Alat"
+  },
+  "faq": [
+    {
+      "question": "Apa itu Energiemind?",
+      "answer": "Energiemind adalah inisiatif misi publik yang didedikasikan untuk riset keberlanjutan, pengurangan pemborosan energi, pemanfaatan ulang panas penambangan, dan pendidikan terbuka. Kami menerbitkan temuan secara gratis tanpa penjualan komersial atau aktivitas prapenjualan."
+    },
+    {
+      "question": "Apakah Energiemind perusahaan komersial?",
+      "answer": "Tidak. Energiemind adalah inisiatif riset dan pendidikan. Kami tidak menjual produk, menerima pesanan prapenjualan, atau mengoperasikan toko. Semua sumber daya disediakan sebagai barang publik."
+    },
+    {
+      "question": "Apa itu pemanfaatan ulang panas penambangan?",
+      "answer": "Pemanfaatan ulang panas penambangan menangkap energi termal buangan dari operasi penambangan cryptocurrency dan pusat data, lalu mengalihkannya untuk penggunaan produktif seperti pemanasan distrik, pertanian rumah kaca, dan pemanasan air."
+    },
+    {
+      "question": "Bagaimana saya dapat mengakses riset dan sumber daya?",
+      "answer": "Semua riset, dataset, dan materi pendidikan yang diterbitkan tersedia gratis di bagian Sumber Daya Publik kami. Tidak diperlukan akun atau paywall."
+    },
+    {
+      "question": "Bagaimana saya dapat berkolaborasi dengan Energiemind?",
+      "answer": "Peneliti, pendidik, dan institusi dapat menghubungi kami di research@energiemind.org untuk pertanyaan kolaborasi. Kami menyambut kemitraan akademik dan replikasi independen studi kami."
+    }
+  ],
+  "articles": [
+    {
+      "headline": "Laporan Keberlanjutan Tahunan 2024",
+      "description": "Laporan tahunan pertama yang mencakup peluncuran misi, publikasi riset awal, pengembangan kemitraan, dan pengukuran lingkungan dasar.",
+      "datePublished": "2024-12-15"
+    },
+    {
+      "headline": "Studi Dasar Pemborosan Energi",
+      "description": "Studi dasar yang menetapkan metodologi dan data awal untuk kuantifikasi pemborosan energi industri di wilayah target.",
+      "datePublished": "2024-09-20"
+    },
+    {
+      "headline": "Penilaian Dampak Pemanfaatan Ulang Panas Penambangan",
+      "description": "Laporan terfokus tentang studi kasus pemulihan termal, termasuk volume pengiriman panas yang diukur, penggantian karbon, dan metrik manfaat komunitas.",
+      "datePublished": "2025-06-01"
+    }
+  ],
+  "internalLinks": {
+    "readIn": "Baca dalam",
+    "alsoAvailable": "Juga tersedia dalam"
+  },
+  "faqSection": {
+    "title": "Pertanyaan yang Sering Diajukan"
+  }
+}

@@ -38,6 +38,14 @@ body {
   font-family: var(--font-dm-sans), system-ui, sans-serif;
 }
 
+[dir="rtl"] {
+  text-align: right;
+}
+
+[dir="rtl"] .flex.items-start.gap-3 {
+  flex-direction: row-reverse;
+}
+
 ::selection {
   background: #b7e4c7;
   color: var(--accent-dark);

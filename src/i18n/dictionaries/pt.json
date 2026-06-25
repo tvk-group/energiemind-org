@@ -1,0 +1,376 @@
+{
+  "meta": {
+    "title": "Energiemind — Sustentabilidade, Investigação e Missão Pública",
+    "description": "Website de missão pública para redução do desperdício energético, reutilização do calor da mineração, investigação em sustentabilidade e recursos educativos abertos.",
+    "keywords": [
+      "sustentabilidade",
+      "redução do desperdício energético",
+      "reutilização do calor da mineração",
+      "investigação",
+      "educação",
+      "clima",
+      "energia renovável"
+    ],
+    "ogTitle": "Energiemind — Sustentabilidade, Investigação e Missão Pública",
+    "ogDescription": "Promover a eficiência energética, a reutilização do calor da mineração e a investigação aberta em sustentabilidade para o bem comum.",
+    "twitterTitle": "Energiemind — Sustentabilidade, Investigação e Missão Pública",
+    "twitterDescription": "Investigação e educação abertas sobre redução do desperdício energético, reutilização do calor da mineração e sustentabilidade."
+  },
+  "nav": {
+    "mission": "Missão",
+    "research": "Investigação",
+    "miningHeatReuse": "Reutilização do Calor da Mineração",
+    "energyWasteReduction": "Redução do Desperdício Energético",
+    "sustainabilityReports": "Relatórios de Sustentabilidade",
+    "education": "Educação",
+    "publicResources": "Recursos Públicos",
+    "contact": "Contacto",
+    "toggleMenu": "Alternar menu de navegação",
+    "mainNav": "Navegação principal",
+    "language": "Idioma",
+    "selectLanguage": "Selecionar idioma"
+  },
+  "hero": {
+    "badge": "Missão Pública · Investigação · Sustentabilidade",
+    "title": "Transformar energia desperdiçada em conhecimento para um futuro sustentável",
+    "description": "A Energiemind é uma iniciativa aberta de investigação e educação focada na redução do desperdício energético, na reutilização do calor da mineração e na documentação pública de sustentabilidade. Partilhamos os resultados livremente — sem vendas, sem pré-venda, sem agenda comercial.",
+    "ctaMission": "A Nossa Missão",
+    "ctaResources": "Explorar Recursos"
+  },
+  "mission": {
+    "title": "Missão",
+    "subtitle": "Existimos para promover a compreensão pública dos sistemas energéticos e acelerar a transição para uma economia energética sustentável e sem desperdício.",
+    "p1": "A Energiemind foi fundada com uma convicção simples: a energia que desperdiçamos hoje é o conhecimento que deixamos de partilhar amanhã. Em processos industriais, centros de dados e operações de mineração de criptomoedas, enormes quantidades de energia térmica são libertadas para a atmosfera — energia que poderia aquecer casas, estufas e instalações comunitárias.",
+    "p2": "A nossa missão é documentar, investigar e educar. Publicamos resultados abertos, colaboramos com instituições académicas e fornecemos recursos gratuitos a decisores políticos, engenheiros e cidadãos que desejam compreender como os sistemas energéticos podem funcionar melhor para as pessoas e para o planeta.",
+    "principlesTitle": "Princípios Fundamentais",
+    "principles": [
+      "Ciência aberta — toda a investigação publicada para acesso público",
+      "Baseada em evidências — dados e metodologia totalmente documentados",
+      "Comunidade em primeiro lugar — soluções concebidas para o benefício local",
+      "Não comercial — sem produtos, pré-vendas ou canais de venda"
+    ]
+  },
+  "research": {
+    "title": "Investigação",
+    "subtitle": "Estudos orientados para pares sobre eficiência energética, sistemas de recuperação térmica e o impacto ambiental do consumo energético industrial.",
+    "footnote": "Toda a investigação publicada está disponível sob licenças abertas na secção",
+    "footnoteLink": "Recursos Públicos",
+    "footnoteEnd": ". Damos as boas-vindas à colaboração académica e à replicação independente.",
+    "cards": [
+      {
+        "tag": "active",
+        "title": "Estudos de Viabilidade da Recuperação Térmica",
+        "description": "Análise quantitativa do potencial de captura de calor em mineração, indústria transformadora e infraestruturas de computação. Inclui modelos de custo-benefício e estudos de caso regionais."
+      },
+      {
+        "tag": "active",
+        "title": "Mapeamento do Desperdício Energético",
+        "description": "Investigação geoespacial que identifica pontos críticos de desperdício de calor industrial e os associa à procura térmica próxima — aquecimento de distrito, agricultura e aquicultura."
+      },
+      {
+        "tag": "published",
+        "title": "Análise do Carbono ao Longo do Ciclo de Vida",
+        "description": "Avaliações completas do ciclo de vida que comparam o aquecimento convencional com o calor industrial recuperado, incluindo carbono incorporado e fatores de deslocação da rede."
+      },
+      {
+        "tag": "active",
+        "title": "Revisão de Quadros Políticos",
+        "description": "Análise comparativa de políticas nacionais e regionais que facilitam ou dificultam a recuperação de calor industrial, com recomendações para administradores públicos."
+      },
+      {
+        "tag": "planning",
+        "title": "Modelos de Integração Comunitária",
+        "description": "Investigação socioeconómica sobre como os projetos de calor recuperado podem ser estruturados para beneficiar as comunidades locais de forma equitativa e transparente."
+      },
+      {
+        "tag": "published",
+        "title": "Normas de Dados Abertos",
+        "description": "Desenvolvimento de formatos de dados padronizados para reportar desperdício energético e métricas de recuperação de calor, permitindo comparação e replicação entre estudos."
+      }
+    ]
+  },
+  "miningHeatReuse": {
+    "title": "Reutilização do Calor da Mineração",
+    "subtitle": "As operações de mineração de criptomoedas e de centros de dados geram calor residual substancial. Investigamos como este output térmico pode ser redirecionado para uso produtivo.",
+    "p1": "As instalações de proof-of-work e de computação de alto desempenho produzem calor como subproduto da computação contínua. Em vez de libertar esta energia para a atmosfera, a reutilização do calor da mineração captura-a para redes de aquecimento de distrito, agricultura em estufa, aquecimento de água e processos industriais.",
+    "p2": "A Energiemind documenta implementações reais, mede ganhos de eficiência e publica guias técnicos para operadores e municípios que considerem parcerias de recuperação de calor. O nosso trabalho enfatiza a transparência sobre fontes de energia, impacto na rede e benefício comunitário.",
+    "stats": [
+      {
+        "value": "60–90%",
+        "label": "Potencial de recuperação de calor em sistemas otimizados"
+      },
+      {
+        "value": "24/7",
+        "label": "Output térmico contínuo das operações de mineração"
+      },
+      {
+        "value": "3×",
+        "label": "Ganho típico de eficiência face ao calor ventilado"
+      },
+      {
+        "value": "Open",
+        "label": "Todos os dados dos estudos de caso documentados publicamente"
+      }
+    ],
+    "cards": [
+      {
+        "title": "Arquitetura Técnica",
+        "description": "Design de permutadores de calor, configurações de circuitos de fluidos e padrões de integração para ligar instalações de mineração à infraestrutura de aquecimento existente."
+      },
+      {
+        "title": "Biblioteca de Estudos de Caso",
+        "description": "Implementações documentadas nos países nórdicos, na Europa Central e na América do Norte — incluindo dados de desempenho, desafios e lições aprendidas."
+      },
+      {
+        "title": "Avaliação Ambiental",
+        "description": "Avaliação honesta do impacto ambiental líquido, incluindo análise da fonte de energia, dependência da rede e metodologia de contabilização de carbono."
+      }
+    ]
+  },
+  "energyWasteReduction": {
+    "title": "Redução do Desperdício Energético",
+    "subtitle": "Abordagens sistemáticas para identificar, medir e eliminar o desperdício energético em sistemas industriais e municipais.",
+    "cards": [
+      {
+        "title": "Metodologia de Auditoria de Desperdício",
+        "description": "Um quadro padronizado para realizar auditorias de desperdício energético em instalações industriais. Abrange perdas térmicas, ineficiências elétricas e padrões de desperdício operacional."
+      },
+      {
+        "title": "Sistemas de Monitorização Inteligente",
+        "description": "Investigação sobre redes de sensores de baixo custo e análise de dados para deteção de desperdício energético em tempo real, permitindo intervenção proativa antes que as perdas se acumulem."
+      },
+      {
+        "title": "Fatores Comportamentais e Operacionais",
+        "description": "Estudos sobre como as práticas operacionais, calendários de manutenção e cultura organizacional afetam o desperdício energético — com recomendações acionáveis."
+      },
+      {
+        "title": "Priorização de Retrofit",
+        "description": "Quadros de decisão para classificar melhorias de eficiência energética por impacto, custo e complexidade de implementação — concebidos para restrições orçamentais do setor público."
+      }
+    ],
+    "hierarchyTitle": "A Hierarquia do Desperdício",
+    "hierarchySubtitle": "A nossa investigação segue uma ordem de prioridade clara para abordar o desperdício energético:",
+    "stepLabel": "Passo",
+    "hierarchySteps": [
+      {
+        "step": "1",
+        "title": "Eliminar",
+        "desc": "Remover completamente o consumo energético desnecessário"
+      },
+      {
+        "step": "2",
+        "title": "Reduzir",
+        "desc": "Minimizar a entrada de energia para os outputs necessários"
+      },
+      {
+        "step": "3",
+        "title": "Recuperar",
+        "desc": "Capturar e reutilizar calor residual e subprodutos"
+      },
+      {
+        "step": "4",
+        "title": "Compensar",
+        "desc": "Substituir a procura restante por fontes limpas"
+      }
+    ]
+  },
+  "sustainabilityReports": {
+    "title": "Relatórios de Sustentabilidade",
+    "subtitle": "Relatórios periódicos transparentes sobre a nossa pegada ambiental, progresso da investigação e impacto comunitário.",
+    "statusPublished": "Published",
+    "statusInProgress": "In Progress",
+    "availableInResources": "Disponível em Recursos Públicos",
+    "willBePublished": "Será publicado após conclusão",
+    "reports": [
+      {
+        "year": "2025",
+        "title": "Relatório Anual de Sustentabilidade",
+        "status": "In Progress",
+        "summary": "Revisão abrangente da produção de investigação, métricas energéticas de estudos de campo e avaliações de impacto ambiental em todos os projetos ativos."
+      },
+      {
+        "year": "2024",
+        "title": "Relatório Anual de Sustentabilidade",
+        "status": "Published",
+        "summary": "Primeiro relatório anual que abrange o lançamento da missão, publicações iniciais de investigação, desenvolvimento de parcerias e medições ambientais de referência."
+      },
+      {
+        "year": "2025",
+        "title": "Avaliação de Impacto da Reutilização do Calor da Mineração",
+        "status": "In Progress",
+        "summary": "Relatório focado em estudos de caso de recuperação térmica, incluindo volumes medidos de entrega de calor, deslocação de carbono e métricas de benefício comunitário."
+      },
+      {
+        "year": "2024",
+        "title": "Estudo de Referência do Desperdício Energético",
+        "status": "Published",
+        "summary": "Estudo fundamental que estabelece metodologia e dados iniciais para quantificação do desperdício energético industrial nas regiões-alvo."
+      }
+    ]
+  },
+  "education": {
+    "title": "Educação",
+    "subtitle": "Materiais de aprendizagem gratuitos para estudantes, profissionais e comunidades que desejam compreender os sistemas energéticos e a sustentabilidade.",
+    "cards": [
+      {
+        "tag": "course",
+        "title": "Introdução aos Sistemas Energéticos",
+        "description": "Curso fundamental que abrange como a energia flui através de sistemas industriais, residenciais e municipais — com ênfase na identificação de desperdício."
+      },
+      {
+        "tag": "workshop",
+        "title": "Recuperação de Calor para Profissionais",
+        "description": "Materiais práticos de workshop para engenheiros e gestores de instalações sobre o design e implementação de sistemas de recuperação térmica."
+      },
+      {
+        "tag": "guide",
+        "title": "Literacia em Sustentabilidade",
+        "description": "Guias acessíveis que explicam contabilização de carbono, análise do ciclo de vida e relatórios de sustentabilidade para públicos não técnicos."
+      },
+      {
+        "tag": "webinar",
+        "title": "Mineração e Política Energética",
+        "description": "Debates gravados sobre a interseção entre mineração de criptomoedas, política energética e programas comunitários de recuperação de calor."
+      },
+      {
+        "tag": "curriculum",
+        "title": "Materiais para Programas Escolares",
+        "description": "Planos de aula e atividades adequados à idade para educadores do ensino básico e secundário que ensinam conservação de energia e responsabilidade ambiental."
+      },
+      {
+        "tag": "toolkit",
+        "title": "Kit de Ferramentas para Organizadores Comunitários",
+        "description": "Recursos para grupos locais que defendem a redução do desperdício energético e projetos de recuperação de calor nos seus municípios."
+      }
+    ]
+  },
+  "publicResources": {
+    "title": "Recursos Públicos",
+    "subtitle": "Documentos, conjuntos de dados e ferramentas de acesso aberto — disponíveis gratuitamente para download, citação e reutilização.",
+    "cards": [
+      {
+        "tag": "dataset",
+        "title": "Atlas do Desperdício de Calor Industrial",
+        "description": "Conjunto de dados geoespaciais que mapeia o desperdício térmico estimado de instalações industriais nas regiões participantes. Atualizado trimestralmente."
+      },
+      {
+        "tag": "document",
+        "title": "Arquivo de Artigos de Investigação",
+        "description": "Arquivo completo de artigos publicados, pré-impressões e notas técnicas. Todos os materiais licenciados para uso académico e público."
+      },
+      {
+        "tag": "tool",
+        "title": "Calculadora de Recuperação de Calor",
+        "description": "Folha de cálculo de código aberto e ferramenta web para estimar o potencial de recuperação de calor com base no tipo de instalação, dimensão e procura local."
+      },
+      {
+        "tag": "document",
+        "title": "Coleção de Resumos Políticos",
+        "description": "Resumos políticos concisos concebidos para legisladores e administradores públicos, sintetizando resultados de investigação em recomendações acionáveis."
+      },
+      {
+        "tag": "dataset",
+        "title": "Norma de Métricas de Desperdício Energético",
+        "description": "Esquema legível por máquina e dados de referência para reporte padronizado de desperdício energético, permitindo análise comparativa entre estudos."
+      },
+      {
+        "tag": "document",
+        "title": "Glossário e Referência",
+        "description": "Glossário abrangente de terminologia de sistemas energéticos, unidades e fatores de conversão utilizados nos nossos materiais de investigação e educação."
+      }
+    ],
+    "freeTitle": "Todos os recursos são gratuitos. Sem contas, sem paywalls, sem compras.",
+    "freeDescription": "Acreditamos que o conhecimento em sustentabilidade deve ser um bem público. Os recursos serão disponibilizados para download à medida que forem finalizados."
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "Contacte-nos para colaboração em investigação, parcerias educativas, pedidos de media ou questões gerais sobre a nossa missão.",
+    "generalInquiries": "Pedidos Gerais",
+    "researchCollaboration": "Colaboração em Investigação",
+    "educationOutreach": "Educação e Divulgação",
+    "disclaimer": "Somos uma iniciativa de investigação e educação — não uma entidade comercial. Não vendemos produtos, aceitamos encomendas de pré-venda nem operamos uma loja. Para pedidos de media, inclua a sua publicação e o prazo na mensagem.",
+    "formName": "Nome",
+    "formEmail": "Email",
+    "formSubject": "Assunto",
+    "formMessage": "Mensagem",
+    "formNamePlaceholder": "O seu nome",
+    "formEmailPlaceholder": "you@example.com",
+    "formMessagePlaceholder": "Como podemos ajudar?",
+    "formSubmit": "Enviar Mensagem",
+    "subjects": [
+      "Pedido geral",
+      "Colaboração em investigação",
+      "Parceria educativa",
+      "Pedido de media",
+      "Outro"
+    ]
+  },
+  "footer": {
+    "description": "Uma iniciativa de missão pública dedicada à investigação em sustentabilidade, redução do desperdício energético e educação aberta para comunidades em todo o mundo.",
+    "explore": "Explorar",
+    "resources": "Recursos",
+    "rights": "Todos os direitos reservados.",
+    "tagline": "Missão pública · Investigação · Educação · Sem vendas comerciais",
+    "languages": "Disponível em 25 idiomas"
+  },
+  "tags": {
+    "active": "Ativo",
+    "published": "Publicado",
+    "planning": "Em planeamento",
+    "course": "Curso",
+    "workshop": "Workshop",
+    "guide": "Guia",
+    "webinar": "Webinar",
+    "curriculum": "Currículo",
+    "toolkit": "Kit de ferramentas",
+    "dataset": "Conjunto de dados",
+    "document": "Documento",
+    "tool": "Ferramenta"
+  },
+  "faq": [
+    {
+      "question": "O que é a Energiemind?",
+      "answer": "A Energiemind é uma iniciativa de missão pública dedicada à investigação em sustentabilidade, redução do desperdício energético, reutilização do calor da mineração e educação aberta. Publicamos resultados livremente, sem vendas comerciais ou atividades de pré-venda."
+    },
+    {
+      "question": "A Energiemind é uma empresa comercial?",
+      "answer": "Não. A Energiemind é uma iniciativa de investigação e educação. Não vendemos produtos, aceitamos encomendas de pré-venda nem operamos uma loja. Todos os recursos são fornecidos como bem público."
+    },
+    {
+      "question": "O que é a reutilização do calor da mineração?",
+      "answer": "A reutilização do calor da mineração captura a energia térmica residual das operações de mineração de criptomoedas e de centros de dados e redireciona-a para usos produtivos, como aquecimento de distrito, agricultura em estufa e aquecimento de água."
+    },
+    {
+      "question": "Como posso aceder à investigação e aos recursos?",
+      "answer": "Toda a investigação publicada, conjuntos de dados e materiais educativos estão disponíveis gratuitamente na nossa secção Recursos Públicos. Não são necessárias contas nem paywalls."
+    },
+    {
+      "question": "Como posso colaborar com a Energiemind?",
+      "answer": "Investigadores, educadores e instituições podem contactar-nos em research@energiemind.org para pedidos de colaboração. Damos as boas-vindas a parcerias académicas e à replicação independente dos nossos estudos."
+    }
+  ],
+  "articles": [
+    {
+      "headline": "Relatório Anual de Sustentabilidade 2024",
+      "description": "Primeiro relatório anual que abrange o lançamento da missão, publicações iniciais de investigação, desenvolvimento de parcerias e medições ambientais de referência.",
+      "datePublished": "2024-12-15"
+    },
+    {
+      "headline": "Estudo de Referência do Desperdício Energético",
+      "description": "Estudo fundamental que estabelece metodologia e dados iniciais para quantificação do desperdício energético industrial nas regiões-alvo.",
+      "datePublished": "2024-09-20"
+    },
+    {
+      "headline": "Avaliação de Impacto da Reutilização do Calor da Mineração",
+      "description": "Relatório focado em estudos de caso de recuperação térmica, incluindo volumes medidos de entrega de calor, deslocação de carbono e métricas de benefício comunitário.",
+      "datePublished": "2025-06-01"
+    }
+  ],
+  "internalLinks": {
+    "readIn": "Ler em",
+    "alsoAvailable": "Também disponível em"
+  },
+  "faqSection": {
+    "title": "Perguntas frequentes"
+  }
+}

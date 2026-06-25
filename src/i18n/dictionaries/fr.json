@@ -2,7 +2,15 @@
   "meta": {
     "title": "Energiemind — Durabilité, Recherche et Mission Publique",
     "description": "Site web de mission publique pour la réduction du gaspillage énergétique, la réutilisation de la chaleur du minage, la recherche en durabilité et les ressources éducatives ouvertes.",
-    "keywords": ["durabilité", "réduction du gaspillage énergétique", "réutilisation de la chaleur du minage", "recherche", "éducation", "climat", "énergie renouvelable"],
+    "keywords": [
+      "durabilité",
+      "réduction du gaspillage énergétique",
+      "réutilisation de la chaleur du minage",
+      "recherche",
+      "éducation",
+      "climat",
+      "énergie renouvelable"
+    ],
     "ogTitle": "Energiemind — Durabilité, Recherche et Mission Publique",
     "ogDescription": "Faire progresser l'efficacité énergétique, la réutilisation de la chaleur du minage et la recherche ouverte en durabilité pour le bien public.",
     "twitterTitle": "Energiemind — Durabilité, Recherche et Mission Publique",
@@ -49,12 +57,36 @@
     "footnoteLink": "Ressources Publiques",
     "footnoteEnd": ". Nous accueillons la collaboration académique et la réplication indépendante.",
     "cards": [
-      { "tag": "active", "title": "Études de Faisabilité de la Récupération Thermique", "description": "Analyse quantitative du potentiel de captage de chaleur dans les infrastructures de minage, de fabrication et d'informatique. Comprend des modèles coûts-bénéfices et des études de cas régionales." },
-      { "tag": "active", "title": "Cartographie du Gaspillage Énergétique", "description": "Recherche géospatiale identifiant les points chauds de gaspillage thermique industriel et les associant à la demande thermique voisine — chauffage urbain, agriculture et aquaculture." },
-      { "tag": "published", "title": "Analyse du Carbone sur le Cycle de Vie", "description": "Évaluations complètes du cycle de vie comparant le chauffage conventionnel avec la chaleur industrielle récupérée, incluant le carbone incorporé et les facteurs de déplacement du réseau." },
-      { "tag": "active", "title": "Examen du Cadre Politique", "description": "Analyse comparative des politiques nationales et régionales qui favorisent ou entravent la récupération de chaleur industrielle, avec des recommandations pour les administrateurs publics." },
-      { "tag": "planning", "title": "Modèles d'Intégration Communautaire", "description": "Recherche socioéconomique sur la façon dont les projets de chaleur récupérée peuvent être structurés pour bénéficier aux communautés locales de manière équitable et transparente." },
-      { "tag": "published", "title": "Standards de Données Ouvertes", "description": "Développement de formats de données standardisés pour la déclaration du gaspillage énergétique et des métriques de récupération de chaleur, permettant la comparaison et la réplication entre études." }
+      {
+        "tag": "active",
+        "title": "Études de Faisabilité de la Récupération Thermique",
+        "description": "Analyse quantitative du potentiel de captage de chaleur dans les infrastructures de minage, de fabrication et d'informatique. Comprend des modèles coûts-bénéfices et des études de cas régionales."
+      },
+      {
+        "tag": "active",
+        "title": "Cartographie du Gaspillage Énergétique",
+        "description": "Recherche géospatiale identifiant les points chauds de gaspillage thermique industriel et les associant à la demande thermique voisine — chauffage urbain, agriculture et aquaculture."
+      },
+      {
+        "tag": "published",
+        "title": "Analyse du Carbone sur le Cycle de Vie",
+        "description": "Évaluations complètes du cycle de vie comparant le chauffage conventionnel avec la chaleur industrielle récupérée, incluant le carbone incorporé et les facteurs de déplacement du réseau."
+      },
+      {
+        "tag": "active",
+        "title": "Examen du Cadre Politique",
+        "description": "Analyse comparative des politiques nationales et régionales qui favorisent ou entravent la récupération de chaleur industrielle, avec des recommandations pour les administrateurs publics."
+      },
+      {
+        "tag": "planning",
+        "title": "Modèles d'Intégration Communautaire",
+        "description": "Recherche socioéconomique sur la façon dont les projets de chaleur récupérée peuvent être structurés pour bénéficier aux communautés locales de manière équitable et transparente."
+      },
+      {
+        "tag": "published",
+        "title": "Standards de Données Ouvertes",
+        "description": "Développement de formats de données standardisés pour la déclaration du gaspillage énergétique et des métriques de récupération de chaleur, permettant la comparaison et la réplication entre études."
+      }
     ]
   },
   "miningHeatReuse": {
@@ -63,34 +95,83 @@
     "p1": "Les installations de preuve de travail et de calcul haute performance produisent de la chaleur comme sous-produit du calcul continu. Plutôt que d'évacuer cette énergie dans l'atmosphère, la réutilisation de la chaleur du minage la capture pour les réseaux de chauffage urbain, l'agriculture en serre, le chauffage de l'eau et les processus industriels.",
     "p2": "Energiemind documente les implémentations réelles, mesure les gains d'efficacité et publie des guides techniques pour les opérateurs et les municipalités envisageant des partenariats de récupération de chaleur. Notre travail met l'accent sur la transparence concernant les sources d'énergie, l'impact sur le réseau et le bénéfice communautaire.",
     "stats": [
-      { "value": "60–90%", "label": "Potentiel de récupération de chaleur dans les systèmes optimisés" },
-      { "value": "24/7", "label": "Production thermique continue des opérations de minage" },
-      { "value": "3×", "label": "Gain d'efficacité typique par rapport à la chaleur évacuée" },
-      { "value": "Open", "label": "Toutes les données d'études de cas documentées publiquement" }
+      {
+        "value": "60–90%",
+        "label": "Potentiel de récupération de chaleur dans les systèmes optimisés"
+      },
+      {
+        "value": "24/7",
+        "label": "Production thermique continue des opérations de minage"
+      },
+      {
+        "value": "3×",
+        "label": "Gain d'efficacité typique par rapport à la chaleur évacuée"
+      },
+      {
+        "value": "Open",
+        "label": "Toutes les données d'études de cas documentées publiquement"
+      }
     ],
     "cards": [
-      { "title": "Architecture Technique", "description": "Conception d'échangeurs de chaleur, configurations de boucles de fluides et modèles d'intégration pour connecter les installations de minage à l'infrastructure de chauffage existante." },
-      { "title": "Bibliothèque d'Études de Cas", "description": "Déploiements documentés dans les pays nordiques, l'Europe centrale et l'Amérique du Nord — incluant données de performance, défis et enseignements tirés." },
-      { "title": "Évaluation Environnementale", "description": "Évaluation honnête de l'impact environnemental net, incluant l'analyse des sources d'énergie, la dépendance au réseau et la méthodologie de comptabilité carbone." }
+      {
+        "title": "Architecture Technique",
+        "description": "Conception d'échangeurs de chaleur, configurations de boucles de fluides et modèles d'intégration pour connecter les installations de minage à l'infrastructure de chauffage existante."
+      },
+      {
+        "title": "Bibliothèque d'Études de Cas",
+        "description": "Déploiements documentés dans les pays nordiques, l'Europe centrale et l'Amérique du Nord — incluant données de performance, défis et enseignements tirés."
+      },
+      {
+        "title": "Évaluation Environnementale",
+        "description": "Évaluation honnête de l'impact environnemental net, incluant l'analyse des sources d'énergie, la dépendance au réseau et la méthodologie de comptabilité carbone."
+      }
     ]
   },
   "energyWasteReduction": {
     "title": "Réduction du Gaspillage Énergétique",
     "subtitle": "Approches systématiques pour identifier, mesurer et éliminer le gaspillage énergétique dans les systèmes industriels et municipaux.",
     "cards": [
-      { "title": "Méthodologie d'Audit du Gaspillage", "description": "Un cadre standardisé pour réaliser des audits de gaspillage énergétique dans les installations industrielles. Couvre les pertes thermiques, les inefficacités électriques et les schémas de gaspillage opérationnel." },
-      { "title": "Systèmes de Surveillance Intelligents", "description": "Recherche sur les réseaux de capteurs à faible coût et l'analytique de données pour la détection en temps réel du gaspillage énergétique, permettant une intervention proactive avant que les pertes ne s'accumulent." },
-      { "title": "Facteurs Comportementaux et Opérationnels", "description": "Études sur la façon dont les pratiques opérationnelles, les calendriers de maintenance et la culture organisationnelle affectent le gaspillage énergétique — avec des recommandations actionnables." },
-      { "title": "Priorisation des Rénovations", "description": "Cadres décisionnels pour classer les améliorations d'efficacité énergétique par impact, coût et complexité de mise en œuvre — conçus pour les contraintes budgétaires du secteur public." }
+      {
+        "title": "Méthodologie d'Audit du Gaspillage",
+        "description": "Un cadre standardisé pour réaliser des audits de gaspillage énergétique dans les installations industrielles. Couvre les pertes thermiques, les inefficacités électriques et les schémas de gaspillage opérationnel."
+      },
+      {
+        "title": "Systèmes de Surveillance Intelligents",
+        "description": "Recherche sur les réseaux de capteurs à faible coût et l'analytique de données pour la détection en temps réel du gaspillage énergétique, permettant une intervention proactive avant que les pertes ne s'accumulent."
+      },
+      {
+        "title": "Facteurs Comportementaux et Opérationnels",
+        "description": "Études sur la façon dont les pratiques opérationnelles, les calendriers de maintenance et la culture organisationnelle affectent le gaspillage énergétique — avec des recommandations actionnables."
+      },
+      {
+        "title": "Priorisation des Rénovations",
+        "description": "Cadres décisionnels pour classer les améliorations d'efficacité énergétique par impact, coût et complexité de mise en œuvre — conçus pour les contraintes budgétaires du secteur public."
+      }
     ],
     "hierarchyTitle": "La Hiérarchie du Gaspillage",
     "hierarchySubtitle": "Notre recherche suit un ordre de priorité clair pour traiter le gaspillage énergétique :",
     "stepLabel": "Étape",
     "hierarchySteps": [
-      { "step": "1", "title": "Éliminer", "desc": "Supprimer entièrement la consommation énergétique inutile" },
-      { "step": "2", "title": "Réduire", "desc": "Minimiser l'apport énergétique pour les productions requises" },
-      { "step": "3", "title": "Récupérer", "desc": "Capturer et réutiliser la chaleur résiduelle et les sous-produits" },
-      { "step": "4", "title": "Compenser", "desc": "Remplacer la demande restante par des sources propres" }
+      {
+        "step": "1",
+        "title": "Éliminer",
+        "desc": "Supprimer entièrement la consommation énergétique inutile"
+      },
+      {
+        "step": "2",
+        "title": "Réduire",
+        "desc": "Minimiser l'apport énergétique pour les productions requises"
+      },
+      {
+        "step": "3",
+        "title": "Récupérer",
+        "desc": "Capturer et réutiliser la chaleur résiduelle et les sous-produits"
+      },
+      {
+        "step": "4",
+        "title": "Compenser",
+        "desc": "Remplacer la demande restante par des sources propres"
+      }
     ]
   },
   "sustainabilityReports": {
@@ -101,34 +182,102 @@
     "availableInResources": "Disponible dans Ressources Publiques",
     "willBePublished": "Sera publié à l'achèvement",
     "reports": [
-      { "year": "2025", "title": "Rapport Annuel de Durabilité", "status": "In Progress", "summary": "Examen complet des résultats de recherche, des métriques énergétiques des études de terrain et des évaluations d'impact environnemental de tous les projets actifs." },
-      { "year": "2024", "title": "Rapport Annuel de Durabilité", "status": "Published", "summary": "Premier rapport annuel couvrant le lancement de la mission, les premières publications de recherche, le développement de partenariats et les mesures environnementales de référence." },
-      { "year": "2025", "title": "Évaluation d'Impact de la Réutilisation de la Chaleur du Minage", "status": "In Progress", "summary": "Rapport ciblé sur les études de cas de récupération thermique, incluant les volumes de chaleur livrés mesurés, le déplacement carbone et les métriques de bénéfice communautaire." },
-      { "year": "2024", "title": "Étude de Référence sur le Gaspillage Énergétique", "status": "Published", "summary": "Étude fondamentale établissant la méthodologie et les données initiales pour la quantification du gaspillage énergétique industriel dans les régions cibles." }
+      {
+        "year": "2025",
+        "title": "Rapport Annuel de Durabilité",
+        "status": "In Progress",
+        "summary": "Examen complet des résultats de recherche, des métriques énergétiques des études de terrain et des évaluations d'impact environnemental de tous les projets actifs."
+      },
+      {
+        "year": "2024",
+        "title": "Rapport Annuel de Durabilité",
+        "status": "Published",
+        "summary": "Premier rapport annuel couvrant le lancement de la mission, les premières publications de recherche, le développement de partenariats et les mesures environnementales de référence."
+      },
+      {
+        "year": "2025",
+        "title": "Évaluation d'Impact de la Réutilisation de la Chaleur du Minage",
+        "status": "In Progress",
+        "summary": "Rapport ciblé sur les études de cas de récupération thermique, incluant les volumes de chaleur livrés mesurés, le déplacement carbone et les métriques de bénéfice communautaire."
+      },
+      {
+        "year": "2024",
+        "title": "Étude de Référence sur le Gaspillage Énergétique",
+        "status": "Published",
+        "summary": "Étude fondamentale établissant la méthodologie et les données initiales pour la quantification du gaspillage énergétique industriel dans les régions cibles."
+      }
     ]
   },
   "education": {
     "title": "Éducation",
     "subtitle": "Matériels d'apprentissage gratuits pour les étudiants, professionnels et communautés souhaitant comprendre les systèmes énergétiques et la durabilité.",
     "cards": [
-      { "tag": "course", "title": "Introduction aux Systèmes Énergétiques", "description": "Cours fondamental couvrant la circulation de l'énergie dans les systèmes industriels, résidentiels et municipaux — avec un accent sur l'identification du gaspillage." },
-      { "tag": "workshop", "title": "Récupération de Chaleur pour les Praticiens", "description": "Matériels d'atelier pratiques pour les ingénieurs et gestionnaires d'installations sur la conception et la mise en œuvre de systèmes de récupération thermique." },
-      { "tag": "guide", "title": "Culture de la Durabilité", "description": "Guides accessibles expliquant la comptabilité carbone, l'analyse du cycle de vie et les rapports de durabilité pour les publics non techniques." },
-      { "tag": "webinar", "title": "Minage et Politique Énergétique", "description": "Discussions enregistrées sur l'intersection du minage de cryptomonnaies, de la politique énergétique et des programmes communautaires de récupération de chaleur." },
-      { "tag": "curriculum", "title": "Matériels de Programme Scolaire", "description": "Plans de cours et activités adaptés à l'âge pour les enseignants K-12 enseignant la conservation de l'énergie et la responsabilité environnementale." },
-      { "tag": "toolkit", "title": "Boîte à Outils pour Organisateurs Communautaires", "description": "Ressources pour les groupes locaux plaidant pour la réduction du gaspillage énergétique et les projets de récupération de chaleur dans leurs municipalités." }
+      {
+        "tag": "course",
+        "title": "Introduction aux Systèmes Énergétiques",
+        "description": "Cours fondamental couvrant la circulation de l'énergie dans les systèmes industriels, résidentiels et municipaux — avec un accent sur l'identification du gaspillage."
+      },
+      {
+        "tag": "workshop",
+        "title": "Récupération de Chaleur pour les Praticiens",
+        "description": "Matériels d'atelier pratiques pour les ingénieurs et gestionnaires d'installations sur la conception et la mise en œuvre de systèmes de récupération thermique."
+      },
+      {
+        "tag": "guide",
+        "title": "Culture de la Durabilité",
+        "description": "Guides accessibles expliquant la comptabilité carbone, l'analyse du cycle de vie et les rapports de durabilité pour les publics non techniques."
+      },
+      {
+        "tag": "webinar",
+        "title": "Minage et Politique Énergétique",
+        "description": "Discussions enregistrées sur l'intersection du minage de cryptomonnaies, de la politique énergétique et des programmes communautaires de récupération de chaleur."
+      },
+      {
+        "tag": "curriculum",
+        "title": "Matériels de Programme Scolaire",
+        "description": "Plans de cours et activités adaptés à l'âge pour les enseignants K-12 enseignant la conservation de l'énergie et la responsabilité environnementale."
+      },
+      {
+        "tag": "toolkit",
+        "title": "Boîte à Outils pour Organisateurs Communautaires",
+        "description": "Ressources pour les groupes locaux plaidant pour la réduction du gaspillage énergétique et les projets de récupération de chaleur dans leurs municipalités."
+      }
     ]
   },
   "publicResources": {
     "title": "Ressources Publiques",
     "subtitle": "Documents, jeux de données et outils en libre accès — librement disponibles pour le téléchargement, la citation et la réutilisation.",
     "cards": [
-      { "tag": "dataset", "title": "Atlas du Gaspillage Thermique Industriel", "description": "Jeu de données géospatial cartographiant le gaspillage thermique estimé des installations industrielles dans les régions participantes. Mis à jour trimestriellement." },
-      { "tag": "document", "title": "Archives des Articles de Recherche", "description": "Archives complètes des articles publiés, prépublications et notes techniques. Tous les matériaux sous licence pour usage académique et public." },
-      { "tag": "tool", "title": "Calculateur de Récupération de Chaleur", "description": "Tableur et outil web open source pour estimer le potentiel de récupération de chaleur selon le type d'installation, la taille et la demande locale." },
-      { "tag": "document", "title": "Collection de Notes Politiques", "description": "Notes politiques concises conçues pour les législateurs et administrateurs publics, résumant les résultats de recherche en recommandations actionnables." },
-      { "tag": "dataset", "title": "Standard des Métriques de Gaspillage Énergétique", "description": "Schéma lisible par machine et données de référence pour la déclaration standardisée du gaspillage énergétique, permettant l'analyse comparative entre études." },
-      { "tag": "document", "title": "Glossaire et Référence", "description": "Glossaire complet de la terminologie des systèmes énergétiques, des unités et des facteurs de conversion utilisés dans nos matériels de recherche et d'éducation." }
+      {
+        "tag": "dataset",
+        "title": "Atlas du Gaspillage Thermique Industriel",
+        "description": "Jeu de données géospatial cartographiant le gaspillage thermique estimé des installations industrielles dans les régions participantes. Mis à jour trimestriellement."
+      },
+      {
+        "tag": "document",
+        "title": "Archives des Articles de Recherche",
+        "description": "Archives complètes des articles publiés, prépublications et notes techniques. Tous les matériaux sous licence pour usage académique et public."
+      },
+      {
+        "tag": "tool",
+        "title": "Calculateur de Récupération de Chaleur",
+        "description": "Tableur et outil web open source pour estimer le potentiel de récupération de chaleur selon le type d'installation, la taille et la demande locale."
+      },
+      {
+        "tag": "document",
+        "title": "Collection de Notes Politiques",
+        "description": "Notes politiques concises conçues pour les législateurs et administrateurs publics, résumant les résultats de recherche en recommandations actionnables."
+      },
+      {
+        "tag": "dataset",
+        "title": "Standard des Métriques de Gaspillage Énergétique",
+        "description": "Schéma lisible par machine et données de référence pour la déclaration standardisée du gaspillage énergétique, permettant l'analyse comparative entre études."
+      },
+      {
+        "tag": "document",
+        "title": "Glossaire et Référence",
+        "description": "Glossaire complet de la terminologie des systèmes énergétiques, des unités et des facteurs de conversion utilisés dans nos matériels de recherche et d'éducation."
+      }
     ],
     "freeTitle": "Toutes les ressources sont gratuites. Pas de comptes, pas de paywalls, pas d'achats.",
     "freeDescription": "Nous croyons que les connaissances en durabilité devraient être un bien public. Les ressources seront mises à disposition au téléchargement une fois finalisées."
@@ -148,7 +297,13 @@
     "formEmailPlaceholder": "you@example.com",
     "formMessagePlaceholder": "Comment pouvons-nous vous aider ?",
     "formSubmit": "Envoyer le Message",
-    "subjects": ["Demande générale", "Collaboration de recherche", "Partenariat éducatif", "Demande média", "Autre"]
+    "subjects": [
+      "Demande générale",
+      "Collaboration de recherche",
+      "Partenariat éducatif",
+      "Demande média",
+      "Autre"
+    ]
   },
   "footer": {
     "description": "Une initiative de mission publique dédiée à la recherche en durabilité, la réduction du gaspillage énergétique et l'éducation ouverte pour les communautés du monde entier.",
@@ -173,19 +328,49 @@
     "tool": "Outil"
   },
   "faq": [
-    { "question": "Qu'est-ce qu'Energiemind ?", "answer": "Energiemind est une initiative de mission publique dédiée à la recherche en durabilité, la réduction du gaspillage énergétique, la réutilisation de la chaleur du minage et l'éducation ouverte. Nous publions librement nos résultats sans vente commerciale ni activité de prévente." },
-    { "question": "Energiemind est-il une entreprise commerciale ?", "answer": "Non. Energiemind est une initiative de recherche et d'éducation. Nous ne vendons pas de produits, n'acceptons pas de commandes en prévente et n'exploitons pas de boutique. Toutes les ressources sont fournies comme bien public." },
-    { "question": "Qu'est-ce que la réutilisation de la chaleur du minage ?", "answer": "La réutilisation de la chaleur du minage capture l'énergie thermique résiduelle des opérations de minage de cryptomonnaies et de centres de données et la redirige vers des usages productifs tels que le chauffage urbain, l'agriculture en serre et le chauffage de l'eau." },
-    { "question": "Comment accéder à la recherche et aux ressources ?", "answer": "Toutes les recherches publiées, jeux de données et matériels éducatifs sont disponibles gratuitement dans notre section Ressources Publiques. Aucun compte ni paywall requis." },
-    { "question": "Comment collaborer avec Energiemind ?", "answer": "Les chercheurs, éducateurs et institutions peuvent nous contacter à research@energiemind.org pour des demandes de collaboration. Nous accueillons les partenariats académiques et la réplication indépendante de nos études." }
+    {
+      "question": "Qu'est-ce qu'Energiemind ?",
+      "answer": "Energiemind est une initiative de mission publique dédiée à la recherche en durabilité, la réduction du gaspillage énergétique, la réutilisation de la chaleur du minage et l'éducation ouverte. Nous publions librement nos résultats sans vente commerciale ni activité de prévente."
+    },
+    {
+      "question": "Energiemind est-il une entreprise commerciale ?",
+      "answer": "Non. Energiemind est une initiative de recherche et d'éducation. Nous ne vendons pas de produits, n'acceptons pas de commandes en prévente et n'exploitons pas de boutique. Toutes les ressources sont fournies comme bien public."
+    },
+    {
+      "question": "Qu'est-ce que la réutilisation de la chaleur du minage ?",
+      "answer": "La réutilisation de la chaleur du minage capture l'énergie thermique résiduelle des opérations de minage de cryptomonnaies et de centres de données et la redirige vers des usages productifs tels que le chauffage urbain, l'agriculture en serre et le chauffage de l'eau."
+    },
+    {
+      "question": "Comment accéder à la recherche et aux ressources ?",
+      "answer": "Toutes les recherches publiées, jeux de données et matériels éducatifs sont disponibles gratuitement dans notre section Ressources Publiques. Aucun compte ni paywall requis."
+    },
+    {
+      "question": "Comment collaborer avec Energiemind ?",
+      "answer": "Les chercheurs, éducateurs et institutions peuvent nous contacter à research@energiemind.org pour des demandes de collaboration. Nous accueillons les partenariats académiques et la réplication indépendante de nos études."
+    }
   ],
   "articles": [
-    { "headline": "Rapport Annuel de Durabilité 2024", "description": "Premier rapport annuel couvrant le lancement de la mission, les premières publications de recherche, le développement de partenariats et les mesures environnementales de référence.", "datePublished": "2024-12-15" },
-    { "headline": "Étude de Référence sur le Gaspillage Énergétique", "description": "Étude fondamentale établissant la méthodologie et les données initiales pour la quantification du gaspillage énergétique industriel dans les régions cibles.", "datePublished": "2024-09-20" },
-    { "headline": "Évaluation d'Impact de la Réutilisation de la Chaleur du Minage", "description": "Rapport ciblé sur les études de cas de récupération thermique, incluant les volumes de chaleur livrés mesurés, le déplacement carbone et les métriques de bénéfice communautaire.", "datePublished": "2025-06-01" }
+    {
+      "headline": "Rapport Annuel de Durabilité 2024",
+      "description": "Premier rapport annuel couvrant le lancement de la mission, les premières publications de recherche, le développement de partenariats et les mesures environnementales de référence.",
+      "datePublished": "2024-12-15"
+    },
+    {
+      "headline": "Étude de Référence sur le Gaspillage Énergétique",
+      "description": "Étude fondamentale établissant la méthodologie et les données initiales pour la quantification du gaspillage énergétique industriel dans les régions cibles.",
+      "datePublished": "2024-09-20"
+    },
+    {
+      "headline": "Évaluation d'Impact de la Réutilisation de la Chaleur du Minage",
+      "description": "Rapport ciblé sur les études de cas de récupération thermique, incluant les volumes de chaleur livrés mesurés, le déplacement carbone et les métriques de bénéfice communautaire.",
+      "datePublished": "2025-06-01"
+    }
   ],
   "internalLinks": {
     "readIn": "Lire en",
     "alsoAvailable": "Également disponible en"
+  },
+  "faqSection": {
+    "title": "Questions fréquemment posées"
   }
 }

@@ -1,0 +1,376 @@
+{
+  "meta": {
+    "title": "Energiemind — Sustenabilitate, Cercetare și Misiune Publică",
+    "description": "Site de misiune publică pentru reducerea risipei de energie, reutilizarea căldurii din minare, cercetare în sustenabilitate și resurse educaționale deschise.",
+    "keywords": [
+      "sustenabilitate",
+      "reducerea risipei de energie",
+      "reutilizarea căldurii din minare",
+      "cercetare",
+      "educație",
+      "climă",
+      "energie regenerabilă"
+    ],
+    "ogTitle": "Energiemind — Sustenabilitate, Cercetare și Misiune Publică",
+    "ogDescription": "Promovarea eficienței energetice, a reutilizării căldurii din minare și a cercetării deschise în sustenabilitate pentru binele public.",
+    "twitterTitle": "Energiemind — Sustenabilitate, Cercetare și Misiune Publică",
+    "twitterDescription": "Cercetare și educație deschise privind reducerea risipei de energie, reutilizarea căldurii din minare și sustenabilitatea."
+  },
+  "nav": {
+    "mission": "Misiune",
+    "research": "Cercetare",
+    "miningHeatReuse": "Reutilizarea Căldurii din Minare",
+    "energyWasteReduction": "Reducerea Risipei de Energie",
+    "sustainabilityReports": "Rapoarte de Sustenabilitate",
+    "education": "Educație",
+    "publicResources": "Resurse Publice",
+    "contact": "Contact",
+    "toggleMenu": "Comută meniul de navigare",
+    "mainNav": "Navigare principală",
+    "language": "Limbă",
+    "selectLanguage": "Selectează limba"
+  },
+  "hero": {
+    "badge": "Misiune Publică · Cercetare · Sustenabilitate",
+    "title": "Transformarea energiei risipite în cunoștințe pentru un viitor sustenabil",
+    "description": "Energiemind este o inițiativă deschisă de cercetare și educație axată pe reducerea risipei de energie, reutilizarea căldurii din minare și documentarea publică a sustenabilității. Împărtășim rezultatele liber — fără vânzări, fără presale, fără agendă comercială.",
+    "ctaMission": "Misiunea Noastră",
+    "ctaResources": "Explorează Resursele"
+  },
+  "mission": {
+    "title": "Misiune",
+    "subtitle": "Existăm pentru a promova înțelegerea publică a sistemelor energetice și a accelera tranziția către o economie energetică sustenabilă, fără risipă.",
+    "p1": "Energiemind a fost fondată pe o convingere simplă: energia pe care o risipim astăzi este cunoștința pe care nu o împărtășim mâine. În procesele industriale, centrele de date și operațiunile de minare a criptomonedelor, cantități enorme de energie termică sunt eliberate în atmosferă — energie care ar putea încălzi locuințe, sere și facilități comunitare.",
+    "p2": "Misiunea noastră este să documentăm, să cercetăm și să educăm. Publicăm rezultate deschise, colaborăm cu instituții academice și oferim resurse gratuite decidenților politici, inginerilor și cetățenilor care doresc să înțeleagă cum pot funcționa mai bine sistemele energetice pentru oameni și planetă.",
+    "principlesTitle": "Principii Fundamentale",
+    "principles": [
+      "Știință deschisă — toată cercetarea publicată pentru acces public",
+      "Bazată pe dovezi — date și metodologie complet documentate",
+      "Comunitatea pe primul loc — soluții concepute pentru beneficiul local",
+      "Non-comercial — fără produse, presale sau canale de vânzare"
+    ]
+  },
+  "research": {
+    "title": "Cercetare",
+    "subtitle": "Studii orientate spre evaluare prin colegi privind eficiența energetică, sistemele de recuperare termică și impactul ambiental al consumului industrial de energie.",
+    "footnote": "Toată cercetarea publicată este disponibilă sub licențe deschise în secțiunea",
+    "footnoteLink": "Resurse Publice",
+    "footnoteEnd": ". Încurajăm colaborarea academică și replicarea independentă.",
+    "cards": [
+      {
+        "tag": "active",
+        "title": "Studii de Fezabilitate a Recuperării Termice",
+        "description": "Analiză cantitativă a potențialului de captare a căldurii în minare, producție industrială și infrastructură de calcul. Include modele cost-beneficiu și studii de caz regionale."
+      },
+      {
+        "tag": "active",
+        "title": "Cartografierea Risipei de Energie",
+        "description": "Cercetare geospațială care identifică punctele critice de risipă a căldurii industriale și le asociază cu cererea termică din apropiere — încălzire urbană, agricultură și acvacultură."
+      },
+      {
+        "tag": "published",
+        "title": "Analiza Carbonului pe Ciclul de Viață",
+        "description": "Evaluări complete ale ciclului de viață care compară încălzirea convențională cu căldura industrială recuperată, inclusiv carbonul încorporat și factorii de înlocuire a rețelei."
+      },
+      {
+        "tag": "active",
+        "title": "Revizuirea Cadrelor de Politici",
+        "description": "Analiză comparativă a politicilor naționale și regionale care facilitează sau împiedică recuperarea căldurii industriale, cu recomandări pentru administratorii publici."
+      },
+      {
+        "tag": "planning",
+        "title": "Modele de Integrare Comunitară",
+        "description": "Cercetare socio-economică privind modul în care proiectele de căldură recuperată pot fi structurate pentru a beneficia comunitățile locale în mod echitabil și transparent."
+      },
+      {
+        "tag": "published",
+        "title": "Standarde de Date Deschise",
+        "description": "Dezvoltarea unor formate de date standardizate pentru raportarea risipei de energie și a indicatorilor de recuperare a căldurii, permițând compararea și replicarea între studii."
+      }
+    ]
+  },
+  "miningHeatReuse": {
+    "title": "Reutilizarea Căldurii din Minare",
+    "subtitle": "Operațiunile de minare a criptomonedelor și a centrelor de date generează căldură reziduală substanțială. Cercetăm cum poate fi redirecționată această producție termică către utilizări productive.",
+    "p1": "Facilitățile proof-of-work și de calcul de înaltă performanță produc căldură ca produs secundar al calculului continuu. În loc să elibereze această energie în atmosferă, reutilizarea căldurii din minare o capturează pentru rețele de încălzire urbană, agricultură în sere, încălzirea apei și procese industriale.",
+    "p2": "Energiemind documentează implementări reale, măsoară câștigurile de eficiență și publică ghiduri tehnice pentru operatori și municipalități care iau în considerare parteneriate de recuperare a căldurii. Munca noastră pune accent pe transparența privind sursele de energie, impactul asupra rețelei și beneficiul comunitar.",
+    "stats": [
+      {
+        "value": "60–90%",
+        "label": "Potențial de recuperare a căldurii în sisteme optimizate"
+      },
+      {
+        "value": "24/7",
+        "label": "Producție termică continuă din operațiunile de minare"
+      },
+      {
+        "value": "3×",
+        "label": "Câștig tipic de eficiență față de căldura evacuată"
+      },
+      {
+        "value": "Open",
+        "label": "Toate datele studiilor de caz documentate public"
+      }
+    ],
+    "cards": [
+      {
+        "title": "Arhitectură Tehnică",
+        "description": "Proiectarea schimbătoarelor de căldură, configurațiile circuitelor de fluid și modelele de integrare pentru conectarea facilităților de minare la infrastructura de încălzire existentă."
+      },
+      {
+        "title": "Bibliotecă de Studii de Caz",
+        "description": "Implementări documentate în țările nordice, Europa Centrală și America de Nord — inclusiv date de performanță, provocări și lecții învățate."
+      },
+      {
+        "title": "Evaluare de Mediu",
+        "description": "Evaluare onestă a impactului net asupra mediului, inclusiv analiza sursei de energie, dependența de rețea și metodologia de contabilizare a carbonului."
+      }
+    ]
+  },
+  "energyWasteReduction": {
+    "title": "Reducerea Risipei de Energie",
+    "subtitle": "Abordări sistematice pentru identificarea, măsurarea și eliminarea risipei de energie în sistemele industriale și municipale.",
+    "cards": [
+      {
+        "title": "Metodologie de Audit al Risipei",
+        "description": "Un cadru standardizat pentru efectuarea auditurilor de risipă de energie în facilități industriale. Acoperă pierderile termice, ineficiențele electrice și tiparele de risipă operațională."
+      },
+      {
+        "title": "Sisteme Inteligente de Monitorizare",
+        "description": "Cercetare privind rețele de senzori cu cost redus și analiza datelor pentru detectarea în timp real a risipei de energie, permițând intervenția proactivă înainte ca pierderile să se acumuleze."
+      },
+      {
+        "title": "Factori Comportamentali și Operaționali",
+        "description": "Studii privind modul în care practicile operaționale, programele de întreținere și cultura organizațională afectează risipa de energie — cu recomandări aplicabile."
+      },
+      {
+        "title": "Prioritizarea Modernizărilor",
+        "description": "Cadre decizionale pentru clasificarea îmbunătățirilor de eficiență energetică după impact, cost și complexitatea implementării — concepute pentru constrângerile bugetare din sectorul public."
+      }
+    ],
+    "hierarchyTitle": "Ierarhia Risipei",
+    "hierarchySubtitle": "Cercetarea noastră urmează o ordine clară de priorități pentru abordarea risipei de energie:",
+    "stepLabel": "Pas",
+    "hierarchySteps": [
+      {
+        "step": "1",
+        "title": "Elimină",
+        "desc": "Elimină complet consumul inutil de energie"
+      },
+      {
+        "step": "2",
+        "title": "Reduce",
+        "desc": "Minimizează consumul de energie pentru rezultatele necesare"
+      },
+      {
+        "step": "3",
+        "title": "Recuperează",
+        "desc": "Capturează și reutilizează căldura reziduală și produsele secundare"
+      },
+      {
+        "step": "4",
+        "title": "Compensează",
+        "desc": "Înlocuiește cererea rămasă cu surse curate"
+      }
+    ]
+  },
+  "sustainabilityReports": {
+    "title": "Rapoarte de Sustenabilitate",
+    "subtitle": "Raportare periodică transparentă privind amprenta noastră de mediu, progresul cercetării și impactul comunitar.",
+    "statusPublished": "Published",
+    "statusInProgress": "In Progress",
+    "availableInResources": "Disponibil în Resurse Publice",
+    "willBePublished": "Va fi publicat la finalizare",
+    "reports": [
+      {
+        "year": "2025",
+        "title": "Raport Anual de Sustenabilitate",
+        "status": "In Progress",
+        "summary": "Evaluare cuprinzătoare a rezultatelor cercetării, indicatorilor energetici din studii de teren și evaluărilor de impact asupra mediului pentru toate proiectele active."
+      },
+      {
+        "year": "2024",
+        "title": "Raport Anual de Sustenabilitate",
+        "status": "Published",
+        "summary": "Primul raport anual care acoperă lansarea misiunii, publicațiile inițiale de cercetare, dezvoltarea parteneriatelor și măsurătorile de mediu de referință."
+      },
+      {
+        "year": "2025",
+        "title": "Evaluarea Impactului Reutilizării Căldurii din Minare",
+        "status": "In Progress",
+        "summary": "Raport concentrat pe studii de caz de recuperare termică, inclusiv volume măsurate de livrare a căldurii, înlocuirea carbonului și indicatori de beneficiu comunitar."
+      },
+      {
+        "year": "2024",
+        "title": "Studiu de Referință al Risipei de Energie",
+        "status": "Published",
+        "summary": "Studiu fundamental care stabilește metodologia și datele inițiale pentru cuantificarea risipei de energie industrială în regiunile țintă."
+      }
+    ]
+  },
+  "education": {
+    "title": "Educație",
+    "subtitle": "Materiale de învățare gratuite pentru studenți, profesioniști și comunități care doresc să înțeleagă sistemele energetice și sustenabilitatea.",
+    "cards": [
+      {
+        "tag": "course",
+        "title": "Introducere în Sistemele Energetice",
+        "description": "Curs fundamental care acoperă modul în care energia circulă prin sistemele industriale, rezidențiale și municipale — cu accent pe identificarea risipei."
+      },
+      {
+        "tag": "workshop",
+        "title": "Recuperarea Căldurii pentru Practicieni",
+        "description": "Materiale practice de atelier pentru ingineri și manageri de facilități privind proiectarea și implementarea sistemelor de recuperare termică."
+      },
+      {
+        "tag": "guide",
+        "title": "Alfabetizare în Sustenabilitate",
+        "description": "Ghiduri accesibile care explică contabilizarea carbonului, analiza ciclului de viață și raportarea sustenabilității pentru publicul non-tehnic."
+      },
+      {
+        "tag": "webinar",
+        "title": "Minare și Politică Energetică",
+        "description": "Discuții înregistrate despre intersecția dintre minarea criptomonedelor, politica energetică și programele comunitare de recuperare a căldurii."
+      },
+      {
+        "tag": "curriculum",
+        "title": "Materiale pentru Programe Școlare",
+        "description": "Planuri de lecție și activități adaptate vârstei pentru educatorii K-12 care predau conservarea energiei și responsabilitatea față de mediu."
+      },
+      {
+        "tag": "toolkit",
+        "title": "Kit de Instrumente pentru Organizatori Comunitari",
+        "description": "Resurse pentru grupuri locale care susțin reducerea risipei de energie și proiecte de recuperare a căldurii în municipalitățile lor."
+      }
+    ]
+  },
+  "publicResources": {
+    "title": "Resurse Publice",
+    "subtitle": "Documente, seturi de date și instrumente cu acces deschis — disponibile gratuit pentru descărcare, citare și reutilizare.",
+    "cards": [
+      {
+        "tag": "dataset",
+        "title": "Atlasul Risipei de Căldură Industrială",
+        "description": "Set de date geospațiale care cartografiază risipa termică estimată din facilități industriale în regiunile participante. Actualizat trimestrial."
+      },
+      {
+        "tag": "document",
+        "title": "Arhiva Articolelor de Cercetare",
+        "description": "Arhivă completă a articolelor publicate, preprinturilor și notelor tehnice. Toate materialele licențiate pentru uz academic și public."
+      },
+      {
+        "tag": "tool",
+        "title": "Calculator de Recuperare a Căldurii",
+        "description": "Foaie de calcul open source și instrument web pentru estimarea potențialului de recuperare a căldurii pe baza tipului de facilitate, dimensiunii și cererii locale."
+      },
+      {
+        "tag": "document",
+        "title": "Colecție de Policy Brief-uri",
+        "description": "Policy brief-uri concise concepute pentru legislatori și administratori publici, care rezumă rezultatele cercetării în recomandări aplicabile."
+      },
+      {
+        "tag": "dataset",
+        "title": "Standard de Indicatori ai Risipei de Energie",
+        "description": "Schemă lizibilă de mașină și date de referință pentru raportarea standardizată a risipei de energie, permițând analiza comparativă între studii."
+      },
+      {
+        "tag": "document",
+        "title": "Glosar și Referințe",
+        "description": "Glosar cuprinzător al terminologiei sistemelor energetice, unităților și factorilor de conversie utilizați în materialele noastre de cercetare și educație."
+      }
+    ],
+    "freeTitle": "Toate resursele sunt gratuite. Fără conturi, fără paywall-uri, fără achiziții.",
+    "freeDescription": "Credem că cunoștințele despre sustenabilitate ar trebui să fie un bun public. Resursele vor fi puse la dispoziție pentru descărcare pe măsură ce sunt finalizate."
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Contactați-ne pentru colaborare în cercetare, parteneriate educaționale, solicitări media sau întrebări generale despre misiunea noastră.",
+    "generalInquiries": "Întrebări Generale",
+    "researchCollaboration": "Colaborare în Cercetare",
+    "educationOutreach": "Educație și Informare",
+    "disclaimer": "Suntem o inițiativă de cercetare și educație — nu o entitate comercială. Nu vindem produse, nu acceptăm comenzi de presale și nu operăm un magazin. Pentru solicitări media, vă rugăm să includeți publicația și termenul limită în mesaj.",
+    "formName": "Nume",
+    "formEmail": "Email",
+    "formSubject": "Subiect",
+    "formMessage": "Mesaj",
+    "formNamePlaceholder": "Numele dvs.",
+    "formEmailPlaceholder": "you@example.com",
+    "formMessagePlaceholder": "Cum vă putem ajuta?",
+    "formSubmit": "Trimite Mesajul",
+    "subjects": [
+      "Întrebare generală",
+      "Colaborare în cercetare",
+      "Parteneriat educațional",
+      "Solicitare media",
+      "Altele"
+    ]
+  },
+  "footer": {
+    "description": "O inițiativă de misiune publică dedicată cercetării în sustenabilitate, reducerii risipei de energie și educației deschise pentru comunități din întreaga lume.",
+    "explore": "Explorează",
+    "resources": "Resurse",
+    "rights": "Toate drepturile rezervate.",
+    "tagline": "Misiune publică · Cercetare · Educație · Fără vânzări comerciale",
+    "languages": "Disponibil în 25 de limbi"
+  },
+  "tags": {
+    "active": "Activ",
+    "published": "Publicat",
+    "planning": "În planificare",
+    "course": "Curs",
+    "workshop": "Atelier",
+    "guide": "Ghid",
+    "webinar": "Webinar",
+    "curriculum": "Curriculum",
+    "toolkit": "Kit de instrumente",
+    "dataset": "Set de date",
+    "document": "Document",
+    "tool": "Instrument"
+  },
+  "faq": [
+    {
+      "question": "Ce este Energiemind?",
+      "answer": "Energiemind este o inițiativă de misiune publică dedicată cercetării în sustenabilitate, reducerii risipei de energie, reutilizării căldurii din minare și educației deschise. Publicăm rezultate liber, fără vânzări comerciale sau activități de presale."
+    },
+    {
+      "question": "Este Energiemind o companie comercială?",
+      "answer": "Nu. Energiemind este o inițiativă de cercetare și educație. Nu vindem produse, nu acceptăm comenzi de presale și nu operăm un magazin. Toate resursele sunt oferite ca bun public."
+    },
+    {
+      "question": "Ce este reutilizarea căldurii din minare?",
+      "answer": "Reutilizarea căldurii din minare capturează energia termică reziduală din operațiunile de minare a criptomonedelor și a centrelor de date și o redirecționează pentru utilizări productive, cum ar fi încălzirea urbană, agricultura în sere și încălzirea apei."
+    },
+    {
+      "question": "Cum pot accesa cercetarea și resursele?",
+      "answer": "Toată cercetarea publicată, seturile de date și materialele educaționale sunt disponibile gratuit în secțiunea noastră Resurse Publice. Nu sunt necesare conturi sau paywall-uri."
+    },
+    {
+      "question": "Cum pot colabora cu Energiemind?",
+      "answer": "Cercetătorii, educatorii și instituțiile ne pot contacta la research@energiemind.org pentru solicitări de colaborare. Încurajăm parteneriatele academice și replicarea independentă a studiilor noastre."
+    }
+  ],
+  "articles": [
+    {
+      "headline": "Raport Anual de Sustenabilitate 2024",
+      "description": "Primul raport anual care acoperă lansarea misiunii, publicațiile inițiale de cercetare, dezvoltarea parteneriatelor și măsurătorile de mediu de referință.",
+      "datePublished": "2024-12-15"
+    },
+    {
+      "headline": "Studiu de Referință al Risipei de Energie",
+      "description": "Studiu fundamental care stabilește metodologia și datele inițiale pentru cuantificarea risipei de energie industrială în regiunile țintă.",
+      "datePublished": "2024-09-20"
+    },
+    {
+      "headline": "Evaluarea Impactului Reutilizării Căldurii din Minare",
+      "description": "Raport concentrat pe studii de caz de recuperare termică, inclusiv volume măsurate de livrare a căldurii, înlocuirea carbonului și indicatori de beneficiu comunitar.",
+      "datePublished": "2025-06-01"
+    }
+  ],
+  "internalLinks": {
+    "readIn": "Citește în",
+    "alsoAvailable": "Disponibil și în"
+  },
+  "faqSection": {
+    "title": "Întrebări frecvente"
+  }
+}

@@ -2,7 +2,15 @@
   "meta": {
     "title": "Energiemind — Nachhaltigkeit, Forschung & Öffentliche Mission",
     "description": "Website der öffentlichen Mission für Energieverschwendungsreduzierung, Wärmenutzung im Mining, Nachhaltigkeitsforschung und offene Bildungsressourcen.",
-    "keywords": ["Nachhaltigkeit", "Energieverschwendungsreduzierung", "Wärmenutzung im Mining", "Forschung", "Bildung", "Klima", "erneuerbare Energie"],
+    "keywords": [
+      "Nachhaltigkeit",
+      "Energieverschwendungsreduzierung",
+      "Wärmenutzung im Mining",
+      "Forschung",
+      "Bildung",
+      "Klima",
+      "erneuerbare Energie"
+    ],
     "ogTitle": "Energiemind — Nachhaltigkeit, Forschung & Öffentliche Mission",
     "ogDescription": "Förderung von Energieeffizienz, Wärmenutzung im Mining und offener Nachhaltigkeitsforschung zum Wohle der Allgemeinheit.",
     "twitterTitle": "Energiemind — Nachhaltigkeit, Forschung & Öffentliche Mission",
@@ -49,12 +57,36 @@
     "footnoteLink": "Öffentliche Ressourcen",
     "footnoteEnd": "verfügbar. Wir begrüßen akademische Zusammenarbeit und unabhängige Replikation.",
     "cards": [
-      { "tag": "active", "title": "Machbarkeitsstudien zur thermischen Rückgewinnung", "description": "Quantitative Analyse des Wärmerückgewinnungspotenzials in Mining-, Fertigungs- und Recheninfrastruktur. Enthält Kosten-Nutzen-Modelle und regionale Fallstudien." },
-      { "tag": "active", "title": "Kartierung von Energieverschwendung", "description": "Geografische Forschung zur Identifizierung industrieller Wärmeverschwendungs-Hotspots und deren Abgleich mit nahegelegenem Wärmebedarf — Fernwärme, Landwirtschaft und Aquakultur." },
-      { "tag": "published", "title": "Lebenszyklus-Kohlenstoffanalyse", "description": "Vollständige Lebenszyklusbewertungen im Vergleich konventioneller Heizung mit rückgewonnener Industriewärme, einschließlich eingebettetem Kohlenstoff und Netzverdrängungsfaktoren." },
-      { "tag": "active", "title": "Überprüfung des politischen Rahmens", "description": "Vergleichende Analyse nationaler und regionaler Politiken, die industrielle Wärmerückgewinnung ermöglichen oder behindern, mit Empfehlungen für öffentliche Verwaltungen." },
-      { "tag": "planning", "title": "Modelle der Gemeinschaftsintegration", "description": "Sozioökonomische Forschung darüber, wie Projekte zur Wärmerückgewinnung so strukturiert werden können, dass sie lokale Gemeinschaften gerecht und transparent nutzen." },
-      { "tag": "published", "title": "Offene Datenstandards", "description": "Entwicklung standardisierter Datenformate für die Berichterstattung über Energieverschwendung und Wärmerückgewinnungsmetriken zur Ermöglichung vergleichender Studien und Replikation." }
+      {
+        "tag": "active",
+        "title": "Machbarkeitsstudien zur thermischen Rückgewinnung",
+        "description": "Quantitative Analyse des Wärmerückgewinnungspotenzials in Mining-, Fertigungs- und Recheninfrastruktur. Enthält Kosten-Nutzen-Modelle und regionale Fallstudien."
+      },
+      {
+        "tag": "active",
+        "title": "Kartierung von Energieverschwendung",
+        "description": "Geografische Forschung zur Identifizierung industrieller Wärmeverschwendungs-Hotspots und deren Abgleich mit nahegelegenem Wärmebedarf — Fernwärme, Landwirtschaft und Aquakultur."
+      },
+      {
+        "tag": "published",
+        "title": "Lebenszyklus-Kohlenstoffanalyse",
+        "description": "Vollständige Lebenszyklusbewertungen im Vergleich konventioneller Heizung mit rückgewonnener Industriewärme, einschließlich eingebettetem Kohlenstoff und Netzverdrängungsfaktoren."
+      },
+      {
+        "tag": "active",
+        "title": "Überprüfung des politischen Rahmens",
+        "description": "Vergleichende Analyse nationaler und regionaler Politiken, die industrielle Wärmerückgewinnung ermöglichen oder behindern, mit Empfehlungen für öffentliche Verwaltungen."
+      },
+      {
+        "tag": "planning",
+        "title": "Modelle der Gemeinschaftsintegration",
+        "description": "Sozioökonomische Forschung darüber, wie Projekte zur Wärmerückgewinnung so strukturiert werden können, dass sie lokale Gemeinschaften gerecht und transparent nutzen."
+      },
+      {
+        "tag": "published",
+        "title": "Offene Datenstandards",
+        "description": "Entwicklung standardisierter Datenformate für die Berichterstattung über Energieverschwendung und Wärmerückgewinnungsmetriken zur Ermöglichung vergleichender Studien und Replikation."
+      }
     ]
   },
   "miningHeatReuse": {
@@ -63,34 +95,83 @@
     "p1": "Proof-of-Work- und Hochleistungsrechenanlagen erzeugen Wärme als Nebenprodukt kontinuierlicher Berechnung. Anstatt diese Energie in die Atmosphäre abzugeben, erfasst die Wärmenutzung im Mining sie für Fernwärmenetze, Gewächshauslandwirtschaft, Warmwasserbereitung und industrielle Prozesse.",
     "p2": "Energiemind dokumentiert reale Implementierungen, misst Effizienzgewinne und veröffentlicht technische Leitfäden für Betreiber und Kommunen, die Wärmerückgewinnungspartnerschaften in Betracht ziehen. Unsere Arbeit betont Transparenz bezüglich Energiequellen, Netzauswirkungen und Gemeinschaftsnutzen.",
     "stats": [
-      { "value": "60–90%", "label": "Wärmerückgewinnungspotenzial in optimierten Systemen" },
-      { "value": "24/7", "label": "Kontinuierliche thermische Leistung aus Mining-Operationen" },
-      { "value": "3×", "label": "Typischer Effizienzgewinn gegenüber abgeführter Wärme" },
-      { "value": "Open", "label": "Alle Fallstudien-Daten öffentlich dokumentiert" }
+      {
+        "value": "60–90%",
+        "label": "Wärmerückgewinnungspotenzial in optimierten Systemen"
+      },
+      {
+        "value": "24/7",
+        "label": "Kontinuierliche thermische Leistung aus Mining-Operationen"
+      },
+      {
+        "value": "3×",
+        "label": "Typischer Effizienzgewinn gegenüber abgeführter Wärme"
+      },
+      {
+        "value": "Open",
+        "label": "Alle Fallstudien-Daten öffentlich dokumentiert"
+      }
     ],
     "cards": [
-      { "title": "Technische Architektur", "description": "Wärmetauscher-Design, Flüssigkeitskreislauf-Konfigurationen und Integrationsmuster zur Anbindung von Mining-Anlagen an bestehende Heizinfrastruktur." },
-      { "title": "Fallstudien-Bibliothek", "description": "Dokumentierte Einsätze in nordischen Ländern, Mitteleuropa und Nordamerika — einschließlich Leistungsdaten, Herausforderungen und gewonnener Erkenntnisse." },
-      { "title": "Umweltbewertung", "description": "Ehrliche Bewertung der Netto-Umweltauswirkungen, einschließlich Energiequellenanalyse, Netzabhängigkeit und Kohlenstoffbilanzierungsmethodik." }
+      {
+        "title": "Technische Architektur",
+        "description": "Wärmetauscher-Design, Flüssigkeitskreislauf-Konfigurationen und Integrationsmuster zur Anbindung von Mining-Anlagen an bestehende Heizinfrastruktur."
+      },
+      {
+        "title": "Fallstudien-Bibliothek",
+        "description": "Dokumentierte Einsätze in nordischen Ländern, Mitteleuropa und Nordamerika — einschließlich Leistungsdaten, Herausforderungen und gewonnener Erkenntnisse."
+      },
+      {
+        "title": "Umweltbewertung",
+        "description": "Ehrliche Bewertung der Netto-Umweltauswirkungen, einschließlich Energiequellenanalyse, Netzabhängigkeit und Kohlenstoffbilanzierungsmethodik."
+      }
     ]
   },
   "energyWasteReduction": {
     "title": "Energieverschwendungsreduzierung",
     "subtitle": "Systematische Ansätze zur Identifizierung, Messung und Beseitigung von Energieverschwendung in industriellen und kommunalen Systemen.",
     "cards": [
-      { "title": "Methodik der Verschwendungsprüfung", "description": "Ein standardisierter Rahmen für Energieverschwendungs-Audits in Industrieanlagen. Umfasst thermische Verluste, elektrische Ineffizienzen und betriebliche Verschwendungsmuster." },
-      { "title": "Intelligente Überwachungssysteme", "description": "Forschung zu kostengünstigen Sensornetzwerken und Datenanalytik zur Echtzeit-Erkennung von Energieverschwendung, die proaktives Eingreifen ermöglicht, bevor sich Verluste summieren." },
-      { "title": "Verhaltens- und Betriebsfaktoren", "description": "Studien darüber, wie Betriebspraktiken, Wartungspläne und Organisationskultur Energieverschwendung beeinflussen — mit umsetzbaren Empfehlungen." },
-      { "title": "Priorisierung von Sanierungen", "description": "Entscheidungsrahmen zur Rangfolge von Energieeffizienzverbesserungen nach Wirkung, Kosten und Implementierungskomplexität — konzipiert für öffentliche Budgetbeschränkungen." }
+      {
+        "title": "Methodik der Verschwendungsprüfung",
+        "description": "Ein standardisierter Rahmen für Energieverschwendungs-Audits in Industrieanlagen. Umfasst thermische Verluste, elektrische Ineffizienzen und betriebliche Verschwendungsmuster."
+      },
+      {
+        "title": "Intelligente Überwachungssysteme",
+        "description": "Forschung zu kostengünstigen Sensornetzwerken und Datenanalytik zur Echtzeit-Erkennung von Energieverschwendung, die proaktives Eingreifen ermöglicht, bevor sich Verluste summieren."
+      },
+      {
+        "title": "Verhaltens- und Betriebsfaktoren",
+        "description": "Studien darüber, wie Betriebspraktiken, Wartungspläne und Organisationskultur Energieverschwendung beeinflussen — mit umsetzbaren Empfehlungen."
+      },
+      {
+        "title": "Priorisierung von Sanierungen",
+        "description": "Entscheidungsrahmen zur Rangfolge von Energieeffizienzverbesserungen nach Wirkung, Kosten und Implementierungskomplexität — konzipiert für öffentliche Budgetbeschränkungen."
+      }
     ],
     "hierarchyTitle": "Die Verschwendungshierarchie",
     "hierarchySubtitle": "Unsere Forschung folgt einer klaren Prioritätenordnung zur Bekämpfung von Energieverschwendung:",
     "stepLabel": "Schritt",
     "hierarchySteps": [
-      { "step": "1", "title": "Eliminieren", "desc": "Unnötigen Energieverbrauch vollständig beseitigen" },
-      { "step": "2", "title": "Reduzieren", "desc": "Energieeinsatz für erforderliche Leistungen minimieren" },
-      { "step": "3", "title": "Rückgewinnen", "desc": "Abwärme und Nebenprodukte erfassen und wiederverwenden" },
-      { "step": "4", "title": "Ausgleichen", "desc": "Verbleibenden Bedarf mit sauberen Quellen decken" }
+      {
+        "step": "1",
+        "title": "Eliminieren",
+        "desc": "Unnötigen Energieverbrauch vollständig beseitigen"
+      },
+      {
+        "step": "2",
+        "title": "Reduzieren",
+        "desc": "Energieeinsatz für erforderliche Leistungen minimieren"
+      },
+      {
+        "step": "3",
+        "title": "Rückgewinnen",
+        "desc": "Abwärme und Nebenprodukte erfassen und wiederverwenden"
+      },
+      {
+        "step": "4",
+        "title": "Ausgleichen",
+        "desc": "Verbleibenden Bedarf mit sauberen Quellen decken"
+      }
     ]
   },
   "sustainabilityReports": {
@@ -101,34 +182,102 @@
     "availableInResources": "Verfügbar in Öffentliche Ressourcen",
     "willBePublished": "Wird nach Fertigstellung veröffentlicht",
     "reports": [
-      { "year": "2025", "title": "Jährlicher Nachhaltigkeitsbericht", "status": "In Progress", "summary": "Umfassende Überprüfung der Forschungsergebnisse, Energiemetriken aus Feldstudien und Umweltverträglichkeitsprüfungen aller aktiven Projekte." },
-      { "year": "2024", "title": "Jährlicher Nachhaltigkeitsbericht", "status": "Published", "summary": "Erster Jahresbericht über Missionsstart, erste Forschungsveröffentlichungen, Partnerschaftsentwicklung und grundlegende Umweltmessungen." },
-      { "year": "2025", "title": "Wirkungsbewertung der Wärmenutzung im Mining", "status": "In Progress", "summary": "Fokussierter Bericht über Fallstudien zur thermischen Rückgewinnung, einschließlich gemessener Wärmeliefermengen, Kohlenstoffverdrängung und Gemeinschaftsnutzen-Metriken." },
-      { "year": "2024", "title": "Grundlagenstudie zur Energieverschwendung", "status": "Published", "summary": "Grundlagenstudie zur Etablierung von Methodik und Anfangsdaten für die Quantifizierung industrieller Energieverschwendung in Zielregionen." }
+      {
+        "year": "2025",
+        "title": "Jährlicher Nachhaltigkeitsbericht",
+        "status": "In Progress",
+        "summary": "Umfassende Überprüfung der Forschungsergebnisse, Energiemetriken aus Feldstudien und Umweltverträglichkeitsprüfungen aller aktiven Projekte."
+      },
+      {
+        "year": "2024",
+        "title": "Jährlicher Nachhaltigkeitsbericht",
+        "status": "Published",
+        "summary": "Erster Jahresbericht über Missionsstart, erste Forschungsveröffentlichungen, Partnerschaftsentwicklung und grundlegende Umweltmessungen."
+      },
+      {
+        "year": "2025",
+        "title": "Wirkungsbewertung der Wärmenutzung im Mining",
+        "status": "In Progress",
+        "summary": "Fokussierter Bericht über Fallstudien zur thermischen Rückgewinnung, einschließlich gemessener Wärmeliefermengen, Kohlenstoffverdrängung und Gemeinschaftsnutzen-Metriken."
+      },
+      {
+        "year": "2024",
+        "title": "Grundlagenstudie zur Energieverschwendung",
+        "status": "Published",
+        "summary": "Grundlagenstudie zur Etablierung von Methodik und Anfangsdaten für die Quantifizierung industrieller Energieverschwendung in Zielregionen."
+      }
     ]
   },
   "education": {
     "title": "Bildung",
     "subtitle": "Kostenlose Lernmaterialien für Studierende, Fachleute und Gemeinschaften, die Energiesysteme und Nachhaltigkeit verstehen möchten.",
     "cards": [
-      { "tag": "course", "title": "Einführung in Energiesysteme", "description": "Grundkurs über den Energiefluss in industriellen, Wohn- und kommunalen Systemen — mit Schwerpunkt auf Verschwendungserkennung." },
-      { "tag": "workshop", "title": "Wärmerückgewinnung für Praktiker", "description": "Praktische Workshop-Materialien für Ingenieure und Facility Manager zum Entwurf und zur Implementierung thermischer Rückgewinnungssysteme." },
-      { "tag": "guide", "title": "Nachhaltigkeitskompetenz", "description": "Zugängliche Leitfäden zur Erklärung von Kohlenstoffbilanzierung, Lebenszyklusanalyse und Nachhaltigkeitsberichterstattung für nicht-technische Zielgruppen." },
-      { "tag": "webinar", "title": "Mining & Energiepolitik", "description": "Aufgezeichnete Diskussionen über die Schnittstelle von Kryptowährungs-Mining, Energiepolitik und kommunalen Wärmerückgewinnungsprogrammen." },
-      { "tag": "curriculum", "title": "Schulprogramm-Materialien", "description": "Altersgerechte Unterrichtspläne und Aktivitäten für K-12-Lehrkräfte zum Thema Energieeinsparung und Umweltverantwortung." },
-      { "tag": "toolkit", "title": "Toolkit für Gemeinschaftsorganisatoren", "description": "Ressourcen für lokale Gruppen, die sich in ihren Gemeinden für Energieverschwendungsreduzierung und Wärmerückgewinnungsprojekte einsetzen." }
+      {
+        "tag": "course",
+        "title": "Einführung in Energiesysteme",
+        "description": "Grundkurs über den Energiefluss in industriellen, Wohn- und kommunalen Systemen — mit Schwerpunkt auf Verschwendungserkennung."
+      },
+      {
+        "tag": "workshop",
+        "title": "Wärmerückgewinnung für Praktiker",
+        "description": "Praktische Workshop-Materialien für Ingenieure und Facility Manager zum Entwurf und zur Implementierung thermischer Rückgewinnungssysteme."
+      },
+      {
+        "tag": "guide",
+        "title": "Nachhaltigkeitskompetenz",
+        "description": "Zugängliche Leitfäden zur Erklärung von Kohlenstoffbilanzierung, Lebenszyklusanalyse und Nachhaltigkeitsberichterstattung für nicht-technische Zielgruppen."
+      },
+      {
+        "tag": "webinar",
+        "title": "Mining & Energiepolitik",
+        "description": "Aufgezeichnete Diskussionen über die Schnittstelle von Kryptowährungs-Mining, Energiepolitik und kommunalen Wärmerückgewinnungsprogrammen."
+      },
+      {
+        "tag": "curriculum",
+        "title": "Schulprogramm-Materialien",
+        "description": "Altersgerechte Unterrichtspläne und Aktivitäten für K-12-Lehrkräfte zum Thema Energieeinsparung und Umweltverantwortung."
+      },
+      {
+        "tag": "toolkit",
+        "title": "Toolkit für Gemeinschaftsorganisatoren",
+        "description": "Ressourcen für lokale Gruppen, die sich in ihren Gemeinden für Energieverschwendungsreduzierung und Wärmerückgewinnungsprojekte einsetzen."
+      }
     ]
   },
   "publicResources": {
     "title": "Öffentliche Ressourcen",
     "subtitle": "Open-Access-Dokumente, Datensätze und Tools — frei verfügbar zum Download, Zitieren und Wiederverwenden.",
     "cards": [
-      { "tag": "dataset", "title": "Atlas industrieller Wärmeverschwendung", "description": "Geografischer Datensatz zur Kartierung geschätzter thermischer Verschwendung von Industrieanlagen in teilnehmenden Regionen. Vierteljährlich aktualisiert." },
-      { "tag": "document", "title": "Forschungspapier-Archiv", "description": "Vollständiges Archiv veröffentlichter Papers, Preprints und technischer Notizen. Alle Materialien für akademische und öffentliche Nutzung lizenziert." },
-      { "tag": "tool", "title": "Wärmerückgewinnungs-Rechner", "description": "Open-Source-Tabellenkalkulation und Web-Tool zur Schätzung des Wärmerückgewinnungspotenzials basierend auf Anlagentyp, Größe und lokalem Bedarf." },
-      { "tag": "document", "title": "Sammlung von Policy Briefs", "description": "Prägnante Policy Briefs für Gesetzgeber und öffentliche Verwaltungen, die Forschungsergebnisse in umsetzbare Empfehlungen zusammenfassen." },
-      { "tag": "dataset", "title": "Standard für Energieverschwendungsmetriken", "description": "Maschinenlesbares Schema und Referenzdaten für standardisierte Berichterstattung über Energieverschwendung zur Ermöglichung vergleichender Studien." },
-      { "tag": "document", "title": "Glossar & Referenz", "description": "Umfassendes Glossar der Energiesystem-Terminologie, Einheiten und Umrechnungsfaktoren, die in unseren Forschungs- und Bildungsmaterialien verwendet werden." }
+      {
+        "tag": "dataset",
+        "title": "Atlas industrieller Wärmeverschwendung",
+        "description": "Geografischer Datensatz zur Kartierung geschätzter thermischer Verschwendung von Industrieanlagen in teilnehmenden Regionen. Vierteljährlich aktualisiert."
+      },
+      {
+        "tag": "document",
+        "title": "Forschungspapier-Archiv",
+        "description": "Vollständiges Archiv veröffentlichter Papers, Preprints und technischer Notizen. Alle Materialien für akademische und öffentliche Nutzung lizenziert."
+      },
+      {
+        "tag": "tool",
+        "title": "Wärmerückgewinnungs-Rechner",
+        "description": "Open-Source-Tabellenkalkulation und Web-Tool zur Schätzung des Wärmerückgewinnungspotenzials basierend auf Anlagentyp, Größe und lokalem Bedarf."
+      },
+      {
+        "tag": "document",
+        "title": "Sammlung von Policy Briefs",
+        "description": "Prägnante Policy Briefs für Gesetzgeber und öffentliche Verwaltungen, die Forschungsergebnisse in umsetzbare Empfehlungen zusammenfassen."
+      },
+      {
+        "tag": "dataset",
+        "title": "Standard für Energieverschwendungsmetriken",
+        "description": "Maschinenlesbares Schema und Referenzdaten für standardisierte Berichterstattung über Energieverschwendung zur Ermöglichung vergleichender Studien."
+      },
+      {
+        "tag": "document",
+        "title": "Glossar & Referenz",
+        "description": "Umfassendes Glossar der Energiesystem-Terminologie, Einheiten und Umrechnungsfaktoren, die in unseren Forschungs- und Bildungsmaterialien verwendet werden."
+      }
     ],
     "freeTitle": "Alle Ressourcen sind kostenlos. Keine Konten, keine Paywalls, keine Käufe.",
     "freeDescription": "Wir glauben, dass Nachhaltigkeitswissen ein öffentliches Gut sein sollte. Ressourcen werden zum Download bereitgestellt, sobald sie fertiggestellt sind."
@@ -148,7 +297,13 @@
     "formEmailPlaceholder": "you@example.com",
     "formMessagePlaceholder": "Wie können wir helfen?",
     "formSubmit": "Nachricht senden",
-    "subjects": ["Allgemeine Anfrage", "Forschungskooperation", "Bildungspartnerschaft", "Medienanfrage", "Sonstiges"]
+    "subjects": [
+      "Allgemeine Anfrage",
+      "Forschungskooperation",
+      "Bildungspartnerschaft",
+      "Medienanfrage",
+      "Sonstiges"
+    ]
   },
   "footer": {
     "description": "Eine öffentliche Missionsinitiative für Nachhaltigkeitsforschung, Energieverschwendungsreduzierung und offene Bildung für Gemeinschaften weltweit.",
@@ -173,19 +328,49 @@
     "tool": "Tool"
   },
   "faq": [
-    { "question": "Was ist Energiemind?", "answer": "Energiemind ist eine öffentliche Missionsinitiative für Nachhaltigkeitsforschung, Energieverschwendungsreduzierung, Wärmenutzung im Mining und offene Bildung. Wir veröffentlichen Erkenntnisse frei ohne kommerzielle Verkäufe oder Vorverkaufsaktivitäten." },
-    { "question": "Ist Energiemind ein kommerzielles Unternehmen?", "answer": "Nein. Energiemind ist eine Forschungs- und Bildungsinitiative. Wir verkaufen keine Produkte, nehmen keine Vorverkaufsbestellungen an und betreiben keinen Shop. Alle Ressourcen werden als öffentliches Gut bereitgestellt." },
-    { "question": "Was ist Wärmenutzung im Mining?", "answer": "Wärmenutzung im Mining erfasst Abwärme aus Kryptowährungs- und Rechenzentrum-Mining-Operationen und leitet sie für produktive Nutzungen wie Fernwärme, Gewächshauslandwirtschaft und Warmwasserbereitung um." },
-    { "question": "Wie kann ich auf Forschung und Ressourcen zugreifen?", "answer": "Alle veröffentlichten Forschungsergebnisse, Datensätze und Bildungsmaterialien sind kostenlos in unserem Bereich Öffentliche Ressourcen verfügbar. Keine Konten oder Paywalls erforderlich." },
-    { "question": "Wie kann ich mit Energiemind zusammenarbeiten?", "answer": "Forscher, Pädagogen und Institutionen können uns unter research@energiemind.org für Kooperationsanfragen kontaktieren. Wir begrüßen akademische Partnerschaften und unabhängige Replikation unserer Studien." }
+    {
+      "question": "Was ist Energiemind?",
+      "answer": "Energiemind ist eine öffentliche Missionsinitiative für Nachhaltigkeitsforschung, Energieverschwendungsreduzierung, Wärmenutzung im Mining und offene Bildung. Wir veröffentlichen Erkenntnisse frei ohne kommerzielle Verkäufe oder Vorverkaufsaktivitäten."
+    },
+    {
+      "question": "Ist Energiemind ein kommerzielles Unternehmen?",
+      "answer": "Nein. Energiemind ist eine Forschungs- und Bildungsinitiative. Wir verkaufen keine Produkte, nehmen keine Vorverkaufsbestellungen an und betreiben keinen Shop. Alle Ressourcen werden als öffentliches Gut bereitgestellt."
+    },
+    {
+      "question": "Was ist Wärmenutzung im Mining?",
+      "answer": "Wärmenutzung im Mining erfasst Abwärme aus Kryptowährungs- und Rechenzentrum-Mining-Operationen und leitet sie für produktive Nutzungen wie Fernwärme, Gewächshauslandwirtschaft und Warmwasserbereitung um."
+    },
+    {
+      "question": "Wie kann ich auf Forschung und Ressourcen zugreifen?",
+      "answer": "Alle veröffentlichten Forschungsergebnisse, Datensätze und Bildungsmaterialien sind kostenlos in unserem Bereich Öffentliche Ressourcen verfügbar. Keine Konten oder Paywalls erforderlich."
+    },
+    {
+      "question": "Wie kann ich mit Energiemind zusammenarbeiten?",
+      "answer": "Forscher, Pädagogen und Institutionen können uns unter research@energiemind.org für Kooperationsanfragen kontaktieren. Wir begrüßen akademische Partnerschaften und unabhängige Replikation unserer Studien."
+    }
   ],
   "articles": [
-    { "headline": "Jährlicher Nachhaltigkeitsbericht 2024", "description": "Erster Jahresbericht über Missionsstart, erste Forschungsveröffentlichungen, Partnerschaftsentwicklung und grundlegende Umweltmessungen.", "datePublished": "2024-12-15" },
-    { "headline": "Grundlagenstudie zur Energieverschwendung", "description": "Grundlagenstudie zur Etablierung von Methodik und Anfangsdaten für die Quantifizierung industrieller Energieverschwendung in Zielregionen.", "datePublished": "2024-09-20" },
-    { "headline": "Wirkungsbewertung der Wärmenutzung im Mining", "description": "Fokussierter Bericht über Fallstudien zur thermischen Rückgewinnung, einschließlich gemessener Wärmeliefermengen, Kohlenstoffverdrängung und Gemeinschaftsnutzen-Metriken.", "datePublished": "2025-06-01" }
+    {
+      "headline": "Jährlicher Nachhaltigkeitsbericht 2024",
+      "description": "Erster Jahresbericht über Missionsstart, erste Forschungsveröffentlichungen, Partnerschaftsentwicklung und grundlegende Umweltmessungen.",
+      "datePublished": "2024-12-15"
+    },
+    {
+      "headline": "Grundlagenstudie zur Energieverschwendung",
+      "description": "Grundlagenstudie zur Etablierung von Methodik und Anfangsdaten für die Quantifizierung industrieller Energieverschwendung in Zielregionen.",
+      "datePublished": "2024-09-20"
+    },
+    {
+      "headline": "Wirkungsbewertung der Wärmenutzung im Mining",
+      "description": "Fokussierter Bericht über Fallstudien zur thermischen Rückgewinnung, einschließlich gemessener Wärmeliefermengen, Kohlenstoffverdrängung und Gemeinschaftsnutzen-Metriken.",
+      "datePublished": "2025-06-01"
+    }
   ],
   "internalLinks": {
     "readIn": "Lesen auf",
     "alsoAvailable": "Auch verfügbar in"
+  },
+  "faqSection": {
+    "title": "Häufig gestellte Fragen"
   }
 }

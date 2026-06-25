@@ -1,0 +1,376 @@
+{
+  "meta": {
+    "title": "Energiemind — Duurzaamheid, Onderzoek & Publieke Missie",
+    "description": "Publieke missiewebsite voor energieverspilling, hergebruik van mijnbouwwarmte, duurzaamheidsonderzoek en open educatieve bronnen.",
+    "keywords": [
+      "duurzaamheid",
+      "energieverspilling",
+      "hergebruik van mijnbouwwarmte",
+      "onderzoek",
+      "educatie",
+      "klimaat",
+      "hernieuwbare energie"
+    ],
+    "ogTitle": "Energiemind — Duurzaamheid, Onderzoek & Publieke Missie",
+    "ogDescription": "Het bevorderen van energie-efficiëntie, hergebruik van mijnbouwwarmte en open duurzaamheidsonderzoek voor het algemeen belang.",
+    "twitterTitle": "Energiemind — Duurzaamheid, Onderzoek & Publieke Missie",
+    "twitterDescription": "Open onderzoek en educatie over energieverspilling, hergebruik van mijnbouwwarmte en duurzaamheid."
+  },
+  "nav": {
+    "mission": "Missie",
+    "research": "Onderzoek",
+    "miningHeatReuse": "Hergebruik van Mijnbouwwarmte",
+    "energyWasteReduction": "Vermindering van Energieverspilling",
+    "sustainabilityReports": "Duurzaamheidsrapporten",
+    "education": "Educatie",
+    "publicResources": "Publieke Bronnen",
+    "contact": "Contact",
+    "toggleMenu": "Navigatiemenu openen/sluiten",
+    "mainNav": "Hoofdnavigatie",
+    "language": "Taal",
+    "selectLanguage": "Taal selecteren"
+  },
+  "hero": {
+    "badge": "Publieke Missie · Onderzoek · Duurzaamheid",
+    "title": "Verspilde energie omzetten in kennis voor een duurzame toekomst",
+    "description": "Energiemind is een open onderzoeks- en educatie-initiatief gericht op energieverspilling, hergebruik van mijnbouwwarmte en publieke duurzaamheidsdocumentatie. We delen bevindingen vrijelijk — geen verkoop, geen presale, geen commerciële agenda.",
+    "ctaMission": "Onze Missie",
+    "ctaResources": "Bronnen Bekijken"
+  },
+  "mission": {
+    "title": "Missie",
+    "subtitle": "We bestaan om het publieke begrip van energiesystemen te bevorderen en de overgang naar een verspillingsvrije, duurzame energie-economie te versnellen.",
+    "p1": "Energiemind is opgericht vanuit een eenvoudige overtuiging: de energie die we vandaag verspillen, is de kennis die we morgen niet delen. In industriële processen, datacenters en cryptocurrency-mijnbouwoperaties worden enorme hoeveelheden thermische energie in de atmosfeer afgegeven — energie die huizen, kassen en gemeenschapsvoorzieningen zou kunnen verwarmen.",
+    "p2": "Onze missie is documenteren, onderzoeken en onderwijzen. We publiceren open bevindingen, werken samen met academische instellingen en bieden gratis bronnen aan beleidsmakers, ingenieurs en burgers die willen begrijpen hoe energiesystemen beter kunnen werken voor mens en planeet.",
+    "principlesTitle": "Kernprincipes",
+    "principles": [
+      "Open wetenschap — al het onderzoek gepubliceerd voor publieke toegang",
+      "Op bewijs gebaseerd — data en methodologie volledig gedocumenteerd",
+      "Gemeenschap eerst — oplossingen ontworpen voor lokaal voordeel",
+      "Niet-commercieel — geen producten, presales of verkoopkanalen"
+    ]
+  },
+  "research": {
+    "title": "Onderzoek",
+    "subtitle": "Peer-gerichte studies over energie-efficiëntie, thermische terugwinningssystemen en de milieu-impact van industrieel energieverbruik.",
+    "footnote": "Al het gepubliceerde onderzoek is beschikbaar onder open licenties in de sectie",
+    "footnoteLink": "Publieke Bronnen",
+    "footnoteEnd": ". We verwelkomen academische samenwerking en onafhankelijke replicatie.",
+    "cards": [
+      {
+        "tag": "active",
+        "title": "Haalbaarheidsstudies Thermische Terugwinning",
+        "description": "Kwantitatieve analyse van het warmteopvangpotentieel in mijnbouw, productie en computerinfrastructuur. Inclusief kosten-batenmodellen en regionale casestudies."
+      },
+      {
+        "tag": "active",
+        "title": "Energieverspilling in Kaart",
+        "description": "Geospatiaal onderzoek dat industriële warmteverspillingshotspots identificeert en koppelt aan nabijgelegen thermische vraag — stadsverwarming, landbouw en aquacultuur."
+      },
+      {
+        "tag": "published",
+        "title": "Levenscycluskoolstofanalyse",
+        "description": "Volledige levenscyclusbeoordelingen die conventionele verwarming vergelijken met teruggewonnen industriële warmte, inclusief ingebedde koolstof en netverplaatsingsfactoren."
+      },
+      {
+        "tag": "active",
+        "title": "Beleidskaderbeoordeling",
+        "description": "Vergelijkende analyse van nationale en regionale beleidsmaatregelen die industriële warmteterugwinning mogelijk maken of belemmeren, met aanbevelingen voor publieke bestuurders."
+      },
+      {
+        "tag": "planning",
+        "title": "Gemeenschapsintegratiemodellen",
+        "description": "Sociaaleconomisch onderzoek naar hoe projecten met teruggewonnen warmte zo kunnen worden gestructureerd dat lokale gemeenschappen er eerlijk en transparant van profiteren."
+      },
+      {
+        "tag": "published",
+        "title": "Open Datastandaarden",
+        "description": "Ontwikkeling van gestandaardiseerde dataformaten voor het rapporteren van energieverspilling en warmteterugwinningsmetrieken, waardoor vergelijking en replicatie tussen studies mogelijk wordt."
+      }
+    ]
+  },
+  "miningHeatReuse": {
+    "title": "Hergebruik van Mijnbouwwarmte",
+    "subtitle": "Cryptocurrency- en datacenter-mijnbouwoperaties genereren aanzienlijke restwarmte. We onderzoeken hoe deze thermische output productief kan worden ingezet.",
+    "p1": "Proof-of-work- en high-performance computing-faciliteiten produceren warmte als bijproduct van continue berekeningen. In plaats van deze energie in de atmosfeer te lozen, vangt hergebruik van mijnbouwwarmte deze op voor stadsverwarmingsnetwerken, kaslandbouw, waterverwarming en industriële processen.",
+    "p2": "Energiemind documenteert implementaties in de praktijk, meet efficiëntiewinsten en publiceert technische handleidingen voor exploitanten en gemeenten die warmteterugwinningsovereenkomsten overwegen. Ons werk benadrukt transparantie over energiebronnen, netimpact en gemeenschapsvoordeel.",
+    "stats": [
+      {
+        "value": "60–90%",
+        "label": "Warmteterugwinningspotentieel in geoptimaliseerde systemen"
+      },
+      {
+        "value": "24/7",
+        "label": "Continue thermische output van mijnbouwoperaties"
+      },
+      {
+        "value": "3×",
+        "label": "Typische efficiëntiewinst vs. geloosde warmte"
+      },
+      {
+        "value": "Open",
+        "label": "Alle casestudydata publiek gedocumenteerd"
+      }
+    ],
+    "cards": [
+      {
+        "title": "Technische Architectuur",
+        "description": "Warmtewisselaarontwerp, vloeistoflusconfiguraties en integratiepatronen voor het aansluiten van mijnbouwinstallaties op bestaande verwarmingsinfrastructuur."
+      },
+      {
+        "title": "Casestudybibliotheek",
+        "description": "Gedocumenteerde implementaties in Scandinavië, Midden-Europa en Noord-Amerika — inclusief prestatiegegevens, uitdagingen en geleerde lessen."
+      },
+      {
+        "title": "Milieubeoordeling",
+        "description": "Eerlijke evaluatie van de netto milieu-impact, inclusief analyse van energiebronnen, netafhankelijkheid en methodologie voor koolstofboekhouding."
+      }
+    ]
+  },
+  "energyWasteReduction": {
+    "title": "Vermindering van Energieverspilling",
+    "subtitle": "Systematische benaderingen voor het identificeren, meten en elimineren van energieverspilling in industriële en gemeentelijke systemen.",
+    "cards": [
+      {
+        "title": "Verspillingsauditmethodologie",
+        "description": "Een gestandaardiseerd kader voor het uitvoeren van energieverspillingsaudits in industriële faciliteiten. Behandelt thermische verliezen, elektrische inefficiënties en operationele verspillingspatronen."
+      },
+      {
+        "title": "Slimme Monitoringsystemen",
+        "description": "Onderzoek naar goedkope sensornetwerken en data-analyse voor realtime detectie van energieverspilling, waardoor proactieve interventie mogelijk is voordat verliezen zich opstapelen."
+      },
+      {
+        "title": "Gedrags- en Operationele Factoren",
+        "description": "Studies over hoe operationele praktijken, onderhoudsschema's en organisatiecultuur energieverspilling beïnvloeden — met uitvoerbare aanbevelingen."
+      },
+      {
+        "title": "Retrofitprioritering",
+        "description": "Besluitvormingskaders voor het rangschikken van energie-efficiëntieverbeteringen op impact, kosten en implementatiecomplexiteit — ontworpen voor budgetbeperkingen in de publieke sector."
+      }
+    ],
+    "hierarchyTitle": "De Verspillingshiërarchie",
+    "hierarchySubtitle": "Ons onderzoek volgt een duidelijke prioriteitsvolgorde voor het aanpakken van energieverspilling:",
+    "stepLabel": "Stap",
+    "hierarchySteps": [
+      {
+        "step": "1",
+        "title": "Elimineren",
+        "desc": "Onnodig energieverbruik volledig verwijderen"
+      },
+      {
+        "step": "2",
+        "title": "Verminderen",
+        "desc": "Energie-invoer minimaliseren voor vereiste output"
+      },
+      {
+        "step": "3",
+        "title": "Terugwinnen",
+        "desc": "Restwarmte en bijproducten opvangen en hergebruiken"
+      },
+      {
+        "step": "4",
+        "title": "Compenseren",
+        "desc": "Resterende vraag vervangen door schone bronnen"
+      }
+    ]
+  },
+  "sustainabilityReports": {
+    "title": "Duurzaamheidsrapporten",
+    "subtitle": "Transparante, periodieke rapportage over onze ecologische voetafdruk, onderzoeksvoortgang en gemeenschapsimpact.",
+    "statusPublished": "Published",
+    "statusInProgress": "In Progress",
+    "availableInResources": "Beschikbaar in Publieke Bronnen",
+    "willBePublished": "Wordt gepubliceerd na voltooiing",
+    "reports": [
+      {
+        "year": "2025",
+        "title": "Jaarlijks Duurzaamheidsrapport",
+        "status": "In Progress",
+        "summary": "Uitgebreide beoordeling van onderzoeksoutput, energiemetrieken uit veldstudies en milieu-impactbeoordelingen voor alle actieve projecten."
+      },
+      {
+        "year": "2024",
+        "title": "Jaarlijks Duurzaamheidsrapport",
+        "status": "Published",
+        "summary": "Eerste jaarrapport over de lancering van de missie, eerste onderzoekspublicaties, partnerschapsontwikkeling en basislijn-milieumetingen."
+      },
+      {
+        "year": "2025",
+        "title": "Impactbeoordeling Hergebruik Mijnbouwwarmte",
+        "status": "In Progress",
+        "summary": "Gericht rapport over casestudies van thermische terugwinning, inclusief gemeten warmteleveringsvolumes, koolstofverplaatsing en gemeenschapsvoordeelmetrieken."
+      },
+      {
+        "year": "2024",
+        "title": "Basisstudie Energieverspilling",
+        "status": "Published",
+        "summary": "Fundamenteel onderzoek dat methodologie en initiële data vaststelt voor kwantificering van industriële energieverspilling in doelregio's."
+      }
+    ]
+  },
+  "education": {
+    "title": "Educatie",
+    "subtitle": "Gratis leermateriaal voor studenten, professionals en gemeenschappen die energiesystemen en duurzaamheid willen begrijpen.",
+    "cards": [
+      {
+        "tag": "course",
+        "title": "Inleiding tot Energiesystemen",
+        "description": "Basiscursus over hoe energie stroomt door industriële, residentiële en gemeentelijke systemen — met nadruk op verspillingsidentificatie."
+      },
+      {
+        "tag": "workshop",
+        "title": "Warmteterugwinning voor Praktijkmensen",
+        "description": "Praktische workshopmaterialen voor ingenieurs en facilitair managers over het ontwerpen en implementeren van thermische terugwinningssystemen."
+      },
+      {
+        "tag": "guide",
+        "title": "Duurzaamheidsgeletterdheid",
+        "description": "Toegankelijke handleidingen die koolstofboekhouding, levenscyclusanalyse en duurzaamheidsrapportage uitleggen voor niet-technische doelgroepen."
+      },
+      {
+        "tag": "webinar",
+        "title": "Mijnbouw & Energiebeleid",
+        "description": "Opgenomen discussies over het snijvlak van cryptocurrency-mijnbouw, energiebeleid en gemeenschapsprogramma's voor warmteterugwinning."
+      },
+      {
+        "tag": "curriculum",
+        "title": "Schoolprogrammamateriaal",
+        "description": "Leeftijdsgeschikte lesplannen en activiteiten voor K-12-docenten die energiebesparing en milieubewustzijn onderwijzen."
+      },
+      {
+        "tag": "toolkit",
+        "title": "Toolkit voor Gemeenschapsorganisatoren",
+        "description": "Bronnen voor lokale groepen die pleiten voor energieverspilling en warmteterugwinningsprojecten in hun gemeenten."
+      }
+    ]
+  },
+  "publicResources": {
+    "title": "Publieke Bronnen",
+    "subtitle": "Open-access documenten, datasets en tools — vrij beschikbaar voor download, citatie en hergebruik.",
+    "cards": [
+      {
+        "tag": "dataset",
+        "title": "Atlas Industriële Warmteverspilling",
+        "description": "Geospatiale dataset die geschatte thermische verspilling van industriële faciliteiten in deelnemende regio's in kaart brengt. Driemaandelijks bijgewerkt."
+      },
+      {
+        "tag": "document",
+        "title": "Onderzoeksartikelarchief",
+        "description": "Volledig archief van gepubliceerde artikelen, preprints en technische notities. Alle materialen gelicentieerd voor academisch en publiek gebruik."
+      },
+      {
+        "tag": "tool",
+        "title": "Warmteterugwinningscalculator",
+        "description": "Open-source spreadsheet en webtool voor het schatten van warmteterugwinningspotentieel op basis van faciliteitstype, grootte en lokale vraag."
+      },
+      {
+        "tag": "document",
+        "title": "Beleidsbriefcollectie",
+        "description": "Beknopte beleidsbrieven voor wetgevers en publieke bestuurders, die onderzoeksbevindingen samenvatten in uitvoerbare aanbevelingen."
+      },
+      {
+        "tag": "dataset",
+        "title": "Standaard Energieverspillingsmetrieken",
+        "description": "Machineleesbaar schema en referentiedata voor gestandaardiseerde rapportage van energieverspilling, waardoor vergelijkende analyse tussen studies mogelijk wordt."
+      },
+      {
+        "tag": "document",
+        "title": "Woordenlijst & Referentie",
+        "description": "Uitgebreide woordenlijst van energiesysteemterminologie, eenheden en conversiefactoren gebruikt in onze onderzoeks- en educatiematerialen."
+      }
+    ],
+    "freeTitle": "Alle bronnen zijn gratis. Geen accounts, geen paywalls, geen aankopen.",
+    "freeDescription": "Wij geloven dat duurzaamheidskennis een publiek goed moet zijn. Bronnen worden beschikbaar gesteld voor download zodra ze zijn afgerond."
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Neem contact op voor onderzoekssamenwerking, educatiepartnerschappen, mediavragen of algemene vragen over onze missie.",
+    "generalInquiries": "Algemene Vragen",
+    "researchCollaboration": "Onderzoekssamenwerking",
+    "educationOutreach": "Educatie & Voorlichting",
+    "disclaimer": "Wij zijn een onderzoeks- en educatie-initiatief — geen commerciële entiteit. We verkopen geen producten, accepteren geen presale-bestellingen en exploiteren geen winkel. Voor mediavragen verzoeken we u uw publicatie en deadline in uw bericht op te nemen.",
+    "formName": "Naam",
+    "formEmail": "E-mail",
+    "formSubject": "Onderwerp",
+    "formMessage": "Bericht",
+    "formNamePlaceholder": "Uw naam",
+    "formEmailPlaceholder": "you@example.com",
+    "formMessagePlaceholder": "Hoe kunnen we helpen?",
+    "formSubmit": "Bericht Versturen",
+    "subjects": [
+      "Algemene vraag",
+      "Onderzoekssamenwerking",
+      "Educatiepartnerschap",
+      "Mediavragen",
+      "Overig"
+    ]
+  },
+  "footer": {
+    "description": "Een publiek missie-initiatief gewijd aan duurzaamheidsonderzoek, energieverspilling en open educatie voor gemeenschappen wereldwijd.",
+    "explore": "Verkennen",
+    "resources": "Bronnen",
+    "rights": "Alle rechten voorbehouden.",
+    "tagline": "Publieke missie · Onderzoek · Educatie · Geen commerciële verkoop",
+    "languages": "Beschikbaar in 25 talen"
+  },
+  "tags": {
+    "active": "Actief",
+    "published": "Gepubliceerd",
+    "planning": "In planning",
+    "course": "Cursus",
+    "workshop": "Workshop",
+    "guide": "Gids",
+    "webinar": "Webinar",
+    "curriculum": "Curriculum",
+    "toolkit": "Toolkit",
+    "dataset": "Dataset",
+    "document": "Document",
+    "tool": "Tool"
+  },
+  "faq": [
+    {
+      "question": "Wat is Energiemind?",
+      "answer": "Energiemind is een publiek missie-initiatief gewijd aan duurzaamheidsonderzoek, energieverspilling, hergebruik van mijnbouwwarmte en open educatie. We publiceren bevindingen vrijelijk zonder commerciële verkoop of presale-activiteiten."
+    },
+    {
+      "question": "Is Energiemind een commercieel bedrijf?",
+      "answer": "Nee. Energiemind is een onderzoeks- en educatie-initiatief. We verkopen geen producten, accepteren geen presale-bestellingen en exploiteren geen winkel. Alle bronnen worden aangeboden als publiek goed."
+    },
+    {
+      "question": "Wat is hergebruik van mijnbouwwarmte?",
+      "answer": "Hergebruik van mijnbouwwarmte vangt restwarmte op van cryptocurrency- en datacenter-mijnbouwoperaties en leidt deze om voor productief gebruik, zoals stadsverwarming, kaslandbouw en waterverwarming."
+    },
+    {
+      "question": "Hoe krijg ik toegang tot onderzoek en bronnen?",
+      "answer": "Al het gepubliceerde onderzoek, datasets en educatiemateriaal is gratis beschikbaar in onze sectie Publieke Bronnen. Geen accounts of paywalls vereist."
+    },
+    {
+      "question": "Hoe kan ik samenwerken met Energiemind?",
+      "answer": "Onderzoekers, docenten en instellingen kunnen ons bereiken via research@energiemind.org voor samenwerkingsvragen. We verwelkomen academische partnerschappen en onafhankelijke replicatie van onze studies."
+    }
+  ],
+  "articles": [
+    {
+      "headline": "Jaarlijks Duurzaamheidsrapport 2024",
+      "description": "Eerste jaarrapport over de lancering van de missie, eerste onderzoekspublicaties, partnerschapsontwikkeling en basislijn-milieumetingen.",
+      "datePublished": "2024-12-15"
+    },
+    {
+      "headline": "Basisstudie Energieverspilling",
+      "description": "Fundamenteel onderzoek dat methodologie en initiële data vaststelt voor kwantificering van industriële energieverspilling in doelregio's.",
+      "datePublished": "2024-09-20"
+    },
+    {
+      "headline": "Impactbeoordeling Hergebruik Mijnbouwwarmte",
+      "description": "Gericht rapport over casestudies van thermische terugwinning, inclusief gemeten warmteleveringsvolumes, koolstofverplaatsing en gemeenschapsvoordeelmetrieken.",
+      "datePublished": "2025-06-01"
+    }
+  ],
+  "internalLinks": {
+    "readIn": "Lezen in",
+    "alsoAvailable": "Ook beschikbaar in"
+  },
+  "faqSection": {
+    "title": "Veelgestelde vragen"
+  }
+}
