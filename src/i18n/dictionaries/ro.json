@@ -311,7 +311,10 @@
     "resources": "Resurse",
     "rights": "Toate drepturile rezervate.",
     "tagline": "Misiune publică · Cercetare · Educație · Fără vânzări comerciale",
-    "languages": "Disponibil în 25 de limbi"
+    "languages": "Disponibil în 25 de limbi",
+    "partOf": "Parte din",
+    "tvkGroup": "TVK Group",
+    "tvkGroupAria": "Vizitați site-ul corporativ TVK Group (se deschide într-o filă nouă)"
   },
   "tags": {
     "active": "Activ",

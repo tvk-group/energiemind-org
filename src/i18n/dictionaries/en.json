@@ -156,7 +156,10 @@
     "resources": "Resources",
     "rights": "All rights reserved.",
     "tagline": "Public mission · Research · Education · No commercial sales",
-    "languages": "Available in 25 languages"
+    "languages": "Available in 25 languages",
+    "partOf": "Part of",
+    "tvkGroup": "TVK Group",
+    "tvkGroupAria": "Visit TVK Group corporate website (opens in new tab)"
   },
   "tags": {
     "active": "Active",

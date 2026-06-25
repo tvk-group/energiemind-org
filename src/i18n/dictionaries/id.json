@@ -311,7 +311,10 @@
     "resources": "Sumber Daya",
     "rights": "Hak cipta dilindungi.",
     "tagline": "Misi publik · Riset · Pendidikan · Tanpa penjualan komersial",
-    "languages": "Tersedia dalam 25 bahasa"
+    "languages": "Tersedia dalam 25 bahasa",
+    "partOf": "Bagian dari",
+    "tvkGroup": "TVK Group",
+    "tvkGroupAria": "Kunjungi situs korporat TVK Group (buka di tab baru)"
   },
   "tags": {
     "active": "Aktif",

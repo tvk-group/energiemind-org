@@ -311,7 +311,10 @@
     "resources": "Kaynaklar",
     "rights": "Tüm hakları saklıdır.",
     "tagline": "Kamu misyonu · Araştırma · Eğitim · Ticari satış yok",
-    "languages": "25 dilde mevcut"
+    "languages": "25 dilde mevcut",
+    "partOf": "Bir parçası:",
+    "tvkGroup": "TVK Group",
+    "tvkGroupAria": "TVK Group kurumsal web sitesini ziyaret edin (yeni sekmede açılır)"
   },
   "tags": {
     "active": "Aktif",

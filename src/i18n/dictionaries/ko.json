@@ -311,7 +311,10 @@
     "resources": "자료",
     "rights": "All rights reserved.",
     "tagline": "공공 미션 · 연구 · 교육 · 상업 판매 없음",
-    "languages": "25개 언어로 이용 가능"
+    "languages": "25개 언어로 이용 가능",
+    "partOf": "소속:",
+    "tvkGroup": "TVK Group",
+    "tvkGroupAria": "TVK Group 기업 웹사이트 방문 (새 탭에서 열림)"
   },
   "tags": {
     "active": "진행 중",

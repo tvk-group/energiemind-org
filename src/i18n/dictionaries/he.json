@@ -311,7 +311,10 @@
     "resources": "משאבים",
     "rights": "כל הזכויות שמורות.",
     "tagline": "משימה ציבורית · מחקר · חינוך · ללא מכירות מסחריות",
-    "languages": "זמין ב-25 שפות"
+    "languages": "זמין ב-25 שפות",
+    "partOf": "חלק מ-",
+    "tvkGroup": "TVK Group",
+    "tvkGroupAria": "בקר באתר התאגידי של TVK Group (נפתח בלשונית חדשה)"
   },
   "tags": {
     "active": "פעיל",
