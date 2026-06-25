@@ -311,7 +311,10 @@
     "resources": "الموارد",
     "rights": "جميع الحقوق محفوظة.",
     "tagline": "رسالة عامة · بحث · تعليم · لا مبيعات تجارية",
-    "languages": "متاح بـ 25 لغة"
+    "languages": "متاح بـ 25 لغة",
+    "partOf": "جزء من",
+    "tvkGroup": "TVK Group",
+    "tvkGroupAria": "زيارة الموقع المؤسسي لـ TVK Group (يفتح في علامة تبويب جديدة)"
   },
   "tags": {
     "active": "نشط",

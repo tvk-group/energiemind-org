@@ -311,7 +311,10 @@
     "resources": "リソース",
     "rights": "All rights reserved.",
     "tagline": "公共ミッション · 研究 · 教育 · 商業販売なし",
-    "languages": "25言語で利用可能"
+    "languages": "25言語で利用可能",
+    "partOf": "傘下:",
+    "tvkGroup": "TVK Group",
+    "tvkGroupAria": "TVK Group コーポレートサイトを開く（新しいタブで開きます）"
   },
   "tags": {
     "active": "進行中",

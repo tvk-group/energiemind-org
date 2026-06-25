@@ -311,7 +311,10 @@
     "resources": "Ressourcer",
     "rights": "Alle rettigheder forbeholdes.",
     "tagline": "Offentlig mission · Forskning · Uddannelse · Intet kommercielt salg",
-    "languages": "Tilgængelig på 25 sprog"
+    "languages": "Tilgængelig på 25 sprog",
+    "partOf": "En del af",
+    "tvkGroup": "TVK Group",
+    "tvkGroupAria": "Besøg TVK Groups virksomhedswebsite (åbner i ny fane)"
   },
   "tags": {
     "active": "Aktiv",

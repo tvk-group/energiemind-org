@@ -311,7 +311,10 @@
     "resources": "Bronnen",
     "rights": "Alle rechten voorbehouden.",
     "tagline": "Publieke missie · Onderzoek · Educatie · Geen commerciële verkoop",
-    "languages": "Beschikbaar in 25 talen"
+    "languages": "Beschikbaar in 25 talen",
+    "partOf": "Onderdeel van",
+    "tvkGroup": "TVK Group",
+    "tvkGroupAria": "Bezoek de corporate website van TVK Group (opent in nieuw tabblad)"
   },
   "tags": {
     "active": "Actief",

@@ -311,7 +311,10 @@
     "resources": "資源",
     "rights": "保留所有權利。",
     "tagline": "公共使命 · 研究 · 教育 · 無商業銷售",
-    "languages": "提供 25 種語言版本"
+    "languages": "提供 25 種語言版本",
+    "partOf": "隸屬於",
+    "tvkGroup": "TVK Group",
+    "tvkGroupAria": "造訪 TVK Group 企業網站（在新分頁中開啟）"
   },
   "tags": {
     "active": "進行中",

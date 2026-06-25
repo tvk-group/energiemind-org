@@ -311,7 +311,10 @@
     "resources": "Ressurser",
     "rights": "Alle rettigheter forbeholdt.",
     "tagline": "Allmenn oppdrag · Forskning · Utdanning · Ingen kommersielt salg",
-    "languages": "Tilgjengelig på 25 språk"
+    "languages": "Tilgjengelig på 25 språk",
+    "partOf": "Del av",
+    "tvkGroup": "TVK Group",
+    "tvkGroupAria": "Besøk TVK Groups bedriftsnettsted (åpnes i ny fane)"
   },
   "tags": {
     "active": "Aktiv",

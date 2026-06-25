@@ -107,6 +107,9 @@ export interface Dictionary {
     rights: string;
     tagline: string;
     languages: string;
+    partOf: string;
+    tvkGroup: string;
+    tvkGroupAria: string;
   };
   tags: {
     active: string;

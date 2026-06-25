@@ -311,7 +311,10 @@
     "resources": "Recursos",
     "rights": "Todos los derechos reservados.",
     "tagline": "Misión pública · Investigación · Educación · Sin ventas comerciales",
-    "languages": "Disponible en 25 idiomas"
+    "languages": "Disponible en 25 idiomas",
+    "partOf": "Parte de",
+    "tvkGroup": "TVK Group",
+    "tvkGroupAria": "Visitar el sitio corporativo de TVK Group (se abre en una nueva pestaña)"
   },
   "tags": {
     "active": "Activo",

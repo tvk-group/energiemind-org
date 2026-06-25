@@ -311,7 +311,10 @@
     "resources": "Resurssit",
     "rights": "Kaikki oikeudet pidätetään.",
     "tagline": "Yleishyödyllinen tehtävä · Tutkimus · Koulutus · Ei kaupallista myyntiä",
-    "languages": "Saatavilla 25 kielellä"
+    "languages": "Saatavilla 25 kielellä",
+    "partOf": "Osa",
+    "tvkGroup": "TVK Group",
+    "tvkGroupAria": "Vieraile TVK Groupin yrityssivustolla (avautuu uuteen välilehteen)"
   },
   "tags": {
     "active": "Aktiivinen",

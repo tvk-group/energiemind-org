@@ -1,6 +1,7 @@
 import type { Dictionary } from "@/i18n/types";
 import type { Locale } from "@/i18n/config";
 import { locales, localeConfig } from "@/i18n/config";
+import { CORPORATE_URLS } from "@/lib/corporate";
 
 interface FooterProps {
   locale: Locale;
@@ -23,6 +24,35 @@ export function Footer({ locale, dict }: FooterProps) {
             </div>
             <p className="mt-4 text-sm leading-relaxed text-white/70">
               {dict.footer.description}
+            </p>
+            <p className="mt-4 text-sm text-white/60">
+              {locale === "hi" || locale === "ur" ? (
+                <>
+                  <a
+                    href={CORPORATE_URLS.tvkGroup}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    aria-label={dict.footer.tvkGroupAria}
+                    className="font-medium text-accent-light underline decoration-white/20 underline-offset-2 transition-colors hover:text-white hover:decoration-white/40"
+                  >
+                    {dict.footer.tvkGroup}
+                  </a>{" "}
+                  {dict.footer.partOf}
+                </>
+              ) : (
+                <>
+                  {dict.footer.partOf}{" "}
+                  <a
+                    href={CORPORATE_URLS.tvkGroup}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    aria-label={dict.footer.tvkGroupAria}
+                    className="font-medium text-accent-light underline decoration-white/20 underline-offset-2 transition-colors hover:text-white hover:decoration-white/40"
+                  >
+                    {dict.footer.tvkGroup}
+                  </a>
+                </>
+              )}
             </p>
           </div>
 
