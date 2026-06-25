@@ -24,16 +24,15 @@ function getPreferredLocale(request: NextRequest): string {
   return defaultLocale;
 }
 
-export function middleware(request: NextRequest) {
+export function proxy(request: NextRequest) {
   const { pathname } = request.nextUrl;
 
   if (
     pathname.startsWith("/_next") ||
     pathname.startsWith("/api") ||
-    pathname.startsWith("/sitemaps") ||
-    pathname === "/sitemap.xml" ||
+    pathname.startsWith("/sitemap") ||
     pathname === "/robots.txt" ||
-    pathname.includes(".")
+    /\.[a-zA-Z0-9]+$/.test(pathname)
   ) {
     return NextResponse.next();
   }
@@ -43,9 +42,7 @@ export function middleware(request: NextRequest) {
   );
 
   if (pathnameLocale) {
-    const response = NextResponse.next();
-    response.headers.set("x-locale", pathnameLocale);
-    return response;
+    return NextResponse.next();
   }
 
   if (pathname === "/") {
@@ -58,5 +55,5 @@ export function middleware(request: NextRequest) {
 }
 
 export const config = {
-  matcher: ["/((?!_next/static|_next/image|favicon.ico).*)"],
+  matcher: ["/((?!_next/static|_next/image|favicon.ico|.*\\..*).*)"],
 };
