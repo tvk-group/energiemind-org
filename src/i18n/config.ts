@@ -1,4 +1,4 @@
-export const SITE_URL = "https://energiemind.org";
+export const SITE_URL = "https://www.energiemind.org";
 
 export const locales = [
   "en",
