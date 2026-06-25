@@ -1,0 +1,376 @@
+{
+  "meta": {
+    "title": "Energiemind — Zrównoważony rozwój, badania i misja publiczna",
+    "description": "Strona misji publicznej poświęcona redukcji marnotrawstwa energii, ponownemu wykorzystaniu ciepła z kopania, badaniom nad zrównoważonym rozwojem i otwartym zasobom edukacyjnym.",
+    "keywords": [
+      "zrównoważony rozwój",
+      "redukcja marnotrawstwa energii",
+      "ponowne wykorzystanie ciepła z kopania",
+      "badania",
+      "edukacja",
+      "klimat",
+      "energia odnawialna"
+    ],
+    "ogTitle": "Energiemind — Zrównoważony rozwój, badania i misja publiczna",
+    "ogDescription": "Promowanie efektywności energetycznej, ponownego wykorzystania ciepła z kopania i otwartych badań nad zrównoważonym rozwojem dla dobra publicznego.",
+    "twitterTitle": "Energiemind — Zrównoważony rozwój, badania i misja publiczna",
+    "twitterDescription": "Otwarte badania i edukacja na temat redukcji marnotrawstwa energii, ponownego wykorzystania ciepła z kopania i zrównoważonego rozwoju."
+  },
+  "nav": {
+    "mission": "Misja",
+    "research": "Badania",
+    "miningHeatReuse": "Ponowne wykorzystanie ciepła z kopania",
+    "energyWasteReduction": "Redukcja marnotrawstwa energii",
+    "sustainabilityReports": "Raporty zrównoważonego rozwoju",
+    "education": "Edukacja",
+    "publicResources": "Zasoby publiczne",
+    "contact": "Kontakt",
+    "toggleMenu": "Przełącz menu nawigacji",
+    "mainNav": "Główna nawigacja",
+    "language": "Język",
+    "selectLanguage": "Wybierz język"
+  },
+  "hero": {
+    "badge": "Misja publiczna · Badania · Zrównoważony rozwój",
+    "title": "Przekształcanie zmarnowanej energii w wiedzę na rzecz zrównoważonej przyszłości",
+    "description": "Energiemind to otwarta inicjatywa badawczo-edukacyjna skupiona na redukcji marnotrawstwa energii, ponownym wykorzystaniu ciepła z kopania i publicznej dokumentacji zrównoważonego rozwoju. Udostępniamy wyniki bezpłatnie — bez sprzedaży, bez przedsprzedaży, bez komercyjnej agendy.",
+    "ctaMission": "Nasza misja",
+    "ctaResources": "Przeglądaj zasoby"
+  },
+  "mission": {
+    "title": "Misja",
+    "subtitle": "Istniejemy, aby poszerzać publiczne zrozumienie systemów energetycznych i przyspieszać przejście do zrównoważonej gospodarki energetycznej bez marnotrawstwa.",
+    "p1": "Energiemind powstała z prostej przekonania: energia, którą dziś marnujemy, to wiedza, którą jutro nie dzielimy się z innymi. W procesach przemysłowych, centrach danych i operacjach kopania kryptowalut ogromne ilości energii cieplnej są uwalniane do atmosfery — energia, która mogłaby ogrzewać domy, szklarnie i obiekty społeczne.",
+    "p2": "Naszą misją jest dokumentowanie, badanie i edukowanie. Publikujemy otwarte wyniki, współpracujemy z instytucjami akademickimi i udostępniamy bezpłatne zasoby decydentom, inżynierom i obywatelom, którzy chcą zrozumieć, jak systemy energetyczne mogą lepiej służyć ludziom i planecie.",
+    "principlesTitle": "Podstawowe zasady",
+    "principles": [
+      "Otwarta nauka — wszystkie badania publikowane dla dostępu publicznego",
+      "Oparte na dowodach — dane i metodologia w pełni udokumentowane",
+      "Społeczność na pierwszym miejscu — rozwiązania zaprojektowane dla lokalnych korzyści",
+      "Niekomeracyjne — bez produktów, przedsprzedaży ani kanałów sprzedaży"
+    ]
+  },
+  "research": {
+    "title": "Badania",
+    "subtitle": "Badania zorientowane na recenzję naukową dotyczące efektywności energetycznej, systemów odzysku ciepła i wpływu przemysłowego zużycia energii na środowisko.",
+    "footnote": "Wszystkie opublikowane badania są dostępne na licencjach otwartych w sekcji",
+    "footnoteLink": "Zasoby publiczne",
+    "footnoteEnd": ". Zapraszamy do współpracy akademickiej i niezależnej replikacji.",
+    "cards": [
+      {
+        "tag": "active",
+        "title": "Studia wykonalności odzysku ciepła",
+        "description": "Analiza ilościowa potencjału odzysku ciepła w kopaniu, produkcji przemysłowej i infrastrukturze obliczeniowej. Obejmuje modele kosztów i korzyści oraz studia przypadków regionalnych."
+      },
+      {
+        "tag": "active",
+        "title": "Mapowanie marnotrawstwa energii",
+        "description": "Badania geoprzestrzenne identyfikujące punkty krytyczne marnotrawstwa ciepła przemysłowego i dopasowujące je do pobliskiego zapotrzebowania cieplnego — ciepłownictwo miejskie, rolnictwo i akwakultura."
+      },
+      {
+        "tag": "published",
+        "title": "Analiza emisji dwutlenku węgla w cyklu życia",
+        "description": "Pełne oceny cyklu życia porównujące konwencjonalne ogrzewanie z odzyskanym ciepłem przemysłowym, w tym wbudowany węgiel i czynniki zastąpienia sieci."
+      },
+      {
+        "tag": "active",
+        "title": "Przegląd ram politycznych",
+        "description": "Analiza porównawcza polityk krajowych i regionalnych, które umożliwiają lub utrudniają odzysk ciepła przemysłowego, wraz z zaleceniami dla administratorów publicznych."
+      },
+      {
+        "tag": "planning",
+        "title": "Modele integracji społeczności",
+        "description": "Badania społeczno-ekonomiczne dotyczące tego, jak projekty odzysku ciepła mogą być strukturyzowane, aby sprawiedliwie i przejrzyście przynosiły korzyści lokalnym społecznościom."
+      },
+      {
+        "tag": "published",
+        "title": "Standardy otwartych danych",
+        "description": "Opracowanie ustandaryzowanych formatów danych do raportowania marnotrawstwa energii i wskaźników odzysku ciepła, umożliwiając porównanie i replikację między badaniami."
+      }
+    ]
+  },
+  "miningHeatReuse": {
+    "title": "Ponowne wykorzystanie ciepła z kopania",
+    "subtitle": "Operacje kopania kryptowalut i centrów danych generują znaczne ilości odpadowego ciepła. Badamy, jak tę energię cieplną można przekierować do produktywnego wykorzystania.",
+    "p1": "Obiekty proof-of-work i obliczeń wysokiej wydajności produkują ciepło jako produkt uboczny ciągłych obliczeń. Zamiast uwalniać tę energię do atmosfery, ponowne wykorzystanie ciepła z kopania przechwytuje ją na potrzeby sieci ciepłowniczych, rolnictwa szklarniowego, podgrzewania wody i procesów przemysłowych.",
+    "p2": "Energiemind dokumentuje wdrożenia w rzeczywistych warunkach, mierzy zyski efektywności i publikuje przewodniki techniczne dla operatorów i gmin rozważających partnerstwa w zakresie odzysku ciepła. Nasza praca kładzie nacisk na przejrzystość dotyczącą źródeł energii, wpływu na sieć i korzyści dla społeczności.",
+    "stats": [
+      {
+        "value": "60–90%",
+        "label": "Potencjał odzysku ciepła w zoptymalizowanych systemach"
+      },
+      {
+        "value": "24/7",
+        "label": "Ciągła produkcja ciepła z operacji kopania"
+      },
+      {
+        "value": "3×",
+        "label": "Typowy wzrost efektywności w porównaniu z odprowadzanym ciepłem"
+      },
+      {
+        "value": "Open",
+        "label": "Wszystkie dane studiów przypadków udokumentowane publicznie"
+      }
+    ],
+    "cards": [
+      {
+        "title": "Architektura techniczna",
+        "description": "Projekt wymienników ciepła, konfiguracje obiegów cieczowych i wzorce integracji do podłączenia obiektów kopania do istniejącej infrastruktury grzewczej."
+      },
+      {
+        "title": "Biblioteka studiów przypadków",
+        "description": "Udokumentowane wdrożenia w krajach nordyckich, Europie Środkowej i Ameryce Północnej — w tym dane o wydajności, wyzwania i wnioski."
+      },
+      {
+        "title": "Ocena środowiskowa",
+        "description": "Uczciwa ocena netto wpływu na środowisko, w tym analiza źródła energii, zależności od sieci i metodologii bilansu emisji dwutlenku węgla."
+      }
+    ]
+  },
+  "energyWasteReduction": {
+    "title": "Redukcja marnotrawstwa energii",
+    "subtitle": "Systematyczne podejścia do identyfikacji, pomiaru i eliminacji marnotrawstwa energii w systemach przemysłowych i komunalnych.",
+    "cards": [
+      {
+        "title": "Metodologia audytu marnotrawstwa",
+        "description": "Ustandaryzowany framework do przeprowadzania audytów marnotrawstwa energii w obiektach przemysłowych. Obejmuje straty cieplne, nieefektywności elektryczne i wzorce marnotrawstwa operacyjnego."
+      },
+      {
+        "title": "Inteligentne systemy monitorowania",
+        "description": "Badania nad niedrogimi sieciami czujników i analityką danych do wykrywania marnotrawstwa energii w czasie rzeczywistym, umożliwiając proaktywną interwencję zanim straty się kumulują."
+      },
+      {
+        "title": "Czynniki behawioralne i operacyjne",
+        "description": "Studia dotyczące tego, jak praktyki operacyjne, harmonogramy konserwacji i kultura organizacyjna wpływają na marnotrawstwo energii — z praktycznymi zaleceniami."
+      },
+      {
+        "title": "Priorytetyzacja modernizacji",
+        "description": "Ramowe podejścia decyzyjne do klasyfikowania usprawnień efektywności energetycznej według wpływu, kosztów i złożoności wdrożenia — zaprojektowane dla ograniczeń budżetowych sektora publicznego."
+      }
+    ],
+    "hierarchyTitle": "Hierarchia marnotrawstwa",
+    "hierarchySubtitle": "Nasze badania podążają za jasną kolejnością priorytetów w zakresie marnotrawstwa energii:",
+    "stepLabel": "Krok",
+    "hierarchySteps": [
+      {
+        "step": "1",
+        "title": "Eliminuj",
+        "desc": "Całkowicie usuń niepotrzebne zużycie energii"
+      },
+      {
+        "step": "2",
+        "title": "Redukuj",
+        "desc": "Minimalizuj zużycie energii na wymagane wyniki"
+      },
+      {
+        "step": "3",
+        "title": "Odzyskuj",
+        "desc": "Przechwytuj i ponownie wykorzystuj odpadowe ciepło i produkty uboczne"
+      },
+      {
+        "step": "4",
+        "title": "Kompensuj",
+        "desc": "Zastąp pozostałe zapotrzebowanie czystymi źródłami"
+      }
+    ]
+  },
+  "sustainabilityReports": {
+    "title": "Raporty zrównoważonego rozwoju",
+    "subtitle": "Przejrzyste, okresowe raportowanie dotyczące naszego śladu środowiskowego, postępów badań i wpływu na społeczność.",
+    "statusPublished": "Published",
+    "statusInProgress": "In Progress",
+    "availableInResources": "Dostępne w Zasobach publicznych",
+    "willBePublished": "Zostanie opublikowane po zakończeniu",
+    "reports": [
+      {
+        "year": "2025",
+        "title": "Roczny raport zrównoważonego rozwoju",
+        "status": "In Progress",
+        "summary": "Kompleksowy przegląd wyników badań, wskaźników energetycznych ze studiów terenowych i ocen wpływu na środowisko we wszystkich aktywnych projektach."
+      },
+      {
+        "year": "2024",
+        "title": "Roczny raport zrównoważonego rozwoju",
+        "status": "Published",
+        "summary": "Pierwszy raport roczny obejmujący uruchomienie misji, wstępne publikacje badawcze, rozwój partnerstw i pomiary środowiskowe bazowe."
+      },
+      {
+        "year": "2025",
+        "title": "Ocena wpływu ponownego wykorzystania ciepła z kopania",
+        "status": "In Progress",
+        "summary": "Skoncentrowany raport o studiach przypadków odzysku ciepła, w tym zmierzone wolumeny dostaw ciepła, zastąpienie emisji dwutlenku węgla i wskaźniki korzyści dla społeczności."
+      },
+      {
+        "year": "2024",
+        "title": "Badanie bazowe marnotrawstwa energii",
+        "status": "Published",
+        "summary": "Fundamentalne badanie ustalające metodologię i wstępne dane do kwantyfikacji przemysłowego marnotrawstwa energii w regionach docelowych."
+      }
+    ]
+  },
+  "education": {
+    "title": "Edukacja",
+    "subtitle": "Bezpłatne materiały edukacyjne dla studentów, specjalistów i społeczności pragnących zrozumieć systemy energetyczne i zrównoważony rozwój.",
+    "cards": [
+      {
+        "tag": "course",
+        "title": "Wprowadzenie do systemów energetycznych",
+        "description": "Kurs podstawowy omawiający przepływ energii przez systemy przemysłowe, mieszkaniowe i komunalne — z naciskiem na identyfikację marnotrawstwa."
+      },
+      {
+        "tag": "workshop",
+        "title": "Odzysk ciepła dla praktyków",
+        "description": "Praktyczne materiały warsztatowe dla inżynierów i menedżerów obiektów dotyczące projektowania i wdrażania systemów odzysku ciepła."
+      },
+      {
+        "tag": "guide",
+        "title": "Kompetencje w zakresie zrównoważonego rozwoju",
+        "description": "Przystępne przewodniki wyjaśniające bilans emisji dwutlenku węgla, analizę cyklu życia i raportowanie zrównoważonego rozwoju dla odbiorców nietechnicznych."
+      },
+      {
+        "tag": "webinar",
+        "title": "Kopanie i polityka energetyczna",
+        "description": "Nagrane dyskusje na temat przecięcia kopania kryptowalut, polityki energetycznej i programów odzysku ciepła dla społeczności."
+      },
+      {
+        "tag": "curriculum",
+        "title": "Materiały programów szkolnych",
+        "description": "Dostosowane do wieku plany lekcji i aktywności dla nauczycieli K-12 uczących oszczędzania energii i troski o środowisko."
+      },
+      {
+        "tag": "toolkit",
+        "title": "Zestaw narzędzi dla organizatorów społecznych",
+        "description": "Zasoby dla lokalnych grup opowiadających się za redukcją marnotrawstwa energii i projektami odzysku ciepła w swoich gminach."
+      }
+    ]
+  },
+  "publicResources": {
+    "title": "Zasoby publiczne",
+    "subtitle": "Dokumenty, zestawy danych i narzędzia o otwartym dostępie — bezpłatnie dostępne do pobrania, cytowania i ponownego wykorzystania.",
+    "cards": [
+      {
+        "tag": "dataset",
+        "title": "Atlas przemysłowego marnotrawstwa ciepła",
+        "description": "Geoprzestrzenny zestaw danych mapujący szacowane marnotrawstwo ciepła z obiektów przemysłowych w regionach uczestniczących. Aktualizowany kwartalnie."
+      },
+      {
+        "tag": "document",
+        "title": "Archiwum artykułów badawczych",
+        "description": "Pełne archiwum opublikowanych artykułów, preprintów i notatek technicznych. Wszystkie materiały licencjonowane do użytku akademickiego i publicznego."
+      },
+      {
+        "tag": "tool",
+        "title": "Kalkulator odzysku ciepła",
+        "description": "Arkusz kalkulacyjny open source i narzędzie internetowe do szacowania potencjału odzysku ciepła na podstawie typu obiektu, wielkości i lokalnego zapotrzebowania."
+      },
+      {
+        "tag": "document",
+        "title": "Kolekcja policy briefów",
+        "description": "Zwięzłe policy briefy przeznaczone dla ustawodawców i administratorów publicznych, podsumowujące wyniki badań w praktyczne zalecenia."
+      },
+      {
+        "tag": "dataset",
+        "title": "Standard wskaźników marnotrawstwa energii",
+        "description": "Schemat czytelny dla maszyn i dane referencyjne do ustandaryzowanego raportowania marnotrawstwa energii, umożliwiający analizę porównawczą między badaniami."
+      },
+      {
+        "tag": "document",
+        "title": "Słownik i materiały referencyjne",
+        "description": "Kompleksowy słownik terminologii systemów energetycznych, jednostek i współczynników przeliczeniowych używanych w naszych materiałach badawczych i edukacyjnych."
+      }
+    ],
+    "freeTitle": "Wszystkie zasoby są bezpłatne. Bez kont, bez paywalli, bez zakupów.",
+    "freeDescription": "Wierzymy, że wiedza o zrównoważonym rozwoju powinna być dobrem publicznym. Zasoby będą udostępniane do pobrania po ich finalizacji."
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Skontaktuj się z nami w sprawie współpracy badawczej, partnerstw edukacyjnych, zapytań medialnych lub ogólnych pytań dotyczących naszej misji.",
+    "generalInquiries": "Zapytania ogólne",
+    "researchCollaboration": "Współpraca badawcza",
+    "educationOutreach": "Edukacja i działania informacyjne",
+    "disclaimer": "Jesteśmy inicjatywą badawczo-edukacyjną — nie podmiotem komercyjnym. Nie sprzedajemy produktów, nie przyjmujemy zamówień przedsprzedażowych ani nie prowadzimy sklepu. W przypadku zapytań medialnych prosimy o podanie publikacji i terminu w wiadomości.",
+    "formName": "Imię i nazwisko",
+    "formEmail": "E-mail",
+    "formSubject": "Temat",
+    "formMessage": "Wiadomość",
+    "formNamePlaceholder": "Twoje imię i nazwisko",
+    "formEmailPlaceholder": "you@example.com",
+    "formMessagePlaceholder": "Jak możemy pomóc?",
+    "formSubmit": "Wyślij wiadomość",
+    "subjects": [
+      "Zapytanie ogólne",
+      "Współpraca badawcza",
+      "Partnerstwo edukacyjne",
+      "Zapytanie medialne",
+      "Inne"
+    ]
+  },
+  "footer": {
+    "description": "Inicjatywa misji publicznej poświęcona badaniom nad zrównoważonym rozwojem, redukcji marnotrawstwa energii i otwartej edukacji dla społeczności na całym świecie.",
+    "explore": "Odkrywaj",
+    "resources": "Zasoby",
+    "rights": "Wszelkie prawa zastrzeżone.",
+    "tagline": "Misja publiczna · Badania · Edukacja · Bez sprzedaży komercyjnej",
+    "languages": "Dostępne w 25 językach"
+  },
+  "tags": {
+    "active": "Aktywne",
+    "published": "Opublikowane",
+    "planning": "W planowaniu",
+    "course": "Kurs",
+    "workshop": "Warsztat",
+    "guide": "Przewodnik",
+    "webinar": "Webinar",
+    "curriculum": "Program nauczania",
+    "toolkit": "Zestaw narzędzi",
+    "dataset": "Zestaw danych",
+    "document": "Dokument",
+    "tool": "Narzędzie"
+  },
+  "faq": [
+    {
+      "question": "Czym jest Energiemind?",
+      "answer": "Energiemind to inicjatywa misji publicznej poświęcona badaniom nad zrównoważonym rozwojem, redukcji marnotrawstwa energii, ponownemu wykorzystaniu ciepła z kopania i otwartej edukacji. Publikujemy wyniki bezpłatnie, bez sprzedaży komercyjnej ani działań przedsprzedażowych."
+    },
+    {
+      "question": "Czy Energiemind jest firmą komercyjną?",
+      "answer": "Nie. Energiemind to inicjatywa badawczo-edukacyjna. Nie sprzedajemy produktów, nie przyjmujemy zamówień przedsprzedażowych ani nie prowadzimy sklepu. Wszystkie zasoby są udostępniane jako dobro publiczne."
+    },
+    {
+      "question": "Czym jest ponowne wykorzystanie ciepła z kopania?",
+      "answer": "Ponowne wykorzystanie ciepła z kopania przechwytuje odpadową energię cieplną z operacji kopania kryptowalut i centrów danych i przekierowuje ją do produktywnego wykorzystania, takiego jak ciepłownictwo miejskie, rolnictwo szklarniowe i podgrzewanie wody."
+    },
+    {
+      "question": "Jak uzyskać dostęp do badań i zasobów?",
+      "answer": "Wszystkie opublikowane badania, zestawy danych i materiały edukacyjne są dostępne bezpłatnie w naszej sekcji Zasoby publiczne. Nie są wymagane konta ani paywalle."
+    },
+    {
+      "question": "Jak mogę współpracować z Energiemind?",
+      "answer": "Badacze, edukatorzy i instytucje mogą skontaktować się z nami pod adresem research@energiemind.org w sprawie współpracy. Zapraszamy do partnerstw akademickich i niezależnej replikacji naszych badań."
+    }
+  ],
+  "articles": [
+    {
+      "headline": "Roczny raport zrównoważonego rozwoju 2024",
+      "description": "Pierwszy raport roczny obejmujący uruchomienie misji, wstępne publikacje badawcze, rozwój partnerstw i pomiary środowiskowe bazowe.",
+      "datePublished": "2024-12-15"
+    },
+    {
+      "headline": "Badanie bazowe marnotrawstwa energii",
+      "description": "Fundamentalne badanie ustalające metodologię i wstępne dane do kwantyfikacji przemysłowego marnotrawstwa energii w regionach docelowych.",
+      "datePublished": "2024-09-20"
+    },
+    {
+      "headline": "Ocena wpływu ponownego wykorzystania ciepła z kopania",
+      "description": "Skoncentrowany raport o studiach przypadków odzysku ciepła, w tym zmierzone wolumeny dostaw ciepła, zastąpienie emisji dwutlenku węgla i wskaźniki korzyści dla społeczności.",
+      "datePublished": "2025-06-01"
+    }
+  ],
+  "internalLinks": {
+    "readIn": "Czytaj po",
+    "alsoAvailable": "Dostępne również w"
+  },
+  "faqSection": {
+    "title": "Często zadawane pytania"
+  }
+}

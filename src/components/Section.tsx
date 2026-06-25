@@ -1,11 +1,11 @@
-import { ReactNode } from "react";
+import type { Dictionary } from "@/i18n/types";
 
 interface SectionProps {
   id: string;
   title: string;
   subtitle?: string;
   alt?: boolean;
-  children: ReactNode;
+  children: React.ReactNode;
 }
 
 export function Section({ id, title, subtitle, alt = false, children }: SectionProps) {
@@ -27,4 +27,22 @@ export function Section({ id, title, subtitle, alt = false, children }: SectionP
       </div>
     </section>
   );
+}
+
+export function getTagLabel(dict: Dictionary, tag: string): string {
+  const tagMap: Record<string, string> = {
+    active: dict.tags.active,
+    published: dict.tags.published,
+    planning: dict.tags.planning,
+    course: dict.tags.course,
+    workshop: dict.tags.workshop,
+    guide: dict.tags.guide,
+    webinar: dict.tags.webinar,
+    curriculum: dict.tags.curriculum,
+    toolkit: dict.tags.toolkit,
+    dataset: dict.tags.dataset,
+    document: dict.tags.document,
+    tool: dict.tags.tool,
+  };
+  return tagMap[tag] ?? tag;
 }

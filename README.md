@@ -13,6 +13,12 @@ Energiemind is an open research and education initiative focused on:
 
 This is a **non-commercial** site — no sales, no presale, no shop.
 
+## Languages (25)
+
+Fully localized pages with enterprise SEO (hreflang, canonical, Open Graph, Twitter cards, JSON-LD):
+
+`/en/` `/tr/` `/de/` `/fr/` `/es/` `/it/` `/pt/` `/nl/` `/ar/` `/ru/` `/zh-cn/` `/zh-tw/` `/ja/` `/ko/` `/hi/` `/ur/` `/pl/` `/ro/` `/el/` `/sv/` `/no/` `/da/` `/fi/` `/he/` `/id/`
+
 ## Sections
 
 - Mission
@@ -24,6 +30,14 @@ This is a **non-commercial** site — no sales, no presale, no shop.
 - Public Resources
 - Contact
 
+## SEO
+
+- Per-locale sitemaps (`/sitemap/en.xml`, etc.) with sitemap index
+- `robots.txt` targeting Google, Bing, Yandex, Baidu
+- JSON-LD: Organization, WebSite, BreadcrumbList, Article, FAQPage
+- Language dropdown with hreflang internal linking
+- No Google Translate widgets
+
 ## Development
 
 ```bash
@@ -31,7 +45,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) to view the site.
+Visit http://localhost:3000 (redirects to preferred locale).
 
 ## Build
 

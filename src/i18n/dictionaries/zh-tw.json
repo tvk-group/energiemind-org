@@ -1,0 +1,376 @@
+{
+  "meta": {
+    "title": "Energiemind — 永續發展、研究與公共使命",
+    "description": "致力於能源浪費減少、礦場餘熱再利用、永續發展研究與開放教育資源的公共使命網站。",
+    "keywords": [
+      "永續發展",
+      "能源浪費減少",
+      "礦場餘熱再利用",
+      "研究",
+      "教育",
+      "氣候",
+      "再生能源"
+    ],
+    "ogTitle": "Energiemind — 永續發展、研究與公共使命",
+    "ogDescription": "推進能源效率、礦場餘熱再利用與面向公共利益的開放永續發展研究。",
+    "twitterTitle": "Energiemind — 永續發展、研究與公共使命",
+    "twitterDescription": "關於能源浪費減少、礦場餘熱再利用與永續發展的開放研究與教育。"
+  },
+  "nav": {
+    "mission": "使命",
+    "research": "研究",
+    "miningHeatReuse": "礦場餘熱再利用",
+    "energyWasteReduction": "能源浪費減少",
+    "sustainabilityReports": "永續發展報告",
+    "education": "教育",
+    "publicResources": "公共資源",
+    "contact": "聯絡我們",
+    "toggleMenu": "切換導覽選單",
+    "mainNav": "主導覽",
+    "language": "語言",
+    "selectLanguage": "選擇語言"
+  },
+  "hero": {
+    "badge": "公共使命 · 研究 · 永續發展",
+    "title": "將浪費的能源轉化為永續未來的知識",
+    "description": "Energiemind 是一項專注於能源浪費減少、礦場餘熱再利用與公共永續發展文件的開放研究與教育倡議。我們免費分享研究成果——無銷售、無預售、無商業議程。",
+    "ctaMission": "我們的使命",
+    "ctaResources": "瀏覽資源"
+  },
+  "mission": {
+    "title": "使命",
+    "subtitle": "我們致力於增進公眾對能源系統的理解，加速向無浪費、永續能源經濟的轉型。",
+    "p1": "Energiemind 的創立基於一個簡單而堅定的信念：今天我們浪費的能源，就是明天我們未能分享的知識。在工業流程、資料中心與加密貨幣挖礦營運中，大量熱能被釋放到大氣中——這些能源本可用於供暖住宅、溫室與社區設施。",
+    "p2": "我們的使命是記錄、研究與教育。我們發布開放研究成果，與學術機構合作，並為希望了解能源系統如何更好地服務於人類與地球的政策制定者、工程師與公民提供免費資源。",
+    "principlesTitle": "核心原則",
+    "principles": [
+      "開放科學——所有研究均公開發布，供公眾取得",
+      "循證為本——資料與方法完整記錄",
+      "社區優先——解決方案以在地利益為導向",
+      "非商業性——無產品、無預售、無銷售管道"
+    ]
+  },
+  "research": {
+    "title": "研究",
+    "subtitle": "面向能源效率、熱能回收系統及工業能源使用環境影響的同儕導向研究。",
+    "footnote": "所有已發布研究均在",
+    "footnoteLink": "公共資源",
+    "footnoteEnd": "專區中以開放授權提供。我們歡迎學術合作與獨立重現。",
+    "cards": [
+      {
+        "tag": "active",
+        "title": "熱能回收可行性研究",
+        "description": "對採礦、製造與運算基礎設施中熱能捕獲潛力的定量分析，包括成本效益模型與區域案例研究。"
+      },
+      {
+        "tag": "active",
+        "title": "能源浪費測繪",
+        "description": "地理空間研究，識別工業廢熱熱點並將其與附近熱能需求——區域供暖、農業與水產業——進行匹配。"
+      },
+      {
+        "tag": "published",
+        "title": "生命週期碳分析",
+        "description": "生命週期評估，比較傳統供暖與回收工業熱能，涵蓋隱含碳與電網替代因素。"
+      },
+      {
+        "tag": "active",
+        "title": "政策框架綜述",
+        "description": "對促進或阻礙工業熱能回收的國家與地區政策進行比較分析，並向公共管理者提供建議。"
+      },
+      {
+        "tag": "planning",
+        "title": "社區整合模式",
+        "description": "關於如何以公平透明的方式構建餘熱回收專案以惠及當地社區的社會經濟研究。"
+      },
+      {
+        "tag": "published",
+        "title": "開放資料標準",
+        "description": "開發用於報告能源浪費與熱能回收指標的標準化資料格式，支援跨研究比較與重現。"
+      }
+    ]
+  },
+  "miningHeatReuse": {
+    "title": "礦場餘熱再利用",
+    "subtitle": "加密貨幣與資料中心挖礦營運產生大量廢熱。我們研究如何將這些熱能輸出導向生產性用途。",
+    "p1": "工作量證明與高效能運算設施在連續運算過程中產生熱量作為副產品。礦場餘熱再利用並非將能源排放至大氣，而是將其捕獲用於區域供暖網路、溫室農業、水加熱與工業流程。",
+    "p2": "Energiemind 記錄真實世界的實施案例，衡量效率提升，並為考慮熱能回收合作的營運商與市政機構發布技術指南。我們的工作強調對能源來源、電網影響與社區利益的透明性。",
+    "stats": [
+      {
+        "value": "60–90%",
+        "label": "最佳化系統中的熱能回收潛力"
+      },
+      {
+        "value": "24/7",
+        "label": "挖礦營運的持續熱能輸出"
+      },
+      {
+        "value": "3×",
+        "label": "相比直接排放熱能的典型效率提升"
+      },
+      {
+        "value": "Open",
+        "label": "所有案例研究資料公開記錄"
+      }
+    ],
+    "cards": [
+      {
+        "title": "技術架構",
+        "description": "熱交換器設計、流體迴路配置，以及將礦場設施接入現有供暖基礎設施的整合模式。"
+      },
+      {
+        "title": "案例研究庫",
+        "description": "記錄北歐、中歐與北美的部署案例——包括效能資料、挑戰與經驗教訓。"
+      },
+      {
+        "title": "環境評估",
+        "description": "對淨環境影響的客觀評估，包括能源來源分析、電網依賴與碳核算方法。"
+      }
+    ]
+  },
+  "energyWasteReduction": {
+    "title": "能源浪費減少",
+    "subtitle": "在工業與市政系統中識別、衡量與消除能源浪費的系統化方法。",
+    "cards": [
+      {
+        "title": "浪費稽核方法",
+        "description": "在工業設施中開展能源浪費稽核的標準化框架，涵蓋熱損失、電力低效與營運浪費模式。"
+      },
+      {
+        "title": "智慧監測系統",
+        "description": "研究低成本感測器網路與資料分析，實現即時能源浪費偵測，在損失累積前主動介入。"
+      },
+      {
+        "title": "行為與營運因素",
+        "description": "研究營運實踐、維護計畫與組織文化如何影響能源浪費，並提供可操作的建議。"
+      },
+      {
+        "title": "改造優先順序排序",
+        "description": "按影響、成本與實施複雜度對能效改進進行排序的決策框架，適用於公共部門預算約束。"
+      }
+    ],
+    "hierarchyTitle": "浪費層級",
+    "hierarchySubtitle": "我們的研究遵循明確的能源浪費處理優先順序：",
+    "stepLabel": "步驟",
+    "hierarchySteps": [
+      {
+        "step": "1",
+        "title": "消除",
+        "desc": "徹底去除不必要的能源消耗"
+      },
+      {
+        "step": "2",
+        "title": "減少",
+        "desc": "最小化所需產出所需的能源投入"
+      },
+      {
+        "step": "3",
+        "title": "回收",
+        "desc": "捕獲並再利用廢熱與副產品"
+      },
+      {
+        "step": "4",
+        "title": "抵消",
+        "desc": "以清潔能源替代剩餘需求"
+      }
+    ]
+  },
+  "sustainabilityReports": {
+    "title": "永續發展報告",
+    "subtitle": "關於環境足跡、研究進展與社區影響的透明、定期報告。",
+    "statusPublished": "Published",
+    "statusInProgress": "In Progress",
+    "availableInResources": "可在公共資源中取得",
+    "willBePublished": "完成後將發布",
+    "reports": [
+      {
+        "year": "2025",
+        "title": "年度永續發展報告",
+        "status": "In Progress",
+        "summary": "全面回顧研究產出、實地研究的能源指標，以及所有活躍專案的環境影響評估。"
+      },
+      {
+        "year": "2024",
+        "title": "年度永續發展報告",
+        "status": "Published",
+        "summary": "首份年度報告，涵蓋使命啟動、初期研究發布、合作夥伴發展及基準環境測量。"
+      },
+      {
+        "year": "2025",
+        "title": "礦場餘熱再利用影響評估",
+        "status": "In Progress",
+        "summary": "聚焦熱能回收案例研究的專項報告，包括實測供熱量、碳替代與社區效益指標。"
+      },
+      {
+        "year": "2024",
+        "title": "能源浪費基準研究",
+        "status": "Published",
+        "summary": "基礎性研究，為目標區域工業能源浪費量化建立方法論與初始資料。"
+      }
+    ]
+  },
+  "education": {
+    "title": "教育",
+    "subtitle": "面向希望了解能源系統與永續發展的學生、專業人士與社區的免費學習材料。",
+    "cards": [
+      {
+        "tag": "course",
+        "title": "能源系統導論",
+        "description": "基礎課程，介紹能源在工業、住宅與市政系統中的流動方式，側重浪費識別。"
+      },
+      {
+        "tag": "workshop",
+        "title": "從業者熱能回收",
+        "description": "面向工程師與設施管理人員的實作工作坊材料，涵蓋熱能回收系統的設計與實施。"
+      },
+      {
+        "tag": "guide",
+        "title": "永續發展素養",
+        "description": "面向非技術受眾的易懂指南，解釋碳核算、生命週期分析與永續發展報告。"
+      },
+      {
+        "tag": "webinar",
+        "title": "挖礦與能源政策",
+        "description": "關於加密貨幣挖礦、能源政策與社區熱能回收專案交叉議題的錄製討論。"
+      },
+      {
+        "tag": "curriculum",
+        "title": "學校課程材料",
+        "description": "面向 K-12 教育工作者的適齡教案與活動，教授節能與環境保護。"
+      },
+      {
+        "tag": "toolkit",
+        "title": "社區組織者工具包",
+        "description": "供地方團體在市政層面倡導能源浪費減少與熱能回收專案的資源。"
+      }
+    ]
+  },
+  "publicResources": {
+    "title": "公共資源",
+    "subtitle": "開放取得的文件、資料集與工具——可免費下載、引用與再利用。",
+    "cards": [
+      {
+        "tag": "dataset",
+        "title": "工業廢熱圖譜",
+        "description": "地理空間資料集，繪製參與區域工業設施估算熱能浪費分布，每季更新。"
+      },
+      {
+        "tag": "document",
+        "title": "研究論文檔案",
+        "description": "已發表論文、預印本與技術說明的完整檔案，所有材料均授權用於學術與公共用途。"
+      },
+      {
+        "tag": "tool",
+        "title": "熱能回收計算器",
+        "description": "開源試算表與網路工具，根據設施類型、規模與在地需求估算熱能回收潛力。"
+      },
+      {
+        "tag": "document",
+        "title": "政策簡報集",
+        "description": "面向立法者與公共管理者的簡明政策簡報，將研究成果提煉為可操作的建議。"
+      },
+      {
+        "tag": "dataset",
+        "title": "能源浪費指標標準",
+        "description": "用於標準化能源浪費報告的可機讀模式與參考資料，支援跨研究分析。"
+      },
+      {
+        "tag": "document",
+        "title": "術語表與參考",
+        "description": "涵蓋我們研究與教育材料中使用的能源系統術語、單位與換算因子的綜合術語表。"
+      }
+    ],
+    "freeTitle": "所有資源均免費。無需帳戶、無付費牆、無需購買。",
+    "freeDescription": "我們相信永續發展知識應成為公共產品。資源將在定稿後提供下載。"
+  },
+  "contact": {
+    "title": "聯絡我們",
+    "subtitle": "歡迎就研究合作、教育夥伴關係、媒體諮詢或關於我們使命的一般問題與我們聯絡。",
+    "generalInquiries": "一般諮詢",
+    "researchCollaboration": "研究合作",
+    "educationOutreach": "教育與推廣",
+    "disclaimer": "我們是一項研究與教育倡議——而非商業實體。我們不銷售產品、不接受預售訂單、不營運商店。媒體諮詢請在郵件中註明您的出版物與截止時間。",
+    "formName": "姓名",
+    "formEmail": "電子郵件",
+    "formSubject": "主旨",
+    "formMessage": "留言",
+    "formNamePlaceholder": "您的姓名",
+    "formEmailPlaceholder": "you@example.com",
+    "formMessagePlaceholder": "我們能如何幫助您？",
+    "formSubmit": "傳送訊息",
+    "subjects": [
+      "一般諮詢",
+      "研究合作",
+      "教育合作",
+      "媒體諮詢",
+      "其他"
+    ]
+  },
+  "footer": {
+    "description": "一項致力於全球社區永續發展研究、能源浪費減少與開放教育的公共使命倡議。",
+    "explore": "探索",
+    "resources": "資源",
+    "rights": "保留所有權利。",
+    "tagline": "公共使命 · 研究 · 教育 · 無商業銷售",
+    "languages": "提供 25 種語言版本"
+  },
+  "tags": {
+    "active": "進行中",
+    "published": "已發布",
+    "planning": "規劃中",
+    "course": "課程",
+    "workshop": "工作坊",
+    "guide": "指南",
+    "webinar": "網路研討會",
+    "curriculum": "課程大綱",
+    "toolkit": "工具包",
+    "dataset": "資料集",
+    "document": "文件",
+    "tool": "工具"
+  },
+  "faq": [
+    {
+      "question": "什麼是 Energiemind？",
+      "answer": "Energiemind 是一項致力於永續發展研究、能源浪費減少、礦場餘熱再利用與開放教育的公共使命倡議。我們免費發布研究成果，無商業銷售或預售活動。"
+    },
+    {
+      "question": "Energiemind 是商業公司嗎？",
+      "answer": "不是。Energiemind 是一項研究與教育倡議。我們不銷售產品、不接受預售訂單、不營運商店。所有資源均作為公共產品提供。"
+    },
+    {
+      "question": "什麼是礦場餘熱再利用？",
+      "answer": "礦場餘熱再利用捕獲加密貨幣與資料中心挖礦營運產生的廢熱，並將其導向區域供暖、溫室農業與水加熱等生產性用途。"
+    },
+    {
+      "question": "如何取得研究與資源？",
+      "answer": "所有已發布的研究、資料集與教育材料均可在我們的公共資源專區中免費取得，無需帳戶或付費牆。"
+    },
+    {
+      "question": "如何與 Energiemind 合作？",
+      "answer": "研究人員、教育工作者與機構可透過 research@energiemind.org 與我們聯絡洽談合作。我們歡迎學術夥伴關係及對我們研究的獨立重現。"
+    }
+  ],
+  "articles": [
+    {
+      "headline": "2024 年度永續發展報告",
+      "description": "首份年度報告，涵蓋使命啟動、初期研究發布、合作夥伴發展及基準環境測量。",
+      "datePublished": "2024-12-15"
+    },
+    {
+      "headline": "能源浪費基準研究",
+      "description": "基礎性研究，為目標區域工業能源浪費量化建立方法論與初始資料。",
+      "datePublished": "2024-09-20"
+    },
+    {
+      "headline": "礦場餘熱再利用影響評估",
+      "description": "聚焦熱能回收案例研究的專項報告，包括實測供熱量、碳替代與社區效益指標。",
+      "datePublished": "2025-06-01"
+    }
+  ],
+  "internalLinks": {
+    "readIn": "閱讀",
+    "alsoAvailable": "亦可閱讀"
+  },
+  "faqSection": {
+    "title": "常見問題"
+  }
+}

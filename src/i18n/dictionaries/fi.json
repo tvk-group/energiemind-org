@@ -1,0 +1,376 @@
+{
+  "meta": {
+    "title": "Energiemind — Kestävyys, tutkimus ja yleishyödyllinen tehtävä",
+    "description": "Yleishyödyllisen tehtävän verkkosivusto energianhukan vähentämiseen, kaivostoiminnan lämmön uudelleenkäyttöön, kestävyystutkimukseen ja avoimiin koulutusresursseihin.",
+    "keywords": [
+      "kestävyys",
+      "energianhukan vähentäminen",
+      "kaivostoiminnan lämmön uudelleenkäyttö",
+      "tutkimus",
+      "koulutus",
+      "ilmasto",
+      "uusiutuva energia"
+    ],
+    "ogTitle": "Energiemind — Kestävyys, tutkimus ja yleishyödyllinen tehtävä",
+    "ogDescription": "Edistämme energiatehokkuutta, kaivostoiminnan lämmön uudelleenkäyttöä ja avointa kestävyystutkimusta yleiseen hyötyyn.",
+    "twitterTitle": "Energiemind — Kestävyys, tutkimus ja yleishyödyllinen tehtävä",
+    "twitterDescription": "Avointa tutkimusta ja koulutusta energianhukan vähentämisestä, kaivostoiminnan lämmön uudelleenkäytöstä ja kestävyydestä."
+  },
+  "nav": {
+    "mission": "Tehtävä",
+    "research": "Tutkimus",
+    "miningHeatReuse": "Kaivostoiminnan lämmön uudelleenkäyttö",
+    "energyWasteReduction": "Energianhukan vähentäminen",
+    "sustainabilityReports": "Kestävyysraportit",
+    "education": "Koulutus",
+    "publicResources": "Julkiset resurssit",
+    "contact": "Yhteystiedot",
+    "toggleMenu": "Vaihda navigointivalikkoa",
+    "mainNav": "Päänavigointi",
+    "language": "Kieli",
+    "selectLanguage": "Valitse kieli"
+  },
+  "hero": {
+    "badge": "Yleishyödyllinen tehtävä · Tutkimus · Kestävyys",
+    "title": "Muutetaan hukattu energia tiedoksi kestävää tulevaisuutta varten",
+    "description": "Energiemind on avoin tutkimus- ja koulutusaloite, joka keskittyy energianhukan vähentämiseen, kaivostoiminnan lämmön uudelleenkäyttöön ja julkiseen kestävyysdokumentointiin. Jaamme tulokset vapaasti — ei myyntiä, ei ennakkomyyntiä, ei kaupallista agendaa.",
+    "ctaMission": "Tehtävämme",
+    "ctaResources": "Selaa resursseja"
+  },
+  "mission": {
+    "title": "Tehtävä",
+    "subtitle": "Olemme olemassa edistääksemme yleistä ymmärrystä energiajärjestelmistä ja nopeuttaaksemme siirtymää hukatonta, kestävää energiataloutta kohti.",
+    "p1": "Energiemind perustettiin yksinkertaiseen vakaumukseen: energia, jota tuhlaamme tänään, on tietoa, jota emme jaa huomenna. Teollisissa prosesseissa, datakeskuksissa ja kryptovaluutan louhinnassa valtavia määriä lämpöenergiaa vapautuu ilmakehään — energiaa, joka voisi lämmittää koteja, kasvihuoneita ja yhteisötiloja.",
+    "p2": "Tehtävämme on dokumentoida, tutkia ja kouluttaa. Julkaisemme avoimia tuloksia, teemme yhteistyötä akateemisten instituutioiden kanssa ja tarjoamme ilmaisia resursseja päättäjille, insinööreille ja kansalaisille, jotka haluavat ymmärtää, miten energiajärjestelmät voivat toimia paremmin ihmisille ja planeetalle.",
+    "principlesTitle": "Keskeiset periaatteet",
+    "principles": [
+      "Avoin tiede — kaikki tutkimus julkaistaan yleiseen käyttöön",
+      "Näyttöön perustuva — data ja menetelmät täysin dokumentoitu",
+      "Yhteisö ensin — ratkaisut suunniteltu paikalliseen hyötyyn",
+      "Ei-kaupallinen — ei tuotteita, ennakkomyyntiä tai myyntikanavia"
+    ]
+  },
+  "research": {
+    "title": "Tutkimus",
+    "subtitle": "Vertaisarvioituihin tutkimuksiin suuntautuneita tutkimuksia energiatehokkuudesta, lämmön talteenottojärjestelmistä ja teollisen energiankäytön ympäristövaikutuksista.",
+    "footnote": "Kaikki julkaistu tutkimus on saatavilla avoimilla lisensseillä osiossa",
+    "footnoteLink": "Julkiset resurssit",
+    "footnoteEnd": ". Toivotamme tervetulleeksi akateemisen yhteistyön ja riippumattoman toistamisen.",
+    "cards": [
+      {
+        "tag": "active",
+        "title": "Lämmön talteenoton toteutettavuustutkimukset",
+        "description": "Kvantitatiivinen analyysi lämmön talteenoton potentiaalista kaivostoiminnassa, valmistuksessa ja laskentainfrastruktuurissa. Sisältää kustannus-hyöty-malleja ja alueellisia tapaustutkimuksia."
+      },
+      {
+        "tag": "active",
+        "title": "Energianhukan kartoitus",
+        "description": "Paikkatietotutkimus, joka tunnistaa teollisen lämpöhukan kuumat pisteet ja yhdistää ne lähellä olevaan lämpökysyntään — kaukolämpö, maatalous ja vesiviljely."
+      },
+      {
+        "tag": "published",
+        "title": "Hiilidioksidin elinkaarianalyysi",
+        "description": "Täydelliset elinkaariarvioinnit, jotka vertaavat perinteistä lämmitystä talteenotettuun teolliseen lämpöön, mukaan lukien upotettu hiili ja sähköverkon korvaustekijät."
+      },
+      {
+        "tag": "active",
+        "title": "Poliittisten kehysten arviointi",
+        "description": "Vertaileva analyysi kansallisista ja alueellisista politiikoista, jotka mahdollistavat tai estävät teollisen lämmön talteenoton, suosituksineen julkisille hallinnoijille."
+      },
+      {
+        "tag": "planning",
+        "title": "Yhteisöintegraatiomallit",
+        "description": "Sosioekonominen tutkimus siitä, miten talteenotetun lämmön hankkeet voidaan rakentaa hyödyttämään paikallisia yhteisöjä oikeudenmukaisesti ja läpinäkyvästi."
+      },
+      {
+        "tag": "published",
+        "title": "Avoimet datastandardit",
+        "description": "Standardoitujen dataformaattien kehittäminen energianhukan ja lämmön talteenoton mittareiden raportointiin, mikä mahdollistaa vertailun ja toistamisen tutkimusten välillä."
+      }
+    ]
+  },
+  "miningHeatReuse": {
+    "title": "Kaivostoiminnan lämmön uudelleenkäyttö",
+    "subtitle": "Kryptovaluutta- ja datakeskuslouhinta tuottaa merkittävää hukkalämpöä. Tutkimme, miten tämä lämpötuotanto voidaan ohjata tuottavaan käyttöön.",
+    "p1": "Proof-of-work- ja suorituskykyiset laskentakeskukset tuottavat lämpöä jatkuvan laskennan sivutuotteena. Sen sijaan, että tämä energia tuuletettaisiin ilmakehään, kaivostoiminnan lämmön uudelleenkäyttö kerää sen kaukolämpöverkkoihin, kasvihuoneviljelyyn, veden lämmitykseen ja teollisiin prosesseihin.",
+    "p2": "Energiemind dokumentoi todellisia toteutuksia, mittaa tehokkuushyötyjä ja julkaisee teknisiä oppaita operaattoreille ja kunnille, jotka harkitsevat lämmön talteenoton kumppanuuksia. Työmme korostaa avoimuutta energialähteistä, sähköverkon vaikutuksesta ja yhteisöhyödyistä.",
+    "stats": [
+      {
+        "value": "60–90%",
+        "label": "Lämmön talteenoton potentiaali optimoiduissa järjestelmissä"
+      },
+      {
+        "value": "24/7",
+        "label": "Jatkuva lämpötuotanto kaivostoiminnasta"
+      },
+      {
+        "value": "3×",
+        "label": "Tyypillinen tehokkuushyöty verrattuna tuuletettuun lämpöön"
+      },
+      {
+        "value": "Open",
+        "label": "Kaikki tapaustutkimusdata julkisesti dokumentoitu"
+      }
+    ],
+    "cards": [
+      {
+        "title": "Tekninen arkkitehtuuri",
+        "description": "Lämmönvaihtimen suunnittelu, nestekiertojen konfiguraatiot ja integrointimallit kaivostoimintalaitosten liittämiseksi olemassa olevaan lämmitysinfrastruktuuriin."
+      },
+      {
+        "title": "Tapaustutkimuskirjasto",
+        "description": "Dokumentoidut käyttöönotot Pohjoismaissa, Keski-Euroopassa ja Pohjois-Amerikassa — mukaan lukien suorituskykydata, haasteet ja opitut asiat."
+      },
+      {
+        "title": "Ympäristöarviointi",
+        "description": "Rehellinen arviointi nettoympäristövaikutuksesta, mukaan lukien energialähteanalyysi, sähköverkon riippuvuus ja hiililaskentamenetelmät."
+      }
+    ]
+  },
+  "energyWasteReduction": {
+    "title": "Energianhukan vähentäminen",
+    "subtitle": "Järjestelmälliset lähestymistavat energianhukan tunnistamiseen, mittaamiseen ja poistamiseen teollisissa ja kunnallisissa järjestelmissä.",
+    "cards": [
+      {
+        "title": "Hukka-auditoinnin menetelmät",
+        "description": "Standardoitu kehys energianhukka-auditointien suorittamiseen teollisissa laitoksissa. Kattaa lämpöhäviöt, sähköiset tehottomuudet ja operatiiviset hukkamallit."
+      },
+      {
+        "title": "Älykkäät valvontajärjestelmät",
+        "description": "Tutkimus edullisista anturiverkoista ja data-analytiikasta reaaliaikaisesta energianhukan havaitsemiseen, mikä mahdollistaa ennakoivan toimenpiteen ennen kuin häviöt kasaantuvat."
+      },
+      {
+        "title": "Käyttäytymis- ja operatiiviset tekijät",
+        "description": "Tutkimuksia siitä, miten operatiiviset käytännöt, huoltoaikataulut ja organisaatiokulttuuri vaikuttavat energianhukuun — toiminnallisine suosituksineen."
+      },
+      {
+        "title": "Kunnostusten priorisointi",
+        "description": "Päätöksentekokehykset energiatehokkuuden parannusten järjestämiseen vaikutuksen, kustannusten ja toteutuksen monimutkaisuuden mukaan — suunniteltu julkisen sektorin budjettirajoituksia varten."
+      }
+    ],
+    "hierarchyTitle": "Hukkahierarkia",
+    "hierarchySubtitle": "Tutkimuksemme noudattaa selkeää prioriteettijärjestystä energianhukan käsittelyssä:",
+    "stepLabel": "Vaihe",
+    "hierarchySteps": [
+      {
+        "step": "1",
+        "title": "Poista",
+        "desc": "Poista tarpeeton energiankulutus kokonaan"
+      },
+      {
+        "step": "2",
+        "title": "Vähennä",
+        "desc": "Minimoi energiansyöttö vaadituille tuotoksille"
+      },
+      {
+        "step": "3",
+        "title": "Talteen",
+        "desc": "Kerää ja käytä uudelleen hukkalämpö ja sivutuotteet"
+      },
+      {
+        "step": "4",
+        "title": "Kompensoi",
+        "desc": "Korvaa jäljellä oleva kysyntä puhtailla lähteillä"
+      }
+    ]
+  },
+  "sustainabilityReports": {
+    "title": "Kestävyysraportit",
+    "subtitle": "Läpinäkyvä, säännöllinen raportointi ympäristöjalanjäljestämme, tutkimuksen edistymisestä ja yhteisövaikutuksesta.",
+    "statusPublished": "Julkaistu",
+    "statusInProgress": "Käynnissä",
+    "availableInResources": "Saatavilla osiossa Julkiset resurssit",
+    "willBePublished": "Julkaistaan valmistuttuaan",
+    "reports": [
+      {
+        "year": "2025",
+        "title": "Vuosittainen kestävyysraportti",
+        "status": "In Progress",
+        "summary": "Kattava katsaus tutkimustuloksiin, energiamittareihin kenttätutkimuksista ja ympäristövaikutusten arvioinneista kaikissa aktiivisissa hankkeissa."
+      },
+      {
+        "year": "2024",
+        "title": "Vuosittainen kestävyysraportti",
+        "status": "Published",
+        "summary": "Ensimmäinen vuosiraportti, joka kattaa tehtävän käynnistyksen, alkuperäiset tutkimusjulkaisut, kumppanuuskehityksen ja ympäristön perusmittaukset."
+      },
+      {
+        "year": "2025",
+        "title": "Kaivostoiminnan lämmön uudelleenkäytön vaikutusarviointi",
+        "status": "In Progress",
+        "summary": "Kohdennettu raportti lämmön talteenoton tapaustutkimuksista, mukaan lukien mitatut lämmön toimitusmäärät, hiilidioksidin korvaus ja yhteisöhyötymittarit."
+      },
+      {
+        "year": "2024",
+        "title": "Energianhukan perustutkimus",
+        "status": "Published",
+        "summary": "Perustutkimus, joka luo menetelmät ja alkuperäiset tiedot teollisen energianhukan kvantifiointiin kohdealueilla."
+      }
+    ]
+  },
+  "education": {
+    "title": "Koulutus",
+    "subtitle": "Ilmaisia oppimateriaaleja opiskelijoille, ammattilaisille ja yhteisöille, jotka haluavat ymmärtää energiajärjestelmiä ja kestävyyttä.",
+    "cards": [
+      {
+        "tag": "course",
+        "title": "Johdatus energiajärjestelmiin",
+        "description": "Peruskurssi, joka käsittelee energian kulkua teollisissa, asuin- ja kunnallisissa järjestelmissä — painottaen hukkasen tunnistamista."
+      },
+      {
+        "tag": "workshop",
+        "title": "Lämmön talteenotto käytännön tekijöille",
+        "description": "Käytännönläheisiä työpajamateriaaleja insinööreille ja laitospäälliköille lämmön talteenottojärjestelmien suunnittelusta ja toteutuksesta."
+      },
+      {
+        "tag": "guide",
+        "title": "Kestävyysosaaminen",
+        "description": "Helppolukuisia oppaita hiililaskennasta, elinkaarianalyysistä ja kestävyysraportoinnista ei-teknisille yleisöille."
+      },
+      {
+        "tag": "webinar",
+        "title": "Louhinta ja energiapolitiikka",
+        "description": "Tallennettuja keskusteluja kryptovaluutan louhinnan, energiapolitiikan ja yhteisöjen lämmön talteenotto-ohjelmien risteyskohdasta."
+      },
+      {
+        "tag": "curriculum",
+        "title": "Kouluohjelman materiaalit",
+        "description": "Ikätasoon sopivia oppituntisuunnitelmia ja aktiviteetteja peruskoulun ja lukion opettajille energiansäästön ja ympäristövastuun opetukseen."
+      },
+      {
+        "tag": "toolkit",
+        "title": "Yhteisöjärjestäjien työkalupakki",
+        "description": "Resursseja paikallisille ryhmille, jotka edistävät energianhukan vähentämistä ja lämmön talteenottohankkeita kunnissaan."
+      }
+    ]
+  },
+  "publicResources": {
+    "title": "Julkiset resurssit",
+    "subtitle": "Avoimen pääsyn asiakirjat, aineistot ja työkalut — vapaasti ladattavissa, viitattavissa ja uudelleenkäytettävissä.",
+    "cards": [
+      {
+        "tag": "dataset",
+        "title": "Teollisen lämpöhukan atlas",
+        "description": "Paikkatietoaineisto, joka kartoittaa arvioidun lämpöhukan teollisista laitoksista osallistuvilla alueilla. Päivitetään neljännesvuosittain."
+      },
+      {
+        "tag": "document",
+        "title": "Tutkimusartikkelien arkisto",
+        "description": "Täydellinen arkisto julkaistuja artikkeleita, esipainoksia ja teknisiä muistiinpanoja. Kaikki materiaalit lisensoitu akateemiseen ja julkiseen käyttöön."
+      },
+      {
+        "tag": "tool",
+        "title": "Lämmön talteenoton laskin",
+        "description": "Avoimen lähdekoodin laskentataulukko ja verkkotyökalu lämmön talteenoton potentiaalin arvioimiseen laitostyypin, koon ja paikallisen kysynnän perusteella."
+      },
+      {
+        "tag": "document",
+        "title": "Poliittisten tiivistelmien kokoelma",
+        "description": "Tiiviitä poliittisia tiivistelmiä lainsäätäjille ja julkisille hallinnoijille, jotka tiivistävät tutkimustulokset toiminnallisiksi suosituksiksi."
+      },
+      {
+        "tag": "dataset",
+        "title": "Energianhukan mittaristandardi",
+        "description": "Koneellisesti luettava skeema ja viiteaineisto standardoidulle energianhukan raportoinnille, mikä mahdollistaa analyysin tutkimusten välillä."
+      },
+      {
+        "tag": "document",
+        "title": "Sanasto ja viite",
+        "description": "Kattava sanasto energiajärjestelmien terminologiasta, yksiköistä ja muuntokertoimista, joita käytetään tutkimus- ja koulutusmateriaaleissamme."
+      }
+    ],
+    "freeTitle": "Kaikki resurssit ovat ilmaisia. Ei tilejä, ei maksumuureja, ei ostoksia.",
+    "freeDescription": "Uskomme, että kestävyystiedon tulisi olla yleishyödyllinen hyödyke. Resurssit tehdään ladattaviksi niiden valmistuessa."
+  },
+  "contact": {
+    "title": "Yhteystiedot",
+    "subtitle": "Ota yhteyttä tutkimusyhteistyöstä, koulutuskumppanuuksista, mediatiedusteluista tai yleisistä kysymyksistä tehtävästämme.",
+    "generalInquiries": "Yleiset tiedustelut",
+    "researchCollaboration": "Tutkimusyhteistyö",
+    "educationOutreach": "Koulutus ja tiedotustoiminta",
+    "disclaimer": "Olemme tutkimus- ja koulutusaloite — emme kaupallinen yhteisö. Emme myy tuotteita, ota vastaan ennakkotilauksia emmekä ylläpidä kauppaa. Mediatiedusteluissa ilmoita julkaisusi ja määräaikasi viestissäsi.",
+    "formName": "Nimi",
+    "formEmail": "Sähköposti",
+    "formSubject": "Aihe",
+    "formMessage": "Viesti",
+    "formNamePlaceholder": "Nimesi",
+    "formEmailPlaceholder": "you@example.com",
+    "formMessagePlaceholder": "Miten voimme auttaa?",
+    "formSubmit": "Lähetä viesti",
+    "subjects": [
+      "Yleinen tiedustelu",
+      "Tutkimusyhteistyö",
+      "Koulutuskumppanuus",
+      "Mediatiedustelu",
+      "Muu"
+    ]
+  },
+  "footer": {
+    "description": "Yleishyödyllinen aloite, joka on omistettu kestävyystutkimukselle, energianhukan vähentämiselle ja avoimelle koulutukselle yhteisöille ympäri maailmaa.",
+    "explore": "Tutustu",
+    "resources": "Resurssit",
+    "rights": "Kaikki oikeudet pidätetään.",
+    "tagline": "Yleishyödyllinen tehtävä · Tutkimus · Koulutus · Ei kaupallista myyntiä",
+    "languages": "Saatavilla 25 kielellä"
+  },
+  "tags": {
+    "active": "Aktiivinen",
+    "published": "Julkaistu",
+    "planning": "Suunnittelu",
+    "course": "Kurssi",
+    "workshop": "Työpaja",
+    "guide": "Opas",
+    "webinar": "Webinaari",
+    "curriculum": "Opetussuunnitelma",
+    "toolkit": "Työkalupakki",
+    "dataset": "Aineisto",
+    "document": "Asiakirja",
+    "tool": "Työkalu"
+  },
+  "faq": [
+    {
+      "question": "Mikä on Energiemind?",
+      "answer": "Energiemind on yleishyödyllinen aloite, joka on omistettu kestävyystutkimukselle, energianhukan vähentämiselle, kaivostoiminnan lämmön uudelleenkäytölle ja avoimelle koulutukselle. Julkaisemme tulokset vapaasti ilman kaupallista myyntiä tai ennakkomyyntiä."
+    },
+    {
+      "question": "Onko Energiemind kaupallinen yritys?",
+      "answer": "Ei. Energiemind on tutkimus- ja koulutusaloite. Emme myy tuotteita, ota vastaan ennakkotilauksia emmekä ylläpidä kauppaa. Kaikki resurssit tarjotaan yleishyödyllisenä hyödykkeenä."
+    },
+    {
+      "question": "Mitä on kaivostoiminnan lämmön uudelleenkäyttö?",
+      "answer": "Kaivostoiminnan lämmön uudelleenkäyttö kerää hukkalämpöenergiaa kryptovaluutta- ja datakeskuslouhinnasta ja ohjaa sen tuottavaan käyttöön, kuten kaukolämpöön, kasvihuoneviljelyyn ja veden lämmitykseen."
+    },
+    {
+      "question": "Miten pääsen käsiksi tutkimukseen ja resursseihin?",
+      "answer": "Kaikki julkaistu tutkimus, aineistot ja koulutusmateriaalit ovat ilmaisia osiossa Julkiset resurssit. Tilejä tai maksumuureja ei vaadita."
+    },
+    {
+      "question": "Miten voin tehdä yhteistyötä Energiemindin kanssa?",
+      "answer": "Tutkijat, opettajat ja instituutiot voivat ottaa meihin yhteyttä osoitteessa research@energiemind.org yhteistyötiedusteluja varten. Toivotamme tervetulleeksi akateemiset kumppanuudet ja tutkimustemme riippumattoman toistamisen."
+    }
+  ],
+  "articles": [
+    {
+      "headline": "Vuosittainen kestävyysraportti 2024",
+      "description": "Ensimmäinen vuosiraportti, joka kattaa tehtävän käynnistyksen, alkuperäiset tutkimusjulkaisut, kumppanuuskehityksen ja ympäristön perusmittaukset.",
+      "datePublished": "2024-12-15"
+    },
+    {
+      "headline": "Energianhukan perustutkimus",
+      "description": "Perustutkimus, joka luo menetelmät ja alkuperäiset tiedot teollisen energianhukan kvantifiointiin kohdealueilla.",
+      "datePublished": "2024-09-20"
+    },
+    {
+      "headline": "Kaivostoiminnan lämmön uudelleenkäytön vaikutusarviointi",
+      "description": "Kohdennettu raportti lämmön talteenoton tapaustutkimuksista, mukaan lukien mitatut lämmön toimitusmäärät, hiilidioksidin korvaus ja yhteisöhyötymittarit.",
+      "datePublished": "2025-06-01"
+    }
+  ],
+  "internalLinks": {
+    "readIn": "Lue kielellä",
+    "alsoAvailable": "Saatavilla myös kielellä"
+  },
+  "faqSection": {
+    "title": "Usein kysytyt kysymykset"
+  }
+}

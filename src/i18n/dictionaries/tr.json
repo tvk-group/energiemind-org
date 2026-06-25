@@ -1,0 +1,376 @@
+{
+  "meta": {
+    "title": "Energiemind — Sürdürülebilirlik, Araştırma ve Kamu Misyonu",
+    "description": "Enerji israfının azaltılması, madencilik ısı geri kazanımı, sürdürülebilirlik araştırması ve açık eğitim kaynakları için kamu misyonu web sitesi.",
+    "keywords": [
+      "sürdürülebilirlik",
+      "enerji israfının azaltılması",
+      "madencilik ısı geri kazanımı",
+      "araştırma",
+      "eğitim",
+      "iklim",
+      "yenilenebilir enerji"
+    ],
+    "ogTitle": "Energiemind — Sürdürülebilirlik, Araştırma ve Kamu Misyonu",
+    "ogDescription": "Kamu yararına enerji verimliliği, madencilik ısı geri kazanımı ve açık sürdürülebilirlik araştırmasını ilerletiyoruz.",
+    "twitterTitle": "Energiemind — Sürdürülebilirlik, Araştırma ve Kamu Misyonu",
+    "twitterDescription": "Enerji israfının azaltılması, madencilik ısı geri kazanımı ve sürdürülebilirlik üzerine açık araştırma ve eğitim."
+  },
+  "nav": {
+    "mission": "Misyon",
+    "research": "Araştırma",
+    "miningHeatReuse": "Madencilik Isı Geri Kazanımı",
+    "energyWasteReduction": "Enerji İsrafının Azaltılması",
+    "sustainabilityReports": "Sürdürülebilirlik Raporları",
+    "education": "Eğitim",
+    "publicResources": "Kamu Kaynakları",
+    "contact": "İletişim",
+    "toggleMenu": "Gezinme menüsünü aç/kapat",
+    "mainNav": "Ana gezinme",
+    "language": "Dil",
+    "selectLanguage": "Dil seçin"
+  },
+  "hero": {
+    "badge": "Kamu Misyonu · Araştırma · Sürdürülebilirlik",
+    "title": "İsraf edilen enerjiyi sürdürülebilir bir gelecek için bilgiye dönüştürüyoruz",
+    "description": "Energiemind, enerji israfının azaltılması, madencilik ısı geri kazanımı ve kamu sürdürülebilirlik belgelerine odaklanan açık bir araştırma ve eğitim girişimidir. Bulgularımızı özgürce paylaşıyoruz — satış yok, ön satış yok, ticari gündem yok.",
+    "ctaMission": "Misyonumuz",
+    "ctaResources": "Kaynaklara Göz Atın"
+  },
+  "mission": {
+    "title": "Misyon",
+    "subtitle": "Enerji sistemleri hakkında kamu anlayışını ilerletmek ve atıksız, sürdürülebilir bir enerji ekonomisine geçişi hızlandırmak için varız.",
+    "p1": "Energiemind, basit bir inanç üzerine kuruldu: bugün israf ettiğimiz enerji, yarın paylaşmadığımız bilgidir. Endüstriyel süreçler, veri merkezleri ve kripto para madenciliği operasyonları boyunca atmosfere salınan muazzam miktarda termal enerji vardır — evleri, seraları ve topluluk tesislerini ısıtabilecek enerji.",
+    "p2": "Misyonumuz belgelemek, araştırmak ve eğitmektir. Açık bulgular yayınlıyor, akademik kurumlarla iş birliği yapıyor ve enerji sistemlerinin insanlar ve gezegen için nasıl daha iyi çalışabileceğini anlamak isteyen politika yapıcılar, mühendisler ve vatandaşlara ücretsiz kaynaklar sunuyoruz.",
+    "principlesTitle": "Temel İlkeler",
+    "principles": [
+      "Açık bilim — tüm araştırmalar kamu erişimine açık olarak yayınlanır",
+      "Kanıta dayalı — veri ve metodoloji tam olarak belgelenir",
+      "Topluluk öncelikli — yerel fayda için tasarlanmış çözümler",
+      "Ticari olmayan — ürün, ön satış veya satış kanalı yok"
+    ]
+  },
+  "research": {
+    "title": "Araştırma",
+    "subtitle": "Enerji verimliliği, termal geri kazanım sistemleri ve endüstriyel enerji kullanımının çevresel etkisi üzerine akran odaklı çalışmalar.",
+    "footnote": "Yayınlanan tüm araştırmalar açık lisanslar altında",
+    "footnoteLink": "Kamu Kaynakları",
+    "footnoteEnd": "bölümünde mevcuttur. Akademik iş birliğini ve bağımsız tekrarı memnuniyetle karşılıyoruz.",
+    "cards": [
+      {
+        "tag": "active",
+        "title": "Termal Geri Kazanım Fizibilite Çalışmaları",
+        "description": "Madencilik, imalat ve bilişim altyapısında ısı yakalama potansiyelinin nicel analizi. Maliyet-fayda modelleri ve bölgesel vaka çalışmalarını içerir."
+      },
+      {
+        "tag": "active",
+        "title": "Enerji İsrafı Haritalama",
+        "description": "Endüstriyel ısı israfı odak noktalarını belirleyen ve bunları yakındaki termal taleple — bölgesel ısıtma, tarım ve su ürünleri yetiştiriciliği — eşleştiren coğrafi araştırma."
+      },
+      {
+        "tag": "published",
+        "title": "Yaşam Döngüsü Karbon Analizi",
+        "description": "Gömülü karbon ve şebeke yer değiştirme faktörleri dahil olmak üzere geleneksel ısıtmayı geri kazanılmış endüstriyel ısıyla karşılaştıran tam yaşam döngüsü değerlendirmeleri."
+      },
+      {
+        "tag": "active",
+        "title": "Politika Çerçevesi İncelemesi",
+        "description": "Endüstriyel ısı geri kazanımını mümkün kılan veya engelleyen ulusal ve bölgesel politikaların karşılaştırmalı analizi; kamu yöneticileri için önerilerle."
+      },
+      {
+        "tag": "planning",
+        "title": "Topluluk Entegrasyon Modelleri",
+        "description": "Geri kazanılan ısı projelerinin yerel topluluklara adil ve şeffaf bir şekilde nasıl yapılandırılabileceğine ilişkin sosyoekonomik araştırma."
+      },
+      {
+        "tag": "published",
+        "title": "Açık Veri Standartları",
+        "description": "Enerji israfı ve ısı geri kazanımı metriklerinin raporlanması için standartlaştırılmış veri formatlarının geliştirilmesi; çalışmalar arası karşılaştırma ve tekrarı mümkün kılar."
+      }
+    ]
+  },
+  "miningHeatReuse": {
+    "title": "Madencilik Isı Geri Kazanımı",
+    "subtitle": "Kripto para ve veri merkezi madencilik operasyonları önemli miktarda atık ısı üretir. Bu termal çıktının üretken kullanıma nasıl yönlendirilebileceğini araştırıyoruz.",
+    "p1": "İş kanıtı ve yüksek performanslı bilişim tesisleri, sürekli hesaplamanın bir yan ürünü olarak ısı üretir. Bu enerjiyi atmosfere boşaltmak yerine, madencilik ısı geri kazanımı onu bölgesel ısıtma ağları, sera tarımı, su ısıtma ve endüstriyel süreçler için yakalar.",
+    "p2": "Energiemind gerçek dünya uygulamalarını belgeler, verimlilik kazanımlarını ölçer ve ısı geri kazanım ortaklıklarını değerlendiren operatörler ve belediyeler için teknik kılavuzlar yayınlar. Çalışmalarımız enerji kaynakları, şebeke etkisi ve topluluk faydası konusunda şeffaflığı vurgular.",
+    "stats": [
+      {
+        "value": "60–90%",
+        "label": "Optimize edilmiş sistemlerde ısı geri kazanım potansiyeli"
+      },
+      {
+        "value": "24/7",
+        "label": "Madencilik operasyonlarından sürekli termal çıktı"
+      },
+      {
+        "value": "3×",
+        "label": "Havalandırılan ısıya kıyasla tipik verimlilik kazancı"
+      },
+      {
+        "value": "Open",
+        "label": "Tüm vaka çalışması verileri kamuya açık olarak belgelenir"
+      }
+    ],
+    "cards": [
+      {
+        "title": "Teknik Mimari",
+        "description": "Madencilik tesislerini mevcut ısıtma altyapısına bağlamak için ısı eşanjörü tasarımı, akışkan döngüsü yapılandırmaları ve entegrasyon modelleri."
+      },
+      {
+        "title": "Vaka Çalışması Kütüphanesi",
+        "description": "İskandinav ülkeleri, Orta Avrupa ve Kuzey Amerika'daki belgelenmiş uygulamalar — performans verileri, zorluklar ve öğrenilen dersler dahil."
+      },
+      {
+        "title": "Çevresel Değerlendirme",
+        "description": "Enerji kaynağı analizi, şebeke bağımlılığı ve karbon muhasebesi metodolojisi dahil olmak üzere net çevresel etkinin dürüst değerlendirmesi."
+      }
+    ]
+  },
+  "energyWasteReduction": {
+    "title": "Enerji İsrafının Azaltılması",
+    "subtitle": "Endüstriyel ve belediye sistemlerinde enerji israfını belirleme, ölçme ve ortadan kaldırma konusunda sistematik yaklaşımlar.",
+    "cards": [
+      {
+        "title": "İsraf Denetimi Metodolojisi",
+        "description": "Endüstriyel tesislerde enerji israfı denetimleri yapmak için standartlaştırılmış bir çerçeve. Termal kayıplar, elektriksel verimsizlikler ve operasyonel israf kalıplarını kapsar."
+      },
+      {
+        "title": "Akıllı İzleme Sistemleri",
+        "description": "Gerçek zamanlı enerji israfı tespiti için düşük maliyetli sensör ağları ve veri analitiği araştırması; kayıplar birikmeden önce proaktif müdahaleyi mümkün kılar."
+      },
+      {
+        "title": "Davranışsal ve Operasyonel Faktörler",
+        "description": "Operasyonel uygulamaların, bakım programlarının ve organizasyon kültürünün enerji israfını nasıl etkilediğine ilişkin uygulanabilir önerilerle çalışmalar."
+      },
+      {
+        "title": "Yenileme Önceliklendirmesi",
+        "description": "Etki, maliyet ve uygulama karmaşıklığına göre enerji verimliliği iyileştirmelerini sıralamak için karar çerçeveleri — kamu sektörü bütçe kısıtlamaları için tasarlanmıştır."
+      }
+    ],
+    "hierarchyTitle": "İsraf Hiyerarşisi",
+    "hierarchySubtitle": "Araştırmalarımız enerji israfını ele almak için net bir öncelik sırası izler:",
+    "stepLabel": "Adım",
+    "hierarchySteps": [
+      {
+        "step": "1",
+        "title": "Ortadan Kaldır",
+        "desc": "Gereksiz enerji tüketimini tamamen kaldırın"
+      },
+      {
+        "step": "2",
+        "title": "Azalt",
+        "desc": "Gerekli çıktılar için enerji girdisini en aza indirin"
+      },
+      {
+        "step": "3",
+        "title": "Geri Kazan",
+        "desc": "Atık ısıyı ve yan ürünleri yakalayın ve yeniden kullanın"
+      },
+      {
+        "step": "4",
+        "title": "Dengele",
+        "desc": "Kalan talebi temiz kaynaklarla karşılayın"
+      }
+    ]
+  },
+  "sustainabilityReports": {
+    "title": "Sürdürülebilirlik Raporları",
+    "subtitle": "Çevresel ayak izimiz, araştırma ilerlememiz ve topluluk etkimiz hakkında şeffaf, periyodik raporlama.",
+    "statusPublished": "Yayınlandı",
+    "statusInProgress": "Devam Ediyor",
+    "availableInResources": "Kamu Kaynakları'nda mevcut",
+    "willBePublished": "Tamamlandığında yayınlanacak",
+    "reports": [
+      {
+        "year": "2025",
+        "title": "Yıllık Sürdürülebilirlik Raporu",
+        "status": "In Progress",
+        "summary": "Araştırma çıktısı, saha çalışmalarından enerji metrikleri ve tüm aktif projelerdeki çevresel etki değerlendirmelerinin kapsamlı incelemesi."
+      },
+      {
+        "year": "2024",
+        "title": "Yıllık Sürdürülebilirlik Raporu",
+        "status": "Published",
+        "summary": "Misyon lansmanı, ilk araştırma yayınları, ortaklık geliştirme ve temel çevresel ölçümleri kapsayan ilk yıllık rapor."
+      },
+      {
+        "year": "2025",
+        "title": "Madencilik Isı Geri Kazanımı Etki Değerlendirmesi",
+        "status": "In Progress",
+        "summary": "Ölçülen ısı teslimat hacimleri, karbon yer değiştirme ve topluluk fayda metrikleri dahil termal geri kazanım vaka çalışmalarına odaklanan rapor."
+      },
+      {
+        "year": "2024",
+        "title": "Enerji İsrafı Temel Çalışması",
+        "status": "Published",
+        "summary": "Hedef bölgelerde endüstriyel enerji israfı nicelendirmesi için metodoloji ve başlangıç verilerini oluşturan temel çalışma."
+      }
+    ]
+  },
+  "education": {
+    "title": "Eğitim",
+    "subtitle": "Enerji sistemlerini ve sürdürülebilirliği anlamak isteyen öğrenciler, profesyoneller ve topluluklar için ücretsiz öğrenme materyalleri.",
+    "cards": [
+      {
+        "tag": "course",
+        "title": "Enerji Sistemlerine Giriş",
+        "description": "Enerjinin endüstriyel, konut ve belediye sistemlerinde nasıl aktığını kapsayan temel ders — israf belirlemeye vurguyla."
+      },
+      {
+        "tag": "workshop",
+        "title": "Uygulayıcılar İçin Isı Geri Kazanımı",
+        "description": "Mühendisler ve tesis yöneticileri için termal geri kazanım sistemlerini tasarlama ve uygulama üzerine uygulamalı atölye materyalleri."
+      },
+      {
+        "tag": "guide",
+        "title": "Sürdürülebilirlik Okuryazarlığı",
+        "description": "Teknik olmayan kitleler için karbon muhasebesi, yaşam döngüsü analizi ve sürdürülebilirlik raporlamasını açıklayan erişilebilir kılavuzlar."
+      },
+      {
+        "tag": "webinar",
+        "title": "Madencilik ve Enerji Politikası",
+        "description": "Kripto para madenciliği, enerji politikası ve topluluk ısı geri kazanım programlarının kesişimi üzerine kayıtlı tartışmalar."
+      },
+      {
+        "tag": "curriculum",
+        "title": "Okul Programı Materyalleri",
+        "description": "Enerji tasarrufu ve çevresel sorumluluk öğreten K-12 eğitimcileri için yaşa uygun ders planları ve etkinlikler."
+      },
+      {
+        "tag": "toolkit",
+        "title": "Topluluk Organizatörü Araç Seti",
+        "description": "Belediyelerinde enerji israfı azaltma ve ısı geri kazanım projeleri için savunuculuk yapan yerel gruplar için kaynaklar."
+      }
+    ]
+  },
+  "publicResources": {
+    "title": "Kamu Kaynakları",
+    "subtitle": "Açık erişimli belgeler, veri kümeleri ve araçlar — indirme, atıf ve yeniden kullanım için ücretsiz olarak mevcut.",
+    "cards": [
+      {
+        "tag": "dataset",
+        "title": "Endüstriyel Isı İsrafı Atlası",
+        "description": "Katılımcı bölgelerdeki endüstriyel tesislerden tahmini termal israfı haritalayan coğrafi veri kümesi. Üç ayda bir güncellenir."
+      },
+      {
+        "tag": "document",
+        "title": "Araştırma Makalesi Arşivi",
+        "description": "Yayınlanmış makaleler, ön baskılar ve teknik notların tam arşivi. Tüm materyaller akademik ve kamu kullanımı için lisanslıdır."
+      },
+      {
+        "tag": "tool",
+        "title": "Isı Geri Kazanım Hesaplayıcısı",
+        "description": "Tesis türü, boyutu ve yerel talebe göre ısı geri kazanım potansiyelini tahmin etmek için açık kaynaklı elektronik tablo ve web aracı."
+      },
+      {
+        "tag": "document",
+        "title": "Politika Özeti Koleksiyonu",
+        "description": "Araştırma bulgularını uygulanabilir önerilere özetleyen yasa koyucular ve kamu yöneticileri için özlü politika özetleri."
+      },
+      {
+        "tag": "dataset",
+        "title": "Enerji İsrafı Metrikleri Standardı",
+        "description": "Standartlaştırılmış enerji israfı raporlaması için makine tarafından okunabilir şema ve referans verileri; çalışmalar arası analizi mümkün kılar."
+      },
+      {
+        "tag": "document",
+        "title": "Sözlük ve Referans",
+        "description": "Araştırma ve eğitim materyallerimizde kullanılan enerji sistemleri terminolojisi, birimler ve dönüşüm faktörlerinin kapsamlı sözlüğü."
+      }
+    ],
+    "freeTitle": "Tüm kaynaklar ücretsizdir. Hesap yok, ödeme duvarı yok, satın alma yok.",
+    "freeDescription": "Sürdürülebilirlik bilgisinin bir kamu malı olması gerektiğine inanıyoruz. Kaynaklar tamamlandıkça indirme için sunulacaktır."
+  },
+  "contact": {
+    "title": "İletişim",
+    "subtitle": "Araştırma iş birliği, eğitim ortaklıkları, medya soruları veya misyonumuz hakkında genel sorular için bize ulaşın.",
+    "generalInquiries": "Genel Sorular",
+    "researchCollaboration": "Araştırma İş Birliği",
+    "educationOutreach": "Eğitim ve Tanıtım",
+    "disclaimer": "Bir araştırma ve eğitim girişimiyiz — ticari bir kuruluş değiliz. Ürün satmıyor, ön satış siparişi kabul etmiyor veya mağaza işletmiyoruz. Medya soruları için lütfen mesajınıza yayın organınızı ve son tarihinizi ekleyin.",
+    "formName": "Ad",
+    "formEmail": "E-posta",
+    "formSubject": "Konu",
+    "formMessage": "Mesaj",
+    "formNamePlaceholder": "Adınız",
+    "formEmailPlaceholder": "you@example.com",
+    "formMessagePlaceholder": "Size nasıl yardımcı olabiliriz?",
+    "formSubmit": "Mesaj Gönder",
+    "subjects": [
+      "Genel soru",
+      "Araştırma iş birliği",
+      "Eğitim ortaklığı",
+      "Medya sorusu",
+      "Diğer"
+    ]
+  },
+  "footer": {
+    "description": "Dünya genelindeki topluluklar için sürdürülebilirlik araştırması, enerji israfı azaltma ve açık eğitime adanmış bir kamu misyonu girişimi.",
+    "explore": "Keşfet",
+    "resources": "Kaynaklar",
+    "rights": "Tüm hakları saklıdır.",
+    "tagline": "Kamu misyonu · Araştırma · Eğitim · Ticari satış yok",
+    "languages": "25 dilde mevcut"
+  },
+  "tags": {
+    "active": "Aktif",
+    "published": "Yayınlandı",
+    "planning": "Planlama",
+    "course": "Ders",
+    "workshop": "Atölye",
+    "guide": "Kılavuz",
+    "webinar": "Web Semineri",
+    "curriculum": "Müfredat",
+    "toolkit": "Araç Seti",
+    "dataset": "Veri Kümesi",
+    "document": "Belge",
+    "tool": "Araç"
+  },
+  "faq": [
+    {
+      "question": "Energiemind nedir?",
+      "answer": "Energiemind, sürdürülebilirlik araştırması, enerji israfı azaltma, madencilik ısı geri kazanımı ve açık eğitime adanmış bir kamu misyonu girişimidir. Bulgularımızı ticari satış veya ön satış faaliyeti olmadan özgürce yayınlıyoruz."
+    },
+    {
+      "question": "Energiemind ticari bir şirket mi?",
+      "answer": "Hayır. Energiemind bir araştırma ve eğitim girişimidir. Ürün satmıyor, ön satış siparişi kabul etmiyor veya mağaza işletmiyoruz. Tüm kaynaklar bir kamu malı olarak sunulmaktadır."
+    },
+    {
+      "question": "Madencilik ısı geri kazanımı nedir?",
+      "answer": "Madencilik ısı geri kazanımı, kripto para ve veri merkezi madencilik operasyonlarından atık termal enerjiyi yakalar ve bölgesel ısıtma, sera tarımı ve su ısıtma gibi üretken kullanımlara yönlendirir."
+    },
+    {
+      "question": "Araştırma ve kaynaklara nasıl erişebilirim?",
+      "answer": "Yayınlanan tüm araştırmalar, veri kümeleri ve eğitim materyalleri Kamu Kaynakları bölümümüzde ücretsiz olarak mevcuttur. Hesap veya ödeme duvarı gerekmez."
+    },
+    {
+      "question": "Energiemind ile nasıl iş birliği yapabilirim?",
+      "answer": "Araştırmacılar, eğitimciler ve kurumlar iş birliği soruları için bize research@energiemind.org adresinden ulaşabilir. Akademik ortaklıkları ve çalışmalarımızın bağımsız tekrarını memnuniyetle karşılıyoruz."
+    }
+  ],
+  "articles": [
+    {
+      "headline": "2024 Yıllık Sürdürülebilirlik Raporu",
+      "description": "Misyon lansmanı, ilk araştırma yayınları, ortaklık geliştirme ve temel çevresel ölçümleri kapsayan ilk yıllık rapor.",
+      "datePublished": "2024-12-15"
+    },
+    {
+      "headline": "Enerji İsrafı Temel Çalışması",
+      "description": "Hedef bölgelerde endüstriyel enerji israfı nicelendirmesi için metodoloji ve başlangıç verilerini oluşturan temel çalışma.",
+      "datePublished": "2024-09-20"
+    },
+    {
+      "headline": "Madencilik Isı Geri Kazanımı Etki Değerlendirmesi",
+      "description": "Ölçülen ısı teslimat hacimleri, karbon yer değiştirme ve topluluk fayda metrikleri dahil termal geri kazanım vaka çalışmalarına odaklanan rapor.",
+      "datePublished": "2025-06-01"
+    }
+  ],
+  "internalLinks": {
+    "readIn": "Şu dilde okuyun:",
+    "alsoAvailable": "Ayrıca şu dillerde mevcut:"
+  },
+  "faqSection": {
+    "title": "Sıkça Sorulan Sorular"
+  }
+}

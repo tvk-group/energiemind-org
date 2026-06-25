@@ -1,0 +1,376 @@
+{
+  "meta": {
+    "title": "Energiemind — Hållbarhet, forskning och allmännyttigt uppdrag",
+    "description": "Webbplats för allmännyttigt uppdrag inom minskning av energislöseri, återanvändning av gruvvärme, hållbarhetsforskning och öppna utbildningsresurser.",
+    "keywords": [
+      "hållbarhet",
+      "minskning av energislöseri",
+      "återanvändning av gruvvärme",
+      "forskning",
+      "utbildning",
+      "klimat",
+      "förnybar energi"
+    ],
+    "ogTitle": "Energiemind — Hållbarhet, forskning och allmännyttigt uppdrag",
+    "ogDescription": "Främjar energieffektivitet, återanvändning av gruvvärme och öppen hållbarhetsforskning till allmännyttan.",
+    "twitterTitle": "Energiemind — Hållbarhet, forskning och allmännyttigt uppdrag",
+    "twitterDescription": "Öppen forskning och utbildning om minskning av energislöseri, återanvändning av gruvvärme och hållbarhet."
+  },
+  "nav": {
+    "mission": "Uppdrag",
+    "research": "Forskning",
+    "miningHeatReuse": "Återanvändning av gruvvärme",
+    "energyWasteReduction": "Minskning av energislöseri",
+    "sustainabilityReports": "Hållbarhetsrapporter",
+    "education": "Utbildning",
+    "publicResources": "Offentliga resurser",
+    "contact": "Kontakt",
+    "toggleMenu": "Växla navigeringsmeny",
+    "mainNav": "Huvudnavigering",
+    "language": "Språk",
+    "selectLanguage": "Välj språk"
+  },
+  "hero": {
+    "badge": "Allmännyttigt uppdrag · Forskning · Hållbarhet",
+    "title": "Förvandla bortkastad energi till kunskap för en hållbar framtid",
+    "description": "Energiemind är ett öppet forsknings- och utbildningsinitiativ med fokus på minskning av energislöseri, återanvändning av gruvvärme och offentlig hållbarhetsdokumentation. Vi delar resultat fritt — inga försäljningar, inga förköp, ingen kommersiell agenda.",
+    "ctaMission": "Vårt uppdrag",
+    "ctaResources": "Bläddra bland resurser"
+  },
+  "mission": {
+    "title": "Uppdrag",
+    "subtitle": "Vi finns till för att främja allmän förståelse av energisystem och påskynda övergången till en spillfri, hållbar energiekonomi.",
+    "p1": "Energiemind grundades på en enkel övertygelse: energin vi slösar bort idag är kunskap vi misslyckas med att dela imorgon. Inom industriella processer, datacenter och kryptovalutautvinning frigörs enorma mängder termisk energi till atmosfären — energi som kunde värma hem, växthus och samhällsanläggningar.",
+    "p2": "Vårt uppdrag är att dokumentera, forska och utbilda. Vi publicerar öppna resultat, samarbetar med akademiska institutioner och tillhandahåller kostnadsfria resurser till beslutsfattare, ingenjörer och medborgare som vill förstå hur energisystem kan fungera bättre för människor och planeten.",
+    "principlesTitle": "Kärnprinciper",
+    "principles": [
+      "Öppen vetenskap — all forskning publiceras för allmän tillgång",
+      "Evidensbaserat — data och metodik fullständigt dokumenterade",
+      "Samhället först — lösningar utformade för lokalt nytta",
+      "Icke-kommersiellt — inga produkter, förköp eller försäljningskanaler"
+    ]
+  },
+  "research": {
+    "title": "Forskning",
+    "subtitle": "Kollegialt orienterade studier om energieffektivitet, termiska återvinningssystem och miljöpåverkan av industriell energianvändning.",
+    "footnote": "All publicerad forskning finns tillgänglig under öppna licenser i avsnittet",
+    "footnoteLink": "Offentliga resurser",
+    "footnoteEnd": ". Vi välkomnar akademiskt samarbete och oberoende replikering.",
+    "cards": [
+      {
+        "tag": "active",
+        "title": "Genomförbarhetsstudier av termisk återvinning",
+        "description": "Kvantitativ analys av potentialen för värmeåtervinning inom gruvdrift, tillverkning och beräkningsinfrastruktur. Inkluderar kostnads-nytto-modeller och regionala fallstudier."
+      },
+      {
+        "tag": "active",
+        "title": "Kartläggning av energislöseri",
+        "description": "Geospatial forskning som identifierar industriella värmespillhotspots och matchar dem med närliggande termisk efterfrågan — fjärrvärme, jordbruk och vattenbruk."
+      },
+      {
+        "tag": "published",
+        "title": "Livscykelanalys av koldioxid",
+        "description": "Fullständiga livscykelbedömningar som jämför konventionell uppvärmning med återvunnen industriell värme, inklusive inbäddat kol och faktorer för elnätsersättning."
+      },
+      {
+        "tag": "active",
+        "title": "Granskning av policyramverk",
+        "description": "Jämförande analys av nationella och regionala policyer som möjliggör eller hindrar industriell värmeåtervinning, med rekommendationer för offentliga förvaltare."
+      },
+      {
+        "tag": "planning",
+        "title": "Modeller för samhällsintegration",
+        "description": "Socioekonomisk forskning om hur projekt med återvunnen värme kan struktureras för att gynna lokala samhällen rättvist och transparent."
+      },
+      {
+        "tag": "published",
+        "title": "Öppna datastandarder",
+        "description": "Utveckling av standardiserade dataformat för rapportering av energislöseri och mätvärden för värmeåtervinning, vilket möjliggör jämförelse och replikering mellan studier."
+      }
+    ]
+  },
+  "miningHeatReuse": {
+    "title": "Återanvändning av gruvvärme",
+    "subtitle": "Kryptovaluta- och datacenterutvinning genererar betydande spillvärme. Vi forskar om hur denna termiska produktion kan omdirigeras till produktiv användning.",
+    "p1": "Proof-of-work och högeffektiva beräkningsanläggningar producerar värme som en biprodukt av kontinuerlig beräkning. Istället för att ventilera denna energi till atmosfären fångar återanvändning av gruvvärme den för fjärrvärmenät, växthusodling, vattenuppvärmning och industriella processer.",
+    "p2": "Energiemind dokumenterar implementeringar i verkligheten, mäter effektivitetsvinster och publicerar tekniska guider för operatörer och kommuner som överväger partnerskap för värmeåtervinning. Vårt arbete betonar transparens kring energikällor, elnätspåverkan och samhällsnytta.",
+    "stats": [
+      {
+        "value": "60–90%",
+        "label": "Potential för värmeåtervinning i optimerade system"
+      },
+      {
+        "value": "24/7",
+        "label": "Kontinuerlig termisk produktion från gruvdrift"
+      },
+      {
+        "value": "3×",
+        "label": "Typisk effektivitetsvinst jämfört med ventilerad värme"
+      },
+      {
+        "value": "Open",
+        "label": "All fallstudiedata offentligt dokumenterad"
+      }
+    ],
+    "cards": [
+      {
+        "title": "Teknisk arkitektur",
+        "description": "Värmeväxlardesign, konfigurationer av vätskekretsar och integrationsmönster för att koppla gruvanläggningar till befintlig uppvärmningsinfrastruktur."
+      },
+      {
+        "title": "Fallstudiebibliotek",
+        "description": "Dokumenterade installationer i Norden, Centraleuropa och Nordamerika — inklusive prestandadata, utmaningar och lärdomar."
+      },
+      {
+        "title": "Miljöbedömning",
+        "description": "Ärlig utvärdering av nettomiljöpåverkan, inklusive analys av energikällor, elnätsberoende och metodik för koldioxidredovisning."
+      }
+    ]
+  },
+  "energyWasteReduction": {
+    "title": "Minskning av energislöseri",
+    "subtitle": "Systematiska metoder för att identifiera, mäta och eliminera energislöseri inom industriella och kommunala system.",
+    "cards": [
+      {
+        "title": "Metodik för spillrevision",
+        "description": "Ett standardiserat ramverk för att genomföra energispillrevisioner i industriella anläggningar. Täcker termiska förluster, elektriska ineffektiviteter och operativa spillmönster."
+      },
+      {
+        "title": "Smarta övervakningssystem",
+        "description": "Forskning om kostnadseffektiva sensornätverk och dataanalys för realtidsdetektering av energislöseri, vilket möjliggör proaktiv intervention innan förluster ackumuleras."
+      },
+      {
+        "title": "Beteende- och operativa faktorer",
+        "description": "Studier om hur operativa rutiner, underhållsscheman och organisationskultur påverkar energislöseri — med handlingsbara rekommendationer."
+      },
+      {
+        "title": "Prioritering av renoveringar",
+        "description": "Beslutsramverk för att rangordna energieffektivitetsförbättringar efter påverkan, kostnad och implementeringskomplexitet — utformade för offentliga budgetbegränsningar."
+      }
+    ],
+    "hierarchyTitle": "Spillhierarkin",
+    "hierarchySubtitle": "Vår forskning följer en tydlig prioriteringsordning för att hantera energislöseri:",
+    "stepLabel": "Steg",
+    "hierarchySteps": [
+      {
+        "step": "1",
+        "title": "Eliminera",
+        "desc": "Ta bort onödig energiförbrukning helt"
+      },
+      {
+        "step": "2",
+        "title": "Minska",
+        "desc": "Minimera energitillförsel för nödvändiga utdata"
+      },
+      {
+        "step": "3",
+        "title": "Återvinn",
+        "desc": "Fånga och återanvänd spillvärme och biprodukter"
+      },
+      {
+        "step": "4",
+        "title": "Kompensera",
+        "desc": "Ersätt återstående efterfrågan med rena källor"
+      }
+    ]
+  },
+  "sustainabilityReports": {
+    "title": "Hållbarhetsrapporter",
+    "subtitle": "Transparent, periodisk rapportering om vårt miljöavtryck, forskningsframsteg och samhällspåverkan.",
+    "statusPublished": "Publicerad",
+    "statusInProgress": "Pågående",
+    "availableInResources": "Tillgänglig i Offentliga resurser",
+    "willBePublished": "Kommer att publiceras vid färdigställande",
+    "reports": [
+      {
+        "year": "2025",
+        "title": "Årlig hållbarhetsrapport",
+        "status": "In Progress",
+        "summary": "Omfattande genomgång av forskningsresultat, energimätvärden från fältstudier och miljökonsekvensbedömningar för alla aktiva projekt."
+      },
+      {
+        "year": "2024",
+        "title": "Årlig hållbarhetsrapport",
+        "status": "Published",
+        "summary": "Första årsrapporten som täcker uppdragslansering, initiala forskningspublikationer, partnerskapsutveckling och baslinjemätningar av miljön."
+      },
+      {
+        "year": "2025",
+        "title": "Konsekvensbedömning av återanvändning av gruvvärme",
+        "status": "In Progress",
+        "summary": "Fokuserad rapport om fallstudier av termisk återvinning, inklusive uppmätta volymer av värmeleverans, koldioxidersättning och mätvärden för samhällsnytta."
+      },
+      {
+        "year": "2024",
+        "title": "Baslinjestudie av energislöseri",
+        "status": "Published",
+        "summary": "Grundläggande studie som etablerar metodik och initial data för kvantifiering av industriellt energislöseri i målregioner."
+      }
+    ]
+  },
+  "education": {
+    "title": "Utbildning",
+    "subtitle": "Kostnadsfria läromedel för studenter, yrkesverksamma och samhällen som vill förstå energisystem och hållbarhet.",
+    "cards": [
+      {
+        "tag": "course",
+        "title": "Introduktion till energisystem",
+        "description": "Grundkurs som täcker hur energi flödar genom industriella, bostads- och kommunala system — med betoning på identifiering av spill."
+      },
+      {
+        "tag": "workshop",
+        "title": "Värmeåtervinning för praktiker",
+        "description": "Praktiska workshopmaterial för ingenjörer och anläggningschefer om att utforma och implementera termiska återvinningssystem."
+      },
+      {
+        "tag": "guide",
+        "title": "Hållbarhetskompetens",
+        "description": "Tillgängliga guider som förklarar koldioxidredovisning, livscykelanalys och hållbarhetsrapportering för icke-tekniska målgrupper."
+      },
+      {
+        "tag": "webinar",
+        "title": "Gruvdrift och energipolicy",
+        "description": "Inspelade diskussioner om skärningspunkten mellan kryptovalutautvinning, energipolicy och samhällsprogram för värmeåtervinning."
+      },
+      {
+        "tag": "curriculum",
+        "title": "Skolprogrammaterial",
+        "description": "Åldersanpassade lektionsplaner och aktiviteter för lärare i grundskola och gymnasium som undervisar om energibesparing och miljöansvar."
+      },
+      {
+        "tag": "toolkit",
+        "title": "Verktygslåda för samhällsorganisatörer",
+        "description": "Resurser för lokala grupper som förespråkar minskning av energislöseri och värmeåtervinningsprojekt i sina kommuner."
+      }
+    ]
+  },
+  "publicResources": {
+    "title": "Offentliga resurser",
+    "subtitle": "Dokument, dataset och verktyg med öppen tillgång — fritt tillgängliga för nedladdning, citering och återanvändning.",
+    "cards": [
+      {
+        "tag": "dataset",
+        "title": "Atlas över industriellt värmespill",
+        "description": "Geospatialt dataset som kartlägger uppskattat termiskt spill från industriella anläggningar i deltagande regioner. Uppdateras kvartalsvis."
+      },
+      {
+        "tag": "document",
+        "title": "Arkiv för forskningsartiklar",
+        "description": "Komplett arkiv med publicerade artiklar, förtryck och tekniska anteckningar. Allt material licensierat för akademisk och offentlig användning."
+      },
+      {
+        "tag": "tool",
+        "title": "Kalkylator för värmeåtervinning",
+        "description": "Kalkylblad med öppen källkod och webbverktyg för att uppskatta potentialen för värmeåtervinning baserat på anläggningstyp, storlek och lokal efterfrågan."
+      },
+      {
+        "tag": "document",
+        "title": "Samling av policybriefs",
+        "description": "Koncisa policybriefs utformade för lagstiftare och offentliga förvaltare, som sammanfattar forskningsresultat till handlingsbara rekommendationer."
+      },
+      {
+        "tag": "dataset",
+        "title": "Standard för mätvärden av energislöseri",
+        "description": "Maskinläsbart schema och referensdata för standardiserad rapportering av energislöseri, vilket möjliggör analys mellan studier."
+      },
+      {
+        "tag": "document",
+        "title": "Ordlista och referens",
+        "description": "Omfattande ordlista över terminologi, enheter och omvandlingsfaktorer för energisystem som används i vårt forsknings- och utbildningsmaterial."
+      }
+    ],
+    "freeTitle": "Alla resurser är gratis. Inga konton, inga betalväggar, inga köp.",
+    "freeDescription": "Vi anser att hållbarhetskunskap ska vara en allmännyttig tillgång. Resurser görs tillgängliga för nedladdning i takt med att de färdigställs."
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Kontakta oss för forskningssamarbete, utbildningspartnerskap, medieförfrågningar eller allmänna frågor om vårt uppdrag.",
+    "generalInquiries": "Allmänna förfrågningar",
+    "researchCollaboration": "Forskningssamarbete",
+    "educationOutreach": "Utbildning och uppsökande verksamhet",
+    "disclaimer": "Vi är ett forsknings- och utbildningsinitiativ — inte ett kommersiellt företag. Vi säljer inga produkter, tar inte emot förköpsbeställningar och driver ingen butik. För medieförfrågningar, ange gärna din publikation och deadline i ditt meddelande.",
+    "formName": "Namn",
+    "formEmail": "E-post",
+    "formSubject": "Ämne",
+    "formMessage": "Meddelande",
+    "formNamePlaceholder": "Ditt namn",
+    "formEmailPlaceholder": "you@example.com",
+    "formMessagePlaceholder": "Hur kan vi hjälpa till?",
+    "formSubmit": "Skicka meddelande",
+    "subjects": [
+      "Allmän förfrågan",
+      "Forskningssamarbete",
+      "Utbildningspartnerskap",
+      "Medieförfrågan",
+      "Övrigt"
+    ]
+  },
+  "footer": {
+    "description": "Ett allmännyttigt initiativ dedikerat till hållbarhetsforskning, minskning av energislöseri och öppen utbildning för samhällen världen över.",
+    "explore": "Utforska",
+    "resources": "Resurser",
+    "rights": "Alla rättigheter förbehållna.",
+    "tagline": "Allmännyttigt uppdrag · Forskning · Utbildning · Ingen kommersiell försäljning",
+    "languages": "Tillgängligt på 25 språk"
+  },
+  "tags": {
+    "active": "Aktiv",
+    "published": "Publicerad",
+    "planning": "Planering",
+    "course": "Kurs",
+    "workshop": "Workshop",
+    "guide": "Guide",
+    "webinar": "Webbinarium",
+    "curriculum": "Läroplan",
+    "toolkit": "Verktygslåda",
+    "dataset": "Dataset",
+    "document": "Dokument",
+    "tool": "Verktyg"
+  },
+  "faq": [
+    {
+      "question": "Vad är Energiemind?",
+      "answer": "Energiemind är ett allmännyttigt initiativ dedikerat till hållbarhetsforskning, minskning av energislöseri, återanvändning av gruvvärme och öppen utbildning. Vi publicerar resultat fritt utan kommersiell försäljning eller förköpsaktiviteter."
+    },
+    {
+      "question": "Är Energiemind ett kommersiellt företag?",
+      "answer": "Nej. Energiemind är ett forsknings- och utbildningsinitiativ. Vi säljer inga produkter, tar inte emot förköpsbeställningar och driver ingen butik. Alla resurser tillhandahålls som en allmännyttig tillgång."
+    },
+    {
+      "question": "Vad är återanvändning av gruvvärme?",
+      "answer": "Återanvändning av gruvvärme fångar spilltermisk energi från kryptovaluta- och datacenterutvinning och omdirigerar den till produktiva användningar som fjärrvärme, växthusodling och vattenuppvärmning."
+    },
+    {
+      "question": "Hur får jag tillgång till forskning och resurser?",
+      "answer": "All publicerad forskning, dataset och utbildningsmaterial finns gratis i avsnittet Offentliga resurser. Inga konton eller betalväggar krävs."
+    },
+    {
+      "question": "Hur kan jag samarbeta med Energiemind?",
+      "answer": "Forskare, pedagoger och institutioner kan nå oss på research@energiemind.org för samarbetsförfrågningar. Vi välkomnar akademiska partnerskap och oberoende replikering av våra studier."
+    }
+  ],
+  "articles": [
+    {
+      "headline": "Årlig hållbarhetsrapport 2024",
+      "description": "Första årsrapporten som täcker uppdragslansering, initiala forskningspublikationer, partnerskapsutveckling och baslinjemätningar av miljön.",
+      "datePublished": "2024-12-15"
+    },
+    {
+      "headline": "Baslinjestudie av energislöseri",
+      "description": "Grundläggande studie som etablerar metodik och initial data för kvantifiering av industriellt energislöseri i målregioner.",
+      "datePublished": "2024-09-20"
+    },
+    {
+      "headline": "Konsekvensbedömning av återanvändning av gruvvärme",
+      "description": "Fokuserad rapport om fallstudier av termisk återvinning, inklusive uppmätta volymer av värmeleverans, koldioxidersättning och mätvärden för samhällsnytta.",
+      "datePublished": "2025-06-01"
+    }
+  ],
+  "internalLinks": {
+    "readIn": "Läs på",
+    "alsoAvailable": "Finns även på"
+  },
+  "faqSection": {
+    "title": "Vanliga frågor"
+  }
+}

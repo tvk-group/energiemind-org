@@ -1,0 +1,194 @@
+{
+  "meta": {
+    "title": "Energiemind — Sustainability, Research & Public Mission",
+    "description": "Public mission website for energy waste reduction, mining heat reuse, sustainability research, and open education resources.",
+    "keywords": ["sustainability", "energy waste reduction", "mining heat reuse", "research", "education", "climate", "renewable energy"],
+    "ogTitle": "Energiemind — Sustainability, Research & Public Mission",
+    "ogDescription": "Advancing energy efficiency, mining heat reuse, and open sustainability research for the public good.",
+    "twitterTitle": "Energiemind — Sustainability, Research & Public Mission",
+    "twitterDescription": "Open research and education on energy waste reduction, mining heat reuse, and sustainability."
+  },
+  "nav": {
+    "mission": "Mission",
+    "research": "Research",
+    "miningHeatReuse": "Mining Heat Reuse",
+    "energyWasteReduction": "Energy Waste Reduction",
+    "sustainabilityReports": "Sustainability Reports",
+    "education": "Education",
+    "publicResources": "Public Resources",
+    "contact": "Contact",
+    "toggleMenu": "Toggle navigation menu",
+    "mainNav": "Main navigation",
+    "language": "Language",
+    "selectLanguage": "Select language"
+  },
+  "hero": {
+    "badge": "Public Mission · Research · Sustainability",
+    "title": "Turning wasted energy into knowledge for a sustainable future",
+    "description": "Energiemind is an open research and education initiative focused on energy waste reduction, mining heat reuse, and public sustainability documentation. We share findings freely — no sales, no presale, no commercial agenda.",
+    "ctaMission": "Our Mission",
+    "ctaResources": "Browse Resources"
+  },
+  "mission": {
+    "title": "Mission",
+    "subtitle": "We exist to advance public understanding of energy systems and accelerate the transition to a waste-free, sustainable energy economy.",
+    "p1": "Energiemind was founded on a simple conviction: the energy we waste today is knowledge we fail to share tomorrow. Across industrial processes, data centers, and cryptocurrency mining operations, enormous quantities of thermal energy are released into the atmosphere — energy that could heat homes, greenhouses, and community facilities.",
+    "p2": "Our mission is to document, research, and educate. We publish open findings, collaborate with academic institutions, and provide free resources to policymakers, engineers, and citizens who want to understand how energy systems can work better for people and the planet.",
+    "principlesTitle": "Core Principles",
+    "principles": [
+      "Open science — all research published for public access",
+      "Evidence-based — data and methodology fully documented",
+      "Community-first — solutions designed for local benefit",
+      "Non-commercial — no products, presales, or sales channels"
+    ]
+  },
+  "research": {
+    "title": "Research",
+    "subtitle": "Peer-oriented studies on energy efficiency, thermal recovery systems, and the environmental impact of industrial energy use.",
+    "footnote": "All published research is available under open licenses in the",
+    "footnoteLink": "Public Resources",
+    "footnoteEnd": "section. We welcome academic collaboration and independent replication.",
+    "cards": [
+      { "tag": "active", "title": "Thermal Recovery Feasibility Studies", "description": "Quantitative analysis of heat capture potential across mining, manufacturing, and computing infrastructure. Includes cost-benefit models and regional case studies." },
+      { "tag": "active", "title": "Energy Waste Mapping", "description": "Geospatial research identifying industrial heat waste hotspots and matching them with nearby thermal demand — district heating, agriculture, and aquaculture." },
+      { "tag": "published", "title": "Lifecycle Carbon Analysis", "description": "Full lifecycle assessments comparing conventional heating with recovered industrial heat, including embodied carbon and grid displacement factors." },
+      { "tag": "active", "title": "Policy Framework Review", "description": "Comparative analysis of national and regional policies that enable or hinder industrial heat recovery, with recommendations for public administrators." },
+      { "tag": "planning", "title": "Community Integration Models", "description": "Socioeconomic research on how recovered heat projects can be structured to benefit local communities equitably and transparently." },
+      { "tag": "published", "title": "Open Data Standards", "description": "Development of standardized data formats for reporting energy waste and heat recovery metrics, enabling cross-study comparison and replication." }
+    ]
+  },
+  "miningHeatReuse": {
+    "title": "Mining Heat Reuse",
+    "subtitle": "Cryptocurrency and data-center mining operations generate substantial waste heat. We research how this thermal output can be redirected to productive use.",
+    "p1": "Proof-of-work and high-performance computing facilities produce heat as a byproduct of continuous computation. Rather than venting this energy into the atmosphere, mining heat reuse captures it for district heating networks, greenhouse agriculture, water heating, and industrial processes.",
+    "p2": "Energiemind documents real-world implementations, measures efficiency gains, and publishes technical guides for operators and municipalities considering heat recovery partnerships. Our work emphasizes transparency about energy sources, grid impact, and community benefit.",
+    "stats": [
+      { "value": "60–90%", "label": "Heat recovery potential in optimized systems" },
+      { "value": "24/7", "label": "Continuous thermal output from mining operations" },
+      { "value": "3×", "label": "Typical efficiency gain vs. vented heat" },
+      { "value": "Open", "label": "All case study data publicly documented" }
+    ],
+    "cards": [
+      { "title": "Technical Architecture", "description": "Heat exchanger design, fluid loop configurations, and integration patterns for connecting mining facilities to existing heating infrastructure." },
+      { "title": "Case Study Library", "description": "Documented deployments in Nordic countries, Central Europe, and North America — including performance data, challenges, and lessons learned." },
+      { "title": "Environmental Assessment", "description": "Honest evaluation of net environmental impact, including energy source analysis, grid dependency, and carbon accounting methodology." }
+    ]
+  },
+  "energyWasteReduction": {
+    "title": "Energy Waste Reduction",
+    "subtitle": "Systematic approaches to identifying, measuring, and eliminating energy waste across industrial and municipal systems.",
+    "cards": [
+      { "title": "Waste Auditing Methodology", "description": "A standardized framework for conducting energy waste audits in industrial facilities. Covers thermal losses, electrical inefficiencies, and operational waste patterns." },
+      { "title": "Smart Monitoring Systems", "description": "Research into low-cost sensor networks and data analytics for real-time energy waste detection, enabling proactive intervention before losses compound." },
+      { "title": "Behavioral & Operational Factors", "description": "Studies on how operational practices, maintenance schedules, and organizational culture affect energy waste — with actionable recommendations." },
+      { "title": "Retrofit Prioritization", "description": "Decision frameworks for ranking energy efficiency improvements by impact, cost, and implementation complexity — designed for public-sector budget constraints." }
+    ],
+    "hierarchyTitle": "The Waste Hierarchy",
+    "hierarchySubtitle": "Our research follows a clear priority order for addressing energy waste:",
+    "stepLabel": "Step",
+    "hierarchySteps": [
+      { "step": "1", "title": "Eliminate", "desc": "Remove unnecessary energy consumption entirely" },
+      { "step": "2", "title": "Reduce", "desc": "Minimize energy input for required outputs" },
+      { "step": "3", "title": "Recover", "desc": "Capture and reuse waste heat and byproducts" },
+      { "step": "4", "title": "Offset", "desc": "Replace remaining demand with clean sources" }
+    ]
+  },
+  "sustainabilityReports": {
+    "title": "Sustainability Reports",
+    "subtitle": "Transparent, periodic reporting on our environmental footprint, research progress, and community impact.",
+    "statusPublished": "Published",
+    "statusInProgress": "In Progress",
+    "availableInResources": "Available in Public Resources",
+    "willBePublished": "Will be published upon completion",
+    "reports": [
+      { "year": "2025", "title": "Annual Sustainability Report", "status": "In Progress", "summary": "Comprehensive review of research output, energy metrics from field studies, and environmental impact assessments across all active projects." },
+      { "year": "2024", "title": "Annual Sustainability Report", "status": "Published", "summary": "First annual report covering mission launch, initial research publications, partnership development, and baseline environmental measurements." },
+      { "year": "2025", "title": "Mining Heat Reuse Impact Assessment", "status": "In Progress", "summary": "Focused report on thermal recovery case studies, including measured heat delivery volumes, carbon displacement, and community benefit metrics." },
+      { "year": "2024", "title": "Energy Waste Baseline Study", "status": "Published", "summary": "Foundational study establishing methodology and initial data for industrial energy waste quantification in target regions." }
+    ]
+  },
+  "education": {
+    "title": "Education",
+    "subtitle": "Free learning materials for students, professionals, and communities seeking to understand energy systems and sustainability.",
+    "cards": [
+      { "tag": "course", "title": "Introduction to Energy Systems", "description": "Foundational course covering how energy flows through industrial, residential, and municipal systems — with emphasis on waste identification." },
+      { "tag": "workshop", "title": "Heat Recovery for Practitioners", "description": "Hands-on workshop materials for engineers and facility managers on designing and implementing thermal recovery systems." },
+      { "tag": "guide", "title": "Sustainability Literacy", "description": "Accessible guides explaining carbon accounting, lifecycle analysis, and sustainability reporting for non-technical audiences." },
+      { "tag": "webinar", "title": "Mining & Energy Policy", "description": "Recorded discussions on the intersection of cryptocurrency mining, energy policy, and community heat recovery programs." },
+      { "tag": "curriculum", "title": "School Program Materials", "description": "Age-appropriate lesson plans and activities for K-12 educators teaching energy conservation and environmental stewardship." },
+      { "tag": "toolkit", "title": "Community Organizer Toolkit", "description": "Resources for local groups advocating for energy waste reduction and heat recovery projects in their municipalities." }
+    ]
+  },
+  "publicResources": {
+    "title": "Public Resources",
+    "subtitle": "Open-access documents, datasets, and tools — freely available for download, citation, and reuse.",
+    "cards": [
+      { "tag": "dataset", "title": "Industrial Heat Waste Atlas", "description": "Geospatial dataset mapping estimated thermal waste from industrial facilities across participating regions. Updated quarterly." },
+      { "tag": "document", "title": "Research Paper Archive", "description": "Complete archive of published papers, preprints, and technical notes. All materials licensed for academic and public use." },
+      { "tag": "tool", "title": "Heat Recovery Calculator", "description": "Open-source spreadsheet and web tool for estimating heat recovery potential based on facility type, size, and local demand." },
+      { "tag": "document", "title": "Policy Brief Collection", "description": "Concise policy briefs designed for legislators and public administrators, summarizing research findings into actionable recommendations." },
+      { "tag": "dataset", "title": "Energy Waste Metrics Standard", "description": "Machine-readable schema and reference data for standardized energy waste reporting, enabling cross-study analysis." },
+      { "tag": "document", "title": "Glossary & Reference", "description": "Comprehensive glossary of energy systems terminology, units, and conversion factors used across our research and education materials." }
+    ],
+    "freeTitle": "All resources are free. No accounts, no paywalls, no purchases.",
+    "freeDescription": "We believe sustainability knowledge should be a public good. Resources will be made available for download as they are finalized."
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Reach out for research collaboration, education partnerships, media inquiries, or general questions about our mission.",
+    "generalInquiries": "General Inquiries",
+    "researchCollaboration": "Research Collaboration",
+    "educationOutreach": "Education & Outreach",
+    "disclaimer": "We are a research and education initiative — not a commercial entity. We do not sell products, accept presale orders, or operate a shop. For media inquiries, please include your publication and deadline in your message.",
+    "formName": "Name",
+    "formEmail": "Email",
+    "formSubject": "Subject",
+    "formMessage": "Message",
+    "formNamePlaceholder": "Your name",
+    "formEmailPlaceholder": "you@example.com",
+    "formMessagePlaceholder": "How can we help?",
+    "formSubmit": "Send Message",
+    "subjects": ["General inquiry", "Research collaboration", "Education partnership", "Media inquiry", "Other"]
+  },
+  "footer": {
+    "description": "A public mission initiative dedicated to sustainability research, energy waste reduction, and open education for communities worldwide.",
+    "explore": "Explore",
+    "resources": "Resources",
+    "rights": "All rights reserved.",
+    "tagline": "Public mission · Research · Education · No commercial sales",
+    "languages": "Available in 25 languages"
+  },
+  "tags": {
+    "active": "Active",
+    "published": "Published",
+    "planning": "Planning",
+    "course": "Course",
+    "workshop": "Workshop",
+    "guide": "Guide",
+    "webinar": "Webinar",
+    "curriculum": "Curriculum",
+    "toolkit": "Toolkit",
+    "dataset": "Dataset",
+    "document": "Document",
+    "tool": "Tool"
+  },
+  "faq": [
+    { "question": "What is Energiemind?", "answer": "Energiemind is a public mission initiative dedicated to sustainability research, energy waste reduction, mining heat reuse, and open education. We publish findings freely with no commercial sales or presale activities." },
+    { "question": "Is Energiemind a commercial company?", "answer": "No. Energiemind is a research and education initiative. We do not sell products, accept presale orders, or operate a shop. All resources are provided as a public good." },
+    { "question": "What is mining heat reuse?", "answer": "Mining heat reuse captures waste thermal energy from cryptocurrency and data-center mining operations and redirects it for productive uses such as district heating, greenhouse agriculture, and water heating." },
+    { "question": "How can I access research and resources?", "answer": "All published research, datasets, and educational materials are available for free in our Public Resources section. No accounts or paywalls are required." },
+    { "question": "How can I collaborate with Energiemind?", "answer": "Researchers, educators, and institutions can reach us at research@energiemind.org for collaboration inquiries. We welcome academic partnerships and independent replication of our studies." }
+  ],
+  "articles": [
+    { "headline": "Annual Sustainability Report 2024", "description": "First annual report covering mission launch, initial research publications, partnership development, and baseline environmental measurements.", "datePublished": "2024-12-15" },
+    { "headline": "Energy Waste Baseline Study", "description": "Foundational study establishing methodology and initial data for industrial energy waste quantification in target regions.", "datePublished": "2024-09-20" },
+    { "headline": "Mining Heat Reuse Impact Assessment", "description": "Focused report on thermal recovery case studies, including measured heat delivery volumes, carbon displacement, and community benefit metrics.", "datePublished": "2025-06-01" }
+  ],
+  "internalLinks": {
+    "readIn": "Read in",
+    "alsoAvailable": "Also available in"
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions"
+  }
+}

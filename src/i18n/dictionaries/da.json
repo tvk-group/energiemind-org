@@ -1,0 +1,376 @@
+{
+  "meta": {
+    "title": "Energiemind — Bæredygtighed, forskning og offentlig mission",
+    "description": "Hjemmeside for offentlig mission inden for reduktion af energispild, genbrug af minedriftvarme, bæredygtighedsforskning og åbne uddannelsesressourcer.",
+    "keywords": [
+      "bæredygtighed",
+      "reduktion af energispild",
+      "genbrug af minedriftvarme",
+      "forskning",
+      "uddannelse",
+      "klima",
+      "vedvarende energi"
+    ],
+    "ogTitle": "Energiemind — Bæredygtighed, forskning og offentlig mission",
+    "ogDescription": "Fremmer energieffektivitet, genbrug af minedriftvarme og åben bæredygtighedsforskning til almen nytte.",
+    "twitterTitle": "Energiemind — Bæredygtighed, forskning og offentlig mission",
+    "twitterDescription": "Åben forskning og uddannelse om reduktion af energispild, genbrug af minedriftvarme og bæredygtighed."
+  },
+  "nav": {
+    "mission": "Mission",
+    "research": "Forskning",
+    "miningHeatReuse": "Genbrug af minedriftvarme",
+    "energyWasteReduction": "Reduktion af energispild",
+    "sustainabilityReports": "Bæredygtighedsrapporter",
+    "education": "Uddannelse",
+    "publicResources": "Offentlige ressourcer",
+    "contact": "Kontakt",
+    "toggleMenu": "Skift navigationsmenu",
+    "mainNav": "Hovednavigation",
+    "language": "Sprog",
+    "selectLanguage": "Vælg sprog"
+  },
+  "hero": {
+    "badge": "Offentlig mission · Forskning · Bæredygtighed",
+    "title": "Gør spildt energi til viden for en bæredygtig fremtid",
+    "description": "Energiemind er et åbent forsknings- og uddannelsesinitiativ med fokus på reduktion af energispild, genbrug af minedriftvarme og offentlig bæredygtighedsdokumentation. Vi deler resultater frit — intet salg, ingen forudbestilling, ingen kommerciel dagsorden.",
+    "ctaMission": "Vores mission",
+    "ctaResources": "Gennemse ressourcer"
+  },
+  "mission": {
+    "title": "Mission",
+    "subtitle": "Vi eksisterer for at fremme offentlig forståelse af energisystemer og accelerere overgangen til en spildfri, bæredygtig energiøkonomi.",
+    "p1": "Energiemind blev grundlagt på en enkel overbevisning: den energi, vi spilder i dag, er viden, vi undlader at dele i morgen. I industrielle processer, datacentre og kryptovalutaudvinding frigives enorme mængder termisk energi til atmosfæren — energi, der kunne opvarme hjem, drivhuse og samfundsfaciliteter.",
+    "p2": "Vores mission er at dokumentere, forske og uddanne. Vi offentliggør åbne resultater, samarbejder med akademiske institutioner og stiller gratis ressourcer til rådighed for beslutningstagere, ingeniører og borgere, der ønsker at forstå, hvordan energisystemer kan fungere bedre for mennesker og planeten.",
+    "principlesTitle": "Kerne-principper",
+    "principles": [
+      "Åben videnskab — al forskning offentliggjort til offentlig adgang",
+      "Evidensbaseret — data og metodik fuldt dokumenteret",
+      "Samfundet først — løsninger designet til lokal nytte",
+      "Ikke-kommerciel — ingen produkter, forudbestillinger eller salgskanaler"
+    ]
+  },
+  "research": {
+    "title": "Forskning",
+    "subtitle": "Kollegialt orienterede studier om energieffektivitet, termiske genvindingssystemer og miljøpåvirkning af industriel energianvendelse.",
+    "footnote": "Al offentliggjort forskning er tilgængelig under åbne licenser i afsnittet",
+    "footnoteLink": "Offentlige ressourcer",
+    "footnoteEnd": ". Vi byder akademisk samarbejde og uafhængig replikering velkommen.",
+    "cards": [
+      {
+        "tag": "active",
+        "title": "Gennemførlighedsstudier af termisk genvinding",
+        "description": "Kvantitativ analyse af potentialet for varmeopsamling inden for minedrift, fremstilling og computerinfrastruktur. Inkluderer omkostnings-nytte-modeller og regionale casestudier."
+      },
+      {
+        "tag": "active",
+        "title": "Kortlægning af energispild",
+        "description": "Geospatial forskning, der identificerer industrielle varmespild-hotspots og matcher dem med nærliggende termisk efterspørgsel — fjernvarme, landbrug og akvakultur."
+      },
+      {
+        "tag": "published",
+        "title": "Livscyklusanalyse af kulstof",
+        "description": "Fuldstændige livscyklusvurderinger, der sammenligner konventionel opvarmning med genvundet industriel varme, inklusive indlejret kulstof og faktorer for netudskiftning."
+      },
+      {
+        "tag": "active",
+        "title": "Gennemgang af politiske rammer",
+        "description": "Sammenlignende analyse af nationale og regionale politikker, der muliggør eller hindrer industriel varmegenvinding, med anbefalinger til offentlige forvaltere."
+      },
+      {
+        "tag": "planning",
+        "title": "Modeller for samfundsintegration",
+        "description": "Socioøkonomisk forskning om, hvordan projekter med genvundet varme kan struktureres til at gavne lokale samfund retfærdigt og transparent."
+      },
+      {
+        "tag": "published",
+        "title": "Åbne datastandarder",
+        "description": "Udvikling af standardiserede dataformater til rapportering af energispild og måleværdier for varmegenvinding, der muliggør sammenligning og replikering på tværs af studier."
+      }
+    ]
+  },
+  "miningHeatReuse": {
+    "title": "Genbrug af minedriftvarme",
+    "subtitle": "Kryptovaluta- og datacenterudvinding genererer betydelig spildvarme. Vi forsker i, hvordan denne termiske produktion kan omdirigeres til produktiv brug.",
+    "p1": "Proof-of-work og højtydende computerfaciliteter producerer varme som et biprodukt af kontinuerlig beregning. I stedet for at ventilere denne energi til atmosfæren fanger genbrug af minedriftvarme den til fjernvarmenet, drivhuslandbrug, vandopvarmning og industrielle processer.",
+    "p2": "Energiemind dokumenterer implementeringer i den virkelige verden, måler effektivitetsgevinster og offentliggør tekniske guider til operatører og kommuner, der overvejer partnerskaber for varmegenvinding. Vores arbejde lægger vægt på gennemsigtighed om energikilder, netpåvirkning og samfundsnytte.",
+    "stats": [
+      {
+        "value": "60–90%",
+        "label": "Potentiale for varmegenvinding i optimerede systemer"
+      },
+      {
+        "value": "24/7",
+        "label": "Kontinuerlig termisk produktion fra minedrift"
+      },
+      {
+        "value": "3×",
+        "label": "Typisk effektivitetsgevinst vs. ventileret varme"
+      },
+      {
+        "value": "Open",
+        "label": "Alle casestudydata offentligt dokumenteret"
+      }
+    ],
+    "cards": [
+      {
+        "title": "Teknisk arkitektur",
+        "description": "Varmevekslerdesign, konfigurationer af væskekredsløb og integrationsmønstre til tilslutning af minedriftsfaciliteter til eksisterende opvarmningsinfrastruktur."
+      },
+      {
+        "title": "Casestudiebibliotek",
+        "description": "Dokumenterede installationer i Norden, Centraleuropa og Nordamerika — inklusive præstationsdata, udfordringer og erfaringer."
+      },
+      {
+        "title": "Miljøvurdering",
+        "description": "Ærlig evaluering af netto miljøpåvirkning, inklusive analyse af energikilder, netafhængighed og metodik for kulstofregnskab."
+      }
+    ]
+  },
+  "energyWasteReduction": {
+    "title": "Reduktion af energispild",
+    "subtitle": "Systematiske tilgange til at identificere, måle og eliminere energispild i industrielle og kommunale systemer.",
+    "cards": [
+      {
+        "title": "Metodik for spildrevision",
+        "description": "Et standardiseret rammeværk til gennemførelse af energispildrevisioner i industrielle faciliteter. Dækker termiske tab, elektriske ineffektiviteter og operationelle spildmønstre."
+      },
+      {
+        "title": "Smarte overvågningssystemer",
+        "description": "Forskning i omkostningseffektive sensornetværk og dataanalyse til realtidsdetektion af energispild, der muliggør proaktiv indgriben, før tab akkumuleres."
+      },
+      {
+        "title": "Adfærds- og operationelle faktorer",
+        "description": "Studier af, hvordan operationelle praksisser, vedligeholdelsesplaner og organisationskultur påvirker energispild — med handlingsorienterede anbefalinger."
+      },
+      {
+        "title": "Prioritering af renoveringer",
+        "description": "Beslutningsrammeværk til rangordning af energieffektivitetsforbedringer efter påvirkning, omkostning og implementeringskompleksitet — designet til offentlige budgetbegrænsninger."
+      }
+    ],
+    "hierarchyTitle": "Spildhierarkiet",
+    "hierarchySubtitle": "Vores forskning følger en klar prioriteringsrækkefølge for at håndtere energispild:",
+    "stepLabel": "Trin",
+    "hierarchySteps": [
+      {
+        "step": "1",
+        "title": "Eliminer",
+        "desc": "Fjern unødvendigt energiforbrug helt"
+      },
+      {
+        "step": "2",
+        "title": "Reducer",
+        "desc": "Minimer energitilførsel for nødvendige output"
+      },
+      {
+        "step": "3",
+        "title": "Genvind",
+        "desc": "Opsaml og genbrug spildvarme og biprodukter"
+      },
+      {
+        "step": "4",
+        "title": "Kompenser",
+        "desc": "Erstat resterende efterspørgsel med rene kilder"
+      }
+    ]
+  },
+  "sustainabilityReports": {
+    "title": "Bæredygtighedsrapporter",
+    "subtitle": "Transparent, periodisk rapportering om vores miljøaftryk, forskningsfremskridt og samfundspåvirkning.",
+    "statusPublished": "Offentliggjort",
+    "statusInProgress": "I gang",
+    "availableInResources": "Tilgængelig i Offentlige ressourcer",
+    "willBePublished": "Vil blive offentliggjort ved færdiggørelse",
+    "reports": [
+      {
+        "year": "2025",
+        "title": "Årlig bæredygtighedsrapport",
+        "status": "In Progress",
+        "summary": "Omfattende gennemgang af forskningsresultater, energimåleværdier fra feltstudier og miljøkonsekvensvurderinger for alle aktive projekter."
+      },
+      {
+        "year": "2024",
+        "title": "Årlig bæredygtighedsrapport",
+        "status": "Published",
+        "summary": "Første årsrapport, der dækker missionslancering, indledende forskningspublikationer, partnerskabsudvikling og grundlinjemålinger af miljøet."
+      },
+      {
+        "year": "2025",
+        "title": "Konsekvensvurdering af genbrug af minedriftvarme",
+        "status": "In Progress",
+        "summary": "Fokuseret rapport om casestudier af termisk genvinding, inklusive målte volumener af varmelevering, kulstofudskiftning og måleværdier for samfundsnytte."
+      },
+      {
+        "year": "2024",
+        "title": "Grundlinjestudie af energispild",
+        "status": "Published",
+        "summary": "Grundlæggende studie, der etablerer metodik og indledende data til kvantificering af industriel energispild i målregioner."
+      }
+    ]
+  },
+  "education": {
+    "title": "Uddannelse",
+    "subtitle": "Gratis læringsmaterialer til studerende, fagfolk og samfund, der ønsker at forstå energisystemer og bæredygtighed.",
+    "cards": [
+      {
+        "tag": "course",
+        "title": "Introduktion til energisystemer",
+        "description": "Grundkursus, der dækker, hvordan energi flyder gennem industrielle, bolig- og kommunale systemer — med vægt på identifikation af spild."
+      },
+      {
+        "tag": "workshop",
+        "title": "Varmegenvinding for praktikere",
+        "description": "Praktiske workshopmaterialer til ingeniører og facilitetsledere om design og implementering af termiske genvindingssystemer."
+      },
+      {
+        "tag": "guide",
+        "title": "Bæredygtighedskompetence",
+        "description": "Tilgængelige guider, der forklarer kulstofregnskab, livscyklusanalyse og bæredygtighedsrapportering til ikke-tekniske målgrupper."
+      },
+      {
+        "tag": "webinar",
+        "title": "Minedrift og energipolitik",
+        "description": "Optagede diskussioner om skæringspunktet mellem kryptovalutaudvinding, energipolitik og samfundsprogrammer for varmegenvinding."
+      },
+      {
+        "tag": "curriculum",
+        "title": "Skoleprogrammaterialer",
+        "description": "Alderstilpassede lektionsplaner og aktiviteter til lærere i folkeskole og gymnasium, der underviser i energibesparelse og miljøansvar."
+      },
+      {
+        "tag": "toolkit",
+        "title": "Værktøjskasse til samfundsorganisatorer",
+        "description": "Ressourcer til lokale grupper, der arbejder for reduktion af energispild og varmegenvindingsprojekter i deres kommuner."
+      }
+    ]
+  },
+  "publicResources": {
+    "title": "Offentlige ressourcer",
+    "subtitle": "Dokumenter, datasæt og værktøjer med åben adgang — frit tilgængelige til download, citering og genbrug.",
+    "cards": [
+      {
+        "tag": "dataset",
+        "title": "Atlas over industriel varmespild",
+        "description": "Geospatialt datasæt, der kortlægger estimeret termisk spild fra industrielle faciliteter i deltagende regioner. Opdateres kvartalsvis."
+      },
+      {
+        "tag": "document",
+        "title": "Arkiv for forskningsartikler",
+        "description": "Komplet arkiv med offentliggjorte artikler, preprints og tekniske noter. Alt materiale licenseret til akademisk og offentlig brug."
+      },
+      {
+        "tag": "tool",
+        "title": "Beregner til varmegenvinding",
+        "description": "Regneark med åben kildekode og webværktøj til estimering af potentialet for varmegenvinding baseret på facilitetstype, størrelse og lokal efterspørgsel."
+      },
+      {
+        "tag": "document",
+        "title": "Samling af policybriefs",
+        "description": "Koncise policybriefs designet til lovgivere og offentlige forvaltere, der opsummerer forskningsresultater til handlingsorienterede anbefalinger."
+      },
+      {
+        "tag": "dataset",
+        "title": "Standard for måleværdier af energispild",
+        "description": "Maskinlæsbart skema og referencedata til standardiseret rapportering af energispild, der muliggør analyse på tværs af studier."
+      },
+      {
+        "tag": "document",
+        "title": "Ordliste og reference",
+        "description": "Omfattende ordliste over terminologi, enheder og omregningsfaktorer for energisystemer brugt i vores forsknings- og uddannelsesmaterialer."
+      }
+    ],
+    "freeTitle": "Alle ressourcer er gratis. Ingen konti, ingen betalingsmure, ingen køb.",
+    "freeDescription": "Vi mener, at bæredygtighedsviden bør være en almen god. Ressourcer gøres tilgængelige til download, efterhånden som de færdiggøres."
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Kontakt os for forskningssamarbejde, uddannelsespartnerskaber, mediehenvendelser eller generelle spørgsmål om vores mission.",
+    "generalInquiries": "Generelle henvendelser",
+    "researchCollaboration": "Forskningssamarbejde",
+    "educationOutreach": "Uddannelse og opsøgende arbejde",
+    "disclaimer": "Vi er et forsknings- og uddannelsesinitiativ — ikke en kommerciel enhed. Vi sælger ingen produkter, accepterer ingen forudbestillinger og driver ingen butik. Ved mediehenvendelser bedes du angive din publikation og deadline i din besked.",
+    "formName": "Navn",
+    "formEmail": "E-mail",
+    "formSubject": "Emne",
+    "formMessage": "Besked",
+    "formNamePlaceholder": "Dit navn",
+    "formEmailPlaceholder": "you@example.com",
+    "formMessagePlaceholder": "Hvordan kan vi hjælpe?",
+    "formSubmit": "Send besked",
+    "subjects": [
+      "Generel henvendelse",
+      "Forskningssamarbejde",
+      "Uddannelsespartnerskab",
+      "Mediehenvendelse",
+      "Andet"
+    ]
+  },
+  "footer": {
+    "description": "Et offentligt missionsinitiativ dedikeret til bæredygtighedsforskning, reduktion af energispild og åben uddannelse for samfund verden over.",
+    "explore": "Udforsk",
+    "resources": "Ressourcer",
+    "rights": "Alle rettigheder forbeholdes.",
+    "tagline": "Offentlig mission · Forskning · Uddannelse · Intet kommercielt salg",
+    "languages": "Tilgængelig på 25 sprog"
+  },
+  "tags": {
+    "active": "Aktiv",
+    "published": "Offentliggjort",
+    "planning": "Planlægning",
+    "course": "Kursus",
+    "workshop": "Workshop",
+    "guide": "Guide",
+    "webinar": "Webinar",
+    "curriculum": "Læseplan",
+    "toolkit": "Værktøjskasse",
+    "dataset": "Datasæt",
+    "document": "Dokument",
+    "tool": "Værktøj"
+  },
+  "faq": [
+    {
+      "question": "Hvad er Energiemind?",
+      "answer": "Energiemind er et offentligt missionsinitiativ dedikeret til bæredygtighedsforskning, reduktion af energispild, genbrug af minedriftvarme og åben uddannelse. Vi offentliggør resultater frit uden kommercielt salg eller forudbestillingsaktiviteter."
+    },
+    {
+      "question": "Er Energiemind en kommerciel virksomhed?",
+      "answer": "Nej. Energiemind er et forsknings- og uddannelsesinitiativ. Vi sælger ingen produkter, accepterer ingen forudbestillinger og driver ingen butik. Alle ressourcer tilbydes som en almen god."
+    },
+    {
+      "question": "Hvad er genbrug af minedriftvarme?",
+      "answer": "Genbrug af minedriftvarme opsamler spildtermisk energi fra kryptovaluta- og datacenterudvinding og omdirigerer den til produktive anvendelser som fjernvarme, drivhuslandbrug og vandopvarmning."
+    },
+    {
+      "question": "Hvordan får jeg adgang til forskning og ressourcer?",
+      "answer": "Al offentliggjort forskning, datasæt og uddannelsesmaterialer er tilgængelige gratis i afsnittet Offentlige ressourcer. Ingen konti eller betalingsmure kræves."
+    },
+    {
+      "question": "Hvordan kan jeg samarbejde med Energiemind?",
+      "answer": "Forskere, undervisere og institutioner kan kontakte os på research@energiemind.org for samarbejdshenvendelser. Vi byder akademiske partnerskaber og uafhængig replikering af vores studier velkommen."
+    }
+  ],
+  "articles": [
+    {
+      "headline": "Årlig bæredygtighedsrapport 2024",
+      "description": "Første årsrapport, der dækker missionslancering, indledende forskningspublikationer, partnerskabsudvikling og grundlinjemålinger af miljøet.",
+      "datePublished": "2024-12-15"
+    },
+    {
+      "headline": "Grundlinjestudie af energispild",
+      "description": "Grundlæggende studie, der etablerer metodik og indledende data til kvantificering af industriel energispild i målregioner.",
+      "datePublished": "2024-09-20"
+    },
+    {
+      "headline": "Konsekvensvurdering af genbrug af minedriftvarme",
+      "description": "Fokuseret rapport om casestudier af termisk genvinding, inklusive målte volumener af varmelevering, kulstofudskiftning og måleværdier for samfundsnytte.",
+      "datePublished": "2025-06-01"
+    }
+  ],
+  "internalLinks": {
+    "readIn": "Læs på",
+    "alsoAvailable": "Også tilgængelig på"
+  },
+  "faqSection": {
+    "title": "Ofte stillede spørgsmål"
+  }
+}
