@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "title": "Energiemind — Sostenibilità, Ricerca e Missione Pubblica",
+    "description": "Sito web di missione pubblica per la riduzione dello spreco energetico, il riutilizzo del calore del mining, la ricerca sulla sostenibilità e risorse educative aperte.",
+    "keywords": ["sostenibilità", "riduzione dello spreco energetico", "riutilizzo del calore del mining", "ricerca", "educazione", "clima", "energia rinnovabile"],
+    "ogTitle": "Energiemind — Sostenibilità, Ricerca e Missione Pubblica",
+    "ogDescription": "Promuovere l'efficienza energetica, il riutilizzo del calore del mining e la ricerca aperta sulla sostenibilità per il bene comune.",
+    "twitterTitle": "Energiemind — Sostenibilità, Ricerca e Missione Pubblica",
+    "twitterDescription": "Ricerca e educazione aperte sulla riduzione dello spreco energetico, il riutilizzo del calore del mining e la sostenibilità."
+  },
+  "nav": {
+    "mission": "Missione",
+    "research": "Ricerca",
+    "miningHeatReuse": "Riutilizzo del Calore del Mining",
+    "energyWasteReduction": "Riduzione dello Spreco Energetico",
+    "sustainabilityReports": "Report di Sostenibilità",
+    "education": "Educazione",
+    "publicResources": "Risorse Pubbliche",
+    "contact": "Contatti",
+    "toggleMenu": "Attiva/disattiva menu di navigazione",
+    "mainNav": "Navigazione principale",
+    "language": "Lingua",
+    "selectLanguage": "Seleziona lingua"
+  },
+  "hero": {
+    "badge": "Missione Pubblica · Ricerca · Sostenibilità",
+    "title": "Trasformare l'energia sprecata in conoscenza per un futuro sostenibile",
+    "description": "Energiemind è un'iniziativa aperta di ricerca e educazione focalizzata sulla riduzione dello spreco energetico, il riutilizzo del calore del mining e la documentazione pubblica sulla sostenibilità. Condividiamo liberamente i risultati — nessuna vendita, nessuna prevendita, nessuna agenda commerciale.",
+    "ctaMission": "La Nostra Missione",
+    "ctaResources": "Sfoglia le Risorse"
+  },
+  "mission": {
+    "title": "Missione",
+    "subtitle": "Esistiamo per far progredire la comprensione pubblica dei sistemi energetici e accelerare la transizione verso un'economia energetica sostenibile e priva di sprechi.",
+    "p1": "Energiemind è stato fondato su una semplice convinzione: l'energia che sprechiamo oggi è la conoscenza che non condividiamo domani. Nei processi industriali, nei data center e nelle operazioni di mining di criptovalute, enormi quantità di energia termica vengono rilasciate nell'atmosfera — energia che potrebbe riscaldare case, serre e strutture comunitarie.",
+    "p2": "La nostra missione è documentare, ricercare ed educare. Pubblichiamo risultati aperti, collaboriamo con istituzioni accademiche e forniamo risorse gratuite a decisori politici, ingegneri e cittadini che vogliono capire come i sistemi energetici possano funzionare meglio per le persone e il pianeta.",
+    "principlesTitle": "Principi Fondamentali",
+    "principles": [
+      "Scienza aperta — tutta la ricerca pubblicata per l'accesso pubblico",
+      "Basata su evidenze — dati e metodologia completamente documentati",
+      "Comunità prima — soluzioni progettate per il beneficio locale",
+      "Non commerciale — nessun prodotto, prevendita o canale di vendita"
+    ]
+  },
+  "research": {
+    "title": "Ricerca",
+    "subtitle": "Studi peer-oriented sull'efficienza energetica, i sistemi di recupero termico e l'impatto ambientale dell'uso industriale dell'energia.",
+    "footnote": "Tutta la ricerca pubblicata è disponibile sotto licenze aperte nella sezione",
+    "footnoteLink": "Risorse Pubbliche",
+    "footnoteEnd": ". Accogliamo la collaborazione accademica e la replicazione indipendente.",
+    "cards": [
+      { "tag": "active", "title": "Studi di Fattibilità del Recupero Termico", "description": "Analisi quantitativa del potenziale di cattura del calore nelle infrastrutture di mining, manifattura e computing. Include modelli costi-benefici e casi studio regionali." },
+      { "tag": "active", "title": "Mappatura dello Spreco Energetico", "description": "Ricerca geospaziale che identifica i punti critici di spreco termico industriale e li abbina alla domanda termica vicina — teleriscaldamento, agricoltura e acquacoltura." },
+      { "tag": "published", "title": "Analisi del Carbonio nel Ciclo di Vita", "description": "Valutazioni complete del ciclo di vita che confrontano il riscaldamento convenzionale con il calore industriale recuperato, inclusi carbonio incorporato e fattori di sostituzione della rete." },
+      { "tag": "active", "title": "Revisione del Quadro Normativo", "description": "Analisi comparativa delle politiche nazionali e regionali che abilitano o ostacolano il recupero del calore industriale, con raccomandazioni per gli amministratori pubblici." },
+      { "tag": "planning", "title": "Modelli di Integrazione Comunitaria", "description": "Ricerca socioeconomica su come i progetti di calore recuperato possono essere strutturati per beneficiare le comunità locali in modo equo e trasparente." },
+      { "tag": "published", "title": "Standard di Dati Aperti", "description": "Sviluppo di formati dati standardizzati per la rendicontazione dello spreco energetico e delle metriche di recupero del calore, consentendo confronto e replicazione tra studi." }
+    ]
+  },
+  "miningHeatReuse": {
+    "title": "Riutilizzo del Calore del Mining",
+    "subtitle": "Le operazioni di mining di criptovalute e data center generano un calore di scarto considerevole. Studiamo come questa produzione termica possa essere reindirizzata a un uso produttivo.",
+    "p1": "Le strutture proof-of-work e di calcolo ad alte prestazioni producono calore come sottoprodotto del calcolo continuo. Invece di ventilare questa energia nell'atmosfera, il riutilizzo del calore del mining la cattura per reti di teleriscaldamento, agricoltura in serra, riscaldamento dell'acqua e processi industriali.",
+    "p2": "Energiemind documenta implementazioni reali, misura i guadagni di efficienza e pubblica guide tecniche per operatori e comuni che considerano partnership di recupero del calore. Il nostro lavoro enfatizza la trasparenza su fonti energetiche, impatto sulla rete e beneficio comunitario.",
+    "stats": [
+      { "value": "60–90%", "label": "Potenziale di recupero del calore in sistemi ottimizzati" },
+      { "value": "24/7", "label": "Produzione termica continua dalle operazioni di mining" },
+      { "value": "3×", "label": "Guadagno di efficienza tipico rispetto al calore ventilato" },
+      { "value": "Open", "label": "Tutti i dati dei casi studio documentati pubblicamente" }
+    ],
+    "cards": [
+      { "title": "Architettura Tecnica", "description": "Progettazione di scambiatori di calore, configurazioni di circuiti fluidi e modelli di integrazione per collegare le strutture di mining all'infrastruttura di riscaldamento esistente." },
+      { "title": "Biblioteca di Casi Studio", "description": "Implementazioni documentate nei paesi nordici, nell'Europa centrale e in Nord America — inclusi dati sulle prestazioni, sfide e lezioni apprese." },
+      { "title": "Valutazione Ambientale", "description": "Valutazione onesta dell'impatto ambientale netto, inclusa l'analisi delle fonti energetiche, la dipendenza dalla rete e la metodologia di contabilità del carbonio." }
+    ]
+  },
+  "energyWasteReduction": {
+    "title": "Riduzione dello Spreco Energetico",
+    "subtitle": "Approcci sistematici per identificare, misurare ed eliminare lo spreco energetico nei sistemi industriali e municipali.",
+    "cards": [
+      { "title": "Metodologia di Audit dello Spreco", "description": "Un quadro standardizzato per condurre audit dello spreco energetico nelle strutture industriali. Copre perdite termiche, inefficienze elettriche e modelli di spreco operativo." },
+      { "title": "Sistemi di Monitoraggio Intelligente", "description": "Ricerca su reti di sensori a basso costo e analisi dei dati per il rilevamento dello spreco energetico in tempo reale, consentendo un intervento proattivo prima che le perdite si accumulino." },
+      { "title": "Fattori Comportamentali e Operativi", "description": "Studi su come le pratiche operative, i programmi di manutenzione e la cultura organizzativa influenzano lo spreco energetico — con raccomandazioni attuabili." },
+      { "title": "Prioritizzazione degli Interventi", "description": "Quadri decisionali per classificare i miglioramenti dell'efficienza energetica per impatto, costo e complessità di implementazione — progettati per i vincoli di budget del settore pubblico." }
+    ],
+    "hierarchyTitle": "La Gerarchia dello Spreco",
+    "hierarchySubtitle": "La nostra ricerca segue un ordine di priorità chiaro per affrontare lo spreco energetico:",
+    "stepLabel": "Passo",
+    "hierarchySteps": [
+      { "step": "1", "title": "Eliminare", "desc": "Rimuovere completamente il consumo energetico non necessario" },
+      { "step": "2", "title": "Ridurre", "desc": "Minimizzare l'input energetico per gli output richiesti" },
+      { "step": "3", "title": "Recuperare", "desc": "Catturare e riutilizzare il calore di scarto e i sottoprodotti" },
+      { "step": "4", "title": "Compensare", "desc": "Sostituire la domanda residua con fonti pulite" }
+    ]
+  },
+  "sustainabilityReports": {
+    "title": "Report di Sostenibilità",
+    "subtitle": "Report trasparenti e periodici sul nostro impatto ambientale, i progressi della ricerca e l'impatto comunitario.",
+    "statusPublished": "Pubblicato",
+    "statusInProgress": "In Corso",
+    "availableInResources": "Disponibile in Risorse Pubbliche",
+    "willBePublished": "Sarà pubblicato al completamento",
+    "reports": [
+      { "year": "2025", "title": "Report Annuale di Sostenibilità", "status": "In Progress", "summary": "Revisione completa dei risultati della ricerca, delle metriche energetiche dagli studi sul campo e delle valutazioni d'impatto ambientale di tutti i progetti attivi." },
+      { "year": "2024", "title": "Report Annuale di Sostenibilità", "status": "Published", "summary": "Primo report annuale che copre il lancio della missione, le prime pubblicazioni di ricerca, lo sviluppo di partnership e le misurazioni ambientali di base." },
+      { "year": "2025", "title": "Valutazione d'Impatto del Riutilizzo del Calore del Mining", "status": "In Progress", "summary": "Report mirato sui casi studio di recupero termico, inclusi volumi misurati di consegna del calore, sostituzione del carbonio e metriche di beneficio comunitario." },
+      { "year": "2024", "title": "Studio di Base sullo Spreco Energetico", "status": "Published", "summary": "Studio fondamentale che stabilisce metodologia e dati iniziali per la quantificazione dello spreco energetico industriale nelle regioni target." }
+    ]
+  },
+  "education": {
+    "title": "Educazione",
+    "subtitle": "Materiali didattici gratuiti per studenti, professionisti e comunità che desiderano comprendere i sistemi energetici e la sostenibilità.",
+    "cards": [
+      { "tag": "course", "title": "Introduzione ai Sistemi Energetici", "description": "Corso fondamentale che copre come l'energia fluisce attraverso sistemi industriali, residenziali e municipali — con enfasi sull'identificazione dello spreco." },
+      { "tag": "workshop", "title": "Recupero del Calore per Professionisti", "description": "Materiali di workshop pratici per ingegneri e facility manager sulla progettazione e implementazione di sistemi di recupero termico." },
+      { "tag": "guide", "title": "Alfabetizzazione sulla Sostenibilità", "description": "Guide accessibili che spiegano contabilità del carbonio, analisi del ciclo di vita e report di sostenibilità per pubblici non tecnici." },
+      { "tag": "webinar", "title": "Mining e Politica Energetica", "description": "Discussioni registrate sull'intersezione tra mining di criptovalute, politica energetica e programmi comunitari di recupero del calore." },
+      { "tag": "curriculum", "title": "Materiali per Programmi Scolastici", "description": "Piani di lezione e attività appropriate all'età per educatori K-12 che insegnano conservazione dell'energia e responsabilità ambientale." },
+      { "tag": "toolkit", "title": "Toolkit per Organizzatori Comunitari", "description": "Risorse per gruppi locali che sostengono la riduzione dello spreco energetico e progetti di recupero del calore nei loro comuni." }
+    ]
+  },
+  "publicResources": {
+    "title": "Risorse Pubbliche",
+    "subtitle": "Documenti, dataset e strumenti ad accesso aperto — liberamente disponibili per download, citazione e riutilizzo.",
+    "cards": [
+      { "tag": "dataset", "title": "Atlante dello Spreco Termico Industriale", "description": "Dataset geospaziale che mappa lo spreco termico stimato dalle strutture industriali nelle regioni partecipanti. Aggiornato trimestralmente." },
+      { "tag": "document", "title": "Archivio di Articoli di Ricerca", "description": "Archivio completo di articoli pubblicati, preprint e note tecniche. Tutti i materiali con licenza per uso accademico e pubblico." },
+      { "tag": "tool", "title": "Calcolatore di Recupero del Calore", "description": "Foglio di calcolo e strumento web open source per stimare il potenziale di recupero del calore in base al tipo di struttura, dimensione e domanda locale." },
+      { "tag": "document", "title": "Raccolta di Policy Brief", "description": "Policy brief concisi progettati per legislatori e amministratori pubblici, che riassumono i risultati della ricerca in raccomandazioni attuabili." },
+      { "tag": "dataset", "title": "Standard delle Metriche di Spreco Energetico", "description": "Schema leggibile da macchina e dati di riferimento per la rendicontazione standardizzata dello spreco energetico, consentendo analisi comparativa tra studi." },
+      { "tag": "document", "title": "Glossario e Riferimento", "description": "Glossario completo della terminologia dei sistemi energetici, delle unità e dei fattori di conversione utilizzati nei nostri materiali di ricerca e educazione." }
+    ],
+    "freeTitle": "Tutte le risorse sono gratuite. Nessun account, nessun paywall, nessun acquisto.",
+    "freeDescription": "Crediamo che la conoscenza sulla sostenibilità debba essere un bene pubblico. Le risorse saranno rese disponibili per il download man mano che vengono finalizzate."
+  },
+  "contact": {
+    "title": "Contatti",
+    "subtitle": "Contattaci per collaborazioni di ricerca, partnership educative, richieste dei media o domande generali sulla nostra missione.",
+    "generalInquiries": "Richieste Generali",
+    "researchCollaboration": "Collaborazione di Ricerca",
+    "educationOutreach": "Educazione e Divulgazione",
+    "disclaimer": "Siamo un'iniziativa di ricerca e educazione — non un'entità commerciale. Non vendiamo prodotti, accettiamo ordini in prevendita né gestiamo un negozio. Per richieste dei media, includi la tua pubblicazione e la scadenza nel messaggio.",
+    "formName": "Nome",
+    "formEmail": "Email",
+    "formSubject": "Oggetto",
+    "formMessage": "Messaggio",
+    "formNamePlaceholder": "Il tuo nome",
+    "formEmailPlaceholder": "you@example.com",
+    "formMessagePlaceholder": "Come possiamo aiutarti?",
+    "formSubmit": "Invia Messaggio",
+    "subjects": ["Richiesta generale", "Collaborazione di ricerca", "Partnership educativa", "Richiesta media", "Altro"]
+  },
+  "footer": {
+    "description": "Un'iniziativa di missione pubblica dedicata alla ricerca sulla sostenibilità, alla riduzione dello spreco energetico e all'educazione aperta per le comunità di tutto il mondo.",
+    "explore": "Esplora",
+    "resources": "Risorse",
+    "rights": "Tutti i diritti riservati.",
+    "tagline": "Missione pubblica · Ricerca · Educazione · Nessuna vendita commerciale",
+    "languages": "Disponibile in 25 lingue"
+  },
+  "tags": {
+    "active": "Attivo",
+    "published": "Pubblicato",
+    "planning": "Pianificazione",
+    "course": "Corso",
+    "workshop": "Workshop",
+    "guide": "Guida",
+    "webinar": "Webinar",
+    "curriculum": "Curriculum",
+    "toolkit": "Toolkit",
+    "dataset": "Dataset",
+    "document": "Documento",
+    "tool": "Strumento"
+  },
+  "faq": [
+    { "question": "Cos'è Energiemind?", "answer": "Energiemind è un'iniziativa di missione pubblica dedicata alla ricerca sulla sostenibilità, alla riduzione dello spreco energetico, al riutilizzo del calore del mining e all'educazione aperta. Pubblichiamo liberamente i risultati senza vendite commerciali o attività di prevendita." },
+    { "question": "Energiemind è un'azienda commerciale?", "answer": "No. Energiemind è un'iniziativa di ricerca e educazione. Non vendiamo prodotti, accettiamo ordini in prevendita né gestiamo un negozio. Tutte le risorse sono fornite come bene pubblico." },
+    { "question": "Cos'è il riutilizzo del calore del mining?", "answer": "Il riutilizzo del calore del mining cattura l'energia termica di scarto dalle operazioni di mining di criptovalute e data center e la reindirizza per usi produttivi come teleriscaldamento, agricoltura in serra e riscaldamento dell'acqua." },
+    { "question": "Come posso accedere a ricerca e risorse?", "answer": "Tutta la ricerca pubblicata, i dataset e i materiali educativi sono disponibili gratuitamente nella nostra sezione Risorse Pubbliche. Non sono richiesti account o paywall." },
+    { "question": "Come posso collaborare con Energiemind?", "answer": "Ricercatori, educatori e istituzioni possono contattarci a research@energiemind.org per richieste di collaborazione. Accogliamo partnership accademiche e la replicazione indipendente dei nostri studi." }
+  ],
+  "articles": [
+    { "headline": "Report Annuale di Sostenibilità 2024", "description": "Primo report annuale che copre il lancio della missione, le prime pubblicazioni di ricerca, lo sviluppo di partnership e le misurazioni ambientali di base.", "datePublished": "2024-12-15" },
+    { "headline": "Studio di Base sullo Spreco Energetico", "description": "Studio fondamentale che stabilisce metodologia e dati iniziali per la quantificazione dello spreco energetico industriale nelle regioni target.", "datePublished": "2024-09-20" },
+    { "headline": "Valutazione d'Impatto del Riutilizzo del Calore del Mining", "description": "Report mirato sui casi studio di recupero termico, inclusi volumi misurati di consegna del calore, sostituzione del carbonio e metriche di beneficio comunitario.", "datePublished": "2025-06-01" }
+  ],
+  "internalLinks": {
+    "readIn": "Leggi in",
+    "alsoAvailable": "Disponibile anche in"
+  }
+}
